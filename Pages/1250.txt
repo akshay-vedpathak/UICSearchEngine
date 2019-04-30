@@ -1,0 +1,561 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+          Answers        
+
+
+
+
+
+      Displaying 1 - 8 of 8 answers    
+
+
+
+
+Filter by service  
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Argo Cluster    
+          Backups    
+          Basic Email    
+          Blackboard Collaborate    
+          Box    
+          Classrooms    
+          Computer Labs    
+          Conferencing    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          Identity and Access Management    
+          Instant Messaging    
+          Instructional Technology Lab    
+          Learning Environments    
+          Learning Management System    
+          Lecture Capture    
+          Linux Virtual Servers    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Streaming    
+          Network Data Moves    
+          Network Operations Center    
+          Office 365    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Security    
+          SharePoint    
+          Shell Accounts    
+          Single Sign On    
+          SoftPhone    
+          Software Licensing and Sales    
+          SSL Certificates    
+          Statistical Consulting    
+          Telecommunications     
+          UIC Alert    
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          WebDisks    
+          Webmail    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+
+Tags: , Service: The lack of direct SyncML sync to iCal on the iPhone is because Apple won't let third party software interact with iCal. Synthesis AG got tired of waiting for this to change, and decided to make their own calendar and task application;  is the result.
+There are only two problems:
+
+
+
+Tags: , Service: , There isn't a specific tool to transfer all your data from UICalendar to your Google Calendar, but it is easy to get data from UICal into Google Calendar. You can either:
+
+
+
+Tags: Service: The Oracle Mobile Data Sync, or OMA-DS (formerly known as SyncML), allows you to sync your mobile phone or PDA with a wireless connection directly with the UIC UICalendar server, without connecting it to a PC or Mac and without using your phone or PDA's Web browser. It does require OMA-DS/SyncML support on your mobile phone or PDA -- either built-in or through purchased software. In this case, you enter a specialized URL into SyncML client software. The SyncML client uses the URL to talk to the UICal server and syncs both ways, to the phone or PDA and back to UICal.
+
+
+
+Tags: , Service: The most flexible way to access UICalendar on your iPhone is still to use Safari on the iPhone to use the . However, other ways of using UICalendar from the iPhone are getting a lot better now. By far the easiest way is to import your UICalendar calendar into iCal on the your iOS device. This gives you everything, including alarms. The only thing that is missing is that you can't enter new events on the iPhone and upload them to UICalendar. Importing your UICal calendar into iCal requires at least iOS 3.0.
+
+
+
+Tags: , , Service: You can "import" or "subscribe" your UICalendar calendar into any calendar that supports iCal calendar feeds. You can do this once, to move from UICalendar to another calendaring system, or you can use it just to display your UICal calendar in another calendar program or device.
+
+
+
+Tags: Service: Global Agendas -- Sharing Your UICal Calendar with Anyone. Global Agenda viewing is an option of UICal on the Web that allows you to send a URL to anyone you want -- they do not have to have to have a UICal account and they may not have anything to do with UIC at all -- that will allow them read-only access to a view of the times that you are busy.
+People viewing your Global Agenda Web page will be able to read the text of agenda items that you mark items with the access level of Public. Non-Public items will just appear as "Busy".
+
+
+
+Tags: , Service: The long awaited  has come. SyncML is the best way to sync smartphones and PDAs, but Synthesis SyncML for the iPhone isn't quite finished yet. This is part of an email we received from them:
+To find the application once it appears in the App Store, search for 'Synthesis SyncML'.. [It's in Production.]
+
+
+
+Tags: Service: Faculty and staff can open a UICalendar account on the web using the  web application. For their own calendars, students should use . If a student needs a UICalendar account for another reason, please send an email message to  explaining why and we will create it for them.
+
+
+
+Browse by tag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Choose service  
+          ACCC Extended Laptop Loan (ACCCELL)    
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Automatic Call Distribution     
+          Backups    
+          Blackboard Collaborate    
+          Box    
+          C-stop    
+          Classroom Equipment Lending    
+          Classrooms    
+          Collaboration Tools    
+          Colocation Server Hosting    
+          Computer Labs    
+          Conferencing    
+          Corporate Executive Board    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Endpoint Management    
+          Equipment Lending    
+          Event Logging    
+          Event Support (Audio/Visual)    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          High Performance Computing    
+          Identity and Access Management    
+          Instant Messaging    
+          Learning Design and Development    
+          Learning Environments    
+          Learning Management System    
+          Learning Technology Solutions    
+          Lecture Capture    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Conversion    
+          Media Streaming    
+          Microsoft IIS    
+          Mobile Phones    
+          Multimedia Production    
+          Network    
+          Network Data Moves    
+          Network Filters    
+          Network Operations Center    
+          Network Security Vulnerability Scanner    
+          Office 365    
+          On-Site Support    
+          ONE.UIC    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Recharge Stations    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Secure Computing Environment    
+          Security    
+          SharePoint    
+          Single Sign On    
+          SSL Certificates    
+          StarTel    
+          Surveys    
+          Telecommunications     
+          UIC Alert    
+          UIC Mobile     
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

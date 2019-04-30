@@ -1,0 +1,271 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+
+
+
+          Access Rights in UICalendar        
+
+
+
+
+Access rights control who can see your schedule and send you meeting invitations, and, for advanced users, are used to appoint designates -- Editors, as they are called in the Outlook Connector -- who can manage your schedule for you. 
+By default, no one can see your UICal calendar or Task information or invite you to meetings unless you give them permission to do so, either specifically, by name (if the person has a UICal account), or generically (for everyone who has a UICal account).
+The smallest UICal access permissions that you can give (above none, that is) is that people can see a calendar for you with the times that you are busy marked out. There are higher levels of access that you can give to specific people (who must have UICal accounts), up to and including, full access to edit and manage your UICal calendar and Tasks for you.
+: In order for the "designee" to make use of the designate rights that have been granted, the "designee" must login to his or her personal UICalendar account (using any method -- native client, Web client, or Outlook Connector all work). This is the only way to take advantage of designate rights that have been granted to you.
+If you'll need to share your calendar with people who do not have UICal accounts, turn on your UICal on the Web Global Agenda so you can send them its URL. It's a Web calendar showing your busy times with a link to send email to you.
+You can also allow individual people, groups of people, or everyone with UICal accounts to invite you to meetings.
+Setting Access Rights in the Native Client
+UICal isn't worth much as a collaborative system if you don't share your online schedule with your colleagues or allow at least some people to invite you to meetings. So please take the time to do the following to add access to your calendar to those people who should have it.
+Open the UICalendar client.
+Select Tools > Access Rights... 
+First, you want everyone to be able to invite you to meetings, click the Scheduling tab (Windows) or icon (Macs). Highlight Default: Any unlisted person, and check Can invite you to Entries. Or uncheck it and add any specific people or groups that you want to be able to invite you to meetings.
+Now click the Viewing tab (Windows) or icon (Macs). Use the box at the bottom of the tab to enter a list of specific people to give the viewing rights to.
+Either add the people you want to allow one at a time by typing all or part of their last name and clicking the green check button,
+Or by clicking the magnifying glass search icon (beside the green checkmark), then click Search in the Directory Search dialog box for a list of all UICalendar users. Scroll down the list, highlighting the name of each person you want to add to your access list and click >>Add to add them. Click OK when you're finished.
+Then click on the name of the first person you've added, scroll down to the bottom of the list of added people, then hold down the Shift key and click on the last person's name. This will select all the people you've added.
+Click on No Viewing Rights  to unselect it.
+Click on each of the entries in the View times only column to allow the selected people to see the times of all of your appointments.
+While all the added people are still selected, go through the other tabs in the Access Rights box and select their viewing rights. (I have No viewing rights selected on the Viewing Tasks tab and and Can invite me to Entries selected in the Scheduling tab selected.)
+
+Click OK to accept your changes.
+Giving Additional Access Rights (Native Client): Designate
+Would you like to allow another UICal user to have more access to your calendar and tasks? Then you can appoint them have access to your calendar as your designate. (Note that this has to be a specific UICal user; you can't appoint Default: any unlisted person to be a designate.)
+Select Tools > Access Rights... and click the Designate tab (Windows) or icon (Macs).
+Type the name of the person you want to give rights to into the edit box and click the Checkmark (green check) or use the magnifying glass Search icon search for him/her.
+Click to select the name of the person you want to give additional access to from the list at the bottom of the tab. The name will be highlighted in a blue line.
+Deselect Same as default  (Windows) or Defaults (Macs). (For Windows, the Full designate rights box must also be deselected in order to be able to set specific designate rights.) The default designate rights for all users is No designate rights.
+For each type of Entry -- Meetings, Day Events, Notes, and Tasks -- assign an access level for the person.
+The levels of designate rights are:
+Modify: The designate can create, view, edit and reply to Entries in your name. (You have to select either Modify or None for Normal Meetings, Day Events, and Notes.)
+View/Reply: The designate can view and reply to Entries in your name.
+View times only: The designate can only view the times of your Meetings. The designate will not see Daily Notes or Day Events, as they do not occupy specific blocks of time. This level of designation has to be set on the Viewing tab.
+
+Alternatively, grant the person:
+Full designate rights, which means that the designate can view and modify all Entries.
+No designate rights, which means that the user cannot modify anything in your Agenda.
+
+
+If all the checkboxes for setting Access Rights are grayed out,First, add a user to the list of designates, then
+Select and deselect the No designate rights or the Full designate rights checkbox.
+
+Ada has give me full designate access to her UICal Agenda, as seen in this figure. She also has given me Full viewing rights selected on the Viewing Tasks tab and Can invite me to Entries selected on the Scheduling tab .
+ 
+Using Designate Rights in the Native Application:
+Note:  In order for the "designee" to make use of the designate rights that have been granted, the "designee" must login to his/her personal UICalendar account. Next, click File then Agenda then Open As Designate. This is the only way to take advantage of designate rights that have been granted to you. (You can use any method to login to your UICalendar account, including the native client, the Web client, and Outlook Connector.)
+The calendar's owner logs into the actual departmental calendar account and sets designate rights for you; then,
+You log in to your own UICal account.
+In the native client: File -> Agenda -> Open As Designate.
+Then select the calendar that you want to work with from the list of calendars you have designate rights to and click OK.
+For regular Departmental Event Calendars and Department Resource calendars, you will be able to do everything you need to do editing it this way.
+Setting access rights in the web client
+UICal isn't worth much as a collaborative system if you don't share your online schedule with your colleagues or allow at least some people to invite you to meetings. So please take the time to do the following to add access to your calendar to those people who should have it.
+Click the Access rights  icon -- three people with a key in front of them -- the third icon on the right side of the Toolbar.
+The Edit Access Rights page opens.
+With Default: Any unlisted person highlighted, click the Edit Access Rights button.
+The one permission you might want to give to Default: Any unlisted person is to invite you to meetings; check the Can invite me to Entries box. Click OK.
+Use the User Search box at the top to enter specific people to give the viewing rights to. Add a person you want by typing all or part of their last name and clicking the Find button. The person's name will be added with an asterisk beside it; that indicates that they have the default access permissions (which is none).
+Click on the name of the person you've added.
+Click Edit Access Rights.
+Click Customize on each section of the Viewing  section that you want to give the person specific access rights to.
+Click on each of the entries in the View times only column to allow the person to see the times of all of your appointments. While the person is selected, go through the sections in the Access Rights box and select their viewing rights. Ada has View times only for meetings, events, and notes, the default None for Tasks, and Can invite me to Entries selected under Scheduling selected for Charles.
+Click OK to accept your changes.
+Giving Additional Access Rights (Web Client): Designate
+Would you like to allow another UICal user to have more access to your calendar and tasks? Then you can appoint them as your designate. (Note that this has to be a specific UICal user; you can't appoint Default: any unlisted person to be a designate.)
+Click the Access rights  icon -- three people with a key in front of them -- the third icon on the right side of the Toolbar, and the Access Rights page opens.
+Type all or part of the name of the person you want to give rights to into the box and click the Find button and then select his/her name from the box below and click the Edit Access Rights button.
+Designate rights are at the bottom of the Access Rights window. The default for Designate for Meetings, Day Events, Daily Notes, and for Tasks is None for all levels of confidentiality.
+Click the Customize button for the Designate section. The Designate Access rights have precedence over the Viewing Access rights, so you don't have to set Viewing rights if you're setting Designate rights.
+Select the designate levels that you want for this person. If you want the person to have full access to your calendar and tasks, give them Modify access.
+Don't forget to give everyone the right to invite you to Entries. (If that's what you want. It seems useful to me.) (An x in this box means that the person can already invite you to meetings.)
+Click OK.
+Click Done to return to UICal.
+The levels of designate rights are:
+Modify: The designate can create, view, edit and reply to Entries in your name.
+View/Reply: The designate can view and reply to already existing Entries in your name.
+View times only: The designate can only view the times of your Meetings. The designate will not see Daily Notes or Day Events, as they do not occupy specific blocks of time.
+ 
+
+
+
+
+
+
+Last updated: January 30, 2013
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

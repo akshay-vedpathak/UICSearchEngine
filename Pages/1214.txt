@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+          GoogleApps@UIC Terms of Use        
+
+
+
+
+Revision Date: January 18, 2011Version: 1.00
+	1. Introduction
+The University of Illinois at Chicago ("the University") provides the GoogleApps@UIC Services to support the educational, research, and public service missions of the University of Illinois.
+The University is providing GoogleApps@UIC through a contract with Google. The Services are provided at no cost to authorized Users. Other services offered by Google that are not governed by Google's contract with the University, and the University does not recommend or endorse such services.
+As a condition of using and continuing to use the Services provided, you agree to the terms and conditions of usage stated herein ("Terms of Use"). The University reserves the right to change these Terms of Use and/or the nature or functionality of the Services at any time and at its sole discretion. You are responsible for reviewing these Terms of Use frequently and you are urged you to do so. Your continued use of the Services constitutes your acceptance and agreement to such changes.
+In addition to the terms of use detailed throughout this document you will also be subject to Google's policies, including, without limitation,  and .
+You are urged to review and familiarize yourself with Google's policies applicable to the Google Apps for Educations program.
+
+	2. Intended Users
+Current UIC faculty, staff, and currently registered UIC students are eligible for Google Apps@UIC accounts. Minors under the age of 13, even if they are registered students, will not be permitted to have GoogleApps@UIC accounts.
+
+	3. Applicable Laws and Policies
+You agree that you are solely responsible for content, information, files, or data posted through the provided Services and that you will hold the University of Illinois harmless against any and all claims from third parties regarding content created using your user account.
+Anonymous access and posting to these Services is also forbidden. All Users must accept that their identity will be associated with any content they provide to the site and may be visible to all Users of the Services.
+Collaboration with other Google Apps users, both within and outside the University, is permitted. It is your responsibility to ensure that University intellectual property is protected and to prevent inappropriate file sharing.
+You agree not to use the provided Services intentionally or unintentionally to violate any applicable law. The use of these Services provided by the University is subject to all the policies and regulations of the University of Illinois. The major policy documents for students at UIC can be found at http://vcsa.uic.edu/MainSite/departments/Handbook/Student+Services/.
+
+	4. Proper and Authorized Use
+You may use the GoogleApps@UIC Services for University activities, in accordance with the University's , and the .
+GoogleApps@UIC is intended to support a broad range of communications, teaching, research and other activities supporting the mission of the University. GoogleApps@UIC may not be used to violate academic integrity. The Services may not be used for high risk activities. Professional and appropriate etiquette is required. In particular, all standards of behavior, courtesy, and etiquette that govern vocal and written communications also extend to electronic communications.
+Email communications sent to the email address associated with these Services by the University and/or its agents is considered an official communication to the User of the account. Reading and responding, as appropriate, to these communications is an obligation of using these Services.
+Anonymous access and posting to these Services is forbidden. You must identify yourself as yourself and may not impersonate other users or individuals. You may not share your account with others. Use of accounts for the creation or delivery of mass email (a.k.a. SPAM) is forbidden.
+No individual may use GoogleApps@UIC for commercial or profit-making purposes or other purposes that interfere with, or are contrary to, the mission of the University. The General Rules of the University of Illinois, established by the Board of Trustees, prohibit private use of University property and services. This policy implements the requirement of the Illinois Constitution that "public funds, property or credit shall be used only for public purposes." Additionally, the State Officials and Employees Ethics Act explicitly prohibits the use of University property and resources for political campaign activities.
+Google Apps, and in particular, the email services of Google Apps, should be used with caution, or not at all, for private and sensitive data, some of which are specified below.
+Note that Google will not guarantee that your data, such as email, email attachments, or information placed or stored in Google Apps applications, will reside in the United States. Data or other electronic information (such as software) subject to export controls may not be used within the context of these Services. (See below).
+
+	5. Appropriate Use for Copyright, Private, and Sensitive Data
+
+	Copyright Data
+Use of GoogleApps@UIC accounts to store or transmit copyrighted material such as music or video files is forbidden unless permission has been obtained from the copyright owner. The University's Policy on Sharing Copyright Works can be viewed at http://www.accc.uic.edu/policies/music_piracy.html.
+
+	Family Educational Rights and Privacy Act (FERPA) Data
+In accordance with the University's policy on Confidentiality of Student Records, which can be viewed at http://www.oar.uic.edu/student_records/record_confidentiality.html, the University will not disclose student record information that it maintains except as provided by FERPA. Student data that is protected by FERPA is permitted in the GoogleApps@UIC services, provided that it is shared only with the student and is never made publicly accessible.
+
+	Health Insurance Portability Accountability Act (HIPAA) and Protected Health Information (PHI) Data
+The Heath Insurance Portability Accountability Act, HIPAA, http://www.hhs.gov/ocr/privacy/hipaa/understanding/srsummary.html mandates a level of security and privacy for protected health information (PHI) that cannot be ensured in Google Apps. Therefore, GoogleApps@UIC and the email services in GoogleApps@UIC should not be used to transmit or store or display PHI or any other form of sensitive or private data that must remain confidential by law or regulation or policy.
+
+	Export Controlled Information
+Export controlled information is not permitted in GoogleApps@UIC because the University has no assurance from Google that all GoogleApps@UIC data will be stored on and handled by servers located exclusively in the United States.
+Researchers at UIC must be cautious about export control. U.S. export control laws can apply to work conducted entirely on campus, as well as to research conducted at other locations either in the U.S. or abroad, either by University researchers alone or in collaboration with U.S or non-U.S. researchers. Individuals who violate export control laws are subject to severe criminal and civil penalties. The Council On Governmental Relations, COGR, has information on Export Controls, especially as they apply to research universities such as UIC: http://cogr.edu/Pubs_ExportControls.cfm
+(Access to most of the information on this site requires a free account that the use of your uic.edu email address will automatically allow you to open.)
+
+	6. Privacy, Warranties and Liability
+The University is committed to protecting the privacy of its Users. Towards this end, information about our Users and the content of material communicated with or stored within the University's servers will be governed by these Terms of Use, including in particular the University of Illinois's Web Privacy Notice that may be viewed at http://www.vpaa.uillinois.edu/policies/web_privacy.asp. You should be aware that the information posted to these GoogleApps@UIC Services may be visible to all other Users of these Services. While some controls exist that allow you to restrict visibility, the University makes no warranties about the function of these controls and cannot be held liable should these controls fail.
+The views and opinions expressed by the Users of GoogleApps@UIC do not necessarily state or reflect those of the State of Illinois Government, the University of Illinois, or the University of Illinois at Chicago. Please be aware that we do not control or guarantee the accuracy, relevance, timeliness or completeness of the information expressed by Users of these Services.
+
+	7. Administration of the Service
+In accordance with the Express Consent that you provided at the end of this document, the University of Illinois at Chicago may access your account for administrative and other purposes (such as, but not limited to password resets, compliance with University policies, and other rules governing these Services, including the investigation of security incidents). This right extends to any information stored within the account. This may require Google to disclose to the University any information stored within the account including email, or other files of any kind or type. Users of these Services will be notified of account access.
+The University may invoke the above policies to enforce these Terms of Use. The University may at any time suspend or terminate your account without any cause or notice to you and, in such an event, information may no longer be accessible or may be deleted.
+
+	8. External Content
+The University does not assume responsibility, nor can be held accountable, for non-University links or the contents or information of those links. This extends to your use, or losses incurred by your use, of those links or the information they contain.
+
+	9. Appropriate Use
+While the University does not routinely monitor appropriate use by individuals, the University will respond to complaints or other notifications of inappropriate use. Use of these Services is a privilege, not a right, and such use may be suspended or terminated by the University when, in its judgment, these Terms of Use have been violated by the User.
+Notifications of inappropriate use should be made to .
+
+	10. Acceptance of Terms
+By clicking the checkbox below you acknowledge that you have read and accepted these Terms of Use. Since the University may change these Terms of Use at any time in our sole discretion, it is your responsibility to review these Terms of Use frequently and we urge you to do so. Individuals, who subsequently decide they wish to end this account, should communicate that information to the ACCC CSO, consult@uic.edu.
+
+	11. Express Consent
+You hereby agree and provide your express consent that the University of Illinois at Chicago may release the necessary directory information to Google to allow your GoogleApps@UIC account to be created. You further agree and provide your express consent that the University of Illinois at Chicago may access your account once created for administrative and other purposes such as password resets and compliance with University policies governing this Service. This may require Google to disclose to the University of Illinois any information stored within the account including e-mail, or other files of any kind or type. By selecting "I agree" below, you hereby explicitly agree to all of the terms in this document.
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

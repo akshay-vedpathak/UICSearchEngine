@@ -1,0 +1,509 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+          What is the difference between POP and IMAP?        
+
+
+
+
+Tags: , Service: POP and IMAP are two different protocols, or ways of accessing your email account. The main difference between them is that:
+By default, IMAP stores messages on the server.
+By default, POP downloads messages to your computer or device and deletes them from the server. 
+ACCC strongly recommends using IMAP:
+Most UIC faculty, staff and students access their email accounts from multiple computers and devices, IMAP is designed to retain messages on the server so that they remain accessible to multiple email clients and devices.
+With IMAP, you can store messages in email folders, which accessible from any email client or device that uses IMAP. POP can only access your Inbox.
+With IMAP, you can configure different email clients (Webmail, Mozilla Thunderbird, iPhone, Android) to use the same special folders (Sent Messages, Drafts, etc.) so that the draft of a message composed in your desktop email client can be finished and sent from your mobile client.
+While POP has an option to leave mail on server (LMOS), it is essentially imitating IMAP. If you prefer to leave a copy of messages to be accessible to other clients and devices, simply use IMAP. If you use IMAP and prefer to keep a local copy of all messages, check the configuration of your email client to keep copies of messages for offline viewing.
+Need help?
+
+
+ Basic Email 
+   
+
+ G Suite (formerly Google Apps) 
+ Email
+
+Phone
+312-413-0003
+ 
+  
+
+Last updated: April 23, 2013
+
+
+Browse by tag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Choose service  
+          ACCC Extended Laptop Loan (ACCCELL)    
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Automatic Call Distribution     
+          Backups    
+          Blackboard Collaborate    
+          Box    
+          C-stop    
+          Classroom Equipment Lending    
+          Classrooms    
+          Collaboration Tools    
+          Colocation Server Hosting    
+          Computer Labs    
+          Conferencing    
+          Corporate Executive Board    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Endpoint Management    
+          Equipment Lending    
+          Event Logging    
+          Event Support (Audio/Visual)    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          High Performance Computing    
+          Identity and Access Management    
+          Instant Messaging    
+          Learning Design and Development    
+          Learning Environments    
+          Learning Management System    
+          Learning Technology Solutions    
+          Lecture Capture    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Conversion    
+          Media Streaming    
+          Microsoft IIS    
+          Mobile Phones    
+          Multimedia Production    
+          Network    
+          Network Data Moves    
+          Network Filters    
+          Network Operations Center    
+          Network Security Vulnerability Scanner    
+          Office 365    
+          On-Site Support    
+          ONE.UIC    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Recharge Stations    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Secure Computing Environment    
+          Security    
+          SharePoint    
+          Single Sign On    
+          SSL Certificates    
+          StarTel    
+          Surveys    
+          Telecommunications     
+          UIC Alert    
+          UIC Mobile     
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

@@ -1,0 +1,488 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here
+
+
+
+          Email, Calendar and Communications        
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ is a suite of tools used for communication and collaboration. It includes Gmail, Google Drive, Google Sites, Google Groups and Google Calendar.
+Audience: , , ,   
+
+
+
+
+
+ 
+
+ACCC provides Exchange email as a premium email and calendaring service available to faculty and staff. This premium service ensures a flawless integration with Outlook enhancing your management of calendar, email, contact, task, and note integration. Exchange has superior speed with large mailboxes, and much more up-to-date and functional web interface. Mobile computing is made easy with native support for Windows Mobile smart phones. Mobile devices are supported by using Exchange Active Sync, available on all major mobile manufacturers (Apple, Android, Windows, BlackBerry).
+We currently provide the cloud based version of Exchange, which is known as Exchange Online.  All newly hired employees are automatically provisioned with Exchange Online accounts.
+Audience: , , , ,  ,  ,   
+
+
+
+
+
+ 
+
+ is an online file sharing and cloud content management service that works on PCs, Macs, mobile and tablet devices and provides access to your files from any location for collaboration with other University users or external parties.
+Audience: , , , ,  ,  ,   
+
+
+
+
+
+ 
+
+ is a calendar and scheduling tool that allows users to manage and coordinate appointments, events, and tasks on the web or any CalDav compliant client. 
+Audience: , , ,   
+
+
+
+
+
+The ACCC provides a personal University email address to all current students, staff and faculty. The email address is in the format NetID@uic.edu and can be used in conjunction with any of the email services provided by the ACCC (, and ), or  to an existing non-University email address.
+Audience: , , , ,   
+
+
+
+
+
+The UIC Directory is an  of current UIC students, faculty and staff. The Directory also includes a complete listing of .
+Audience: , , , , ,   
+
+
+
+
+
+ 
+
+A listserv email list is an email-based list of subscribers, which can be used as a discussion group, a distribution list or a group or campus unit email address.
+Audience: , , ,  ,   
+
+
+
+
+
+Centrex is the name of the legacy telephony system that has been used on campus for about the past 20 years.  The Board of Trustees has mandated that the contract for this system will not be renewed when the current contract extension expires in July 2020. Certain applications on campus will still need to be maintained on Centrex but a very small number of lines will continue to be maintained.
+Audience: , , ,   
+
+
+
+
+
+ is an optional free service that allows UIC officials to send text messages to your mobile phone or any text message capable device in the case of a campus emergency.
+Audience: , , ,  
+
+
+
+
+
+Blackboard Collaborate Web Conferencing is a virtual learning environment to facilitate real-time online learning. This Web conferencing system is accessed through Blackboard Learn and empowers Blackboard Learn instructors and TAs to create individual (and repeat Web Conferencing sessions) on their own with out requesting a session to be created or activated. 
+Audience: , , ,  
+
+
+
+
+
+ 
+
+ACCC runs multiple servers on campus that allow users to conduct communications in the form of telephony over the data network. This system was implemented in an effort to migrate users off of the legacy Centrex based system. The system allows users to take advantage of many of the advanced features of Unified Communications.
+Audience: ,  
+
+
+
+
+
+The  was developed to post Events and Classified Ads electronically via the Web. It makes it easy to post brief items on the Web, and, if you wish, to send a one line summary of the item to the audience who will be most interested in it.
+Audience: , , , ,   
+
+
+
+
+
+ 
+
+The UIC Mobile App is available as a free download from the Apple store for iOS or from Google Play for Android. There is also a mobile version of the app available at . Students, faculty, staff, alumni, prospective students, and anyone interested in learning more about UIC can use this app to stay connected while on the go.
+Audience: , , , , , ,  ,   
+
+
+
+
+
+ 
+
+Massmail is a type of bulk email message sent to current UIC students, faculty or staff who are subscribed to Massmail.  Content of the messages is restricted to events on campus or events sponsored by campus units. 
+Audience: , ,  
+
+
+
+
+
+UIC offers two options for instant messaging, Blackboard Instant Messenger and Jabber. Below you will find the details of each option as you choose the best communication tool for your needs. 
+Blackboard Instant Messenger (formerly known as Pronto) is a free instant messaging and voice chat tool that allows students and instructors to spontaneously meet live, online at any time to discuss their coursework. Blackboard Instant Messenger works with Blackboard Learn to automatically populate students' contact lists with their classmates' names, thereby making it easy for students, faculty and teaching staff to spontaneously collaborate live online. Blackboard Instant Messenger can also be used as a regular modern Instant Messenger, outside of Blackboard on Windows and Mac systems.
+Jabber is an open source instant messaging system available to all UIC students, faculty and staff. Jabber client software is available for all the , including tablets and smartphones.
+Audience: , , ,  
+
+
+
+
+
+The ACCC offers a set of tools that users can use to create and collaboratively share information. 
+Audience: , , ,  
+
+
+
+
+
+ 
+
+ACCC provides a centralized platform for campus units to establish departmental digital signage. The portal is centrally managed by the ACCC and Industry Weapon is the company who provides the service on the cloud. Departments that purchase this service can manage and upload content from anywhere.
+Audience: , , , ,  ,  ,  ,  ,   
+
+
+
+
+
+ACCC handles the management and administration of cell phone and mobile data plans centrally contracted through the state of Illinois.
+Audience: , ,  
+
+
+
+
+
+ACCC administers several systems that allow for telephones on campus to have voicemail.  We run multiple systems in support of the various different types of phones such as VoIP and legacy analog phones (Centrex).
+Audience: , ,  
+
+
+
+
+
+Several services are available to support and enable users to make telephone calls on campus.  Currently the ACCC maintains systems for legacy analog phones and phones using voice over IP technology. In support of calls services are provided for conference calls and operator services.
+Audience:  
+
+
+
+
+
+Each student Residence Hall room is provided with at least one telephone line. A ResPhone Account and password enables you to direct-dial off campus for domestic and international service.
+Audience: , ,  
+
+
+
+
+
+The ACCC offers several methods for departments or individuals to send mass communication. Tools are available for standard informational messages to be send to a variety of audiences. 
+Audience: , , ,  
+
+
+
+
+
+ACCC offers Web Conferencing solutions through , , and .
+Hosting Meeting Places
+Blackboard Collaborate 
+Cisco Webex
+Google Hangouts
+Who Can Host
+Faculty
+Staff & Faculty
+Everyone
+Audience: , , ,  
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+Choose service  
+          ACCC Extended Laptop Loan (ACCCELL)    
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Automatic Call Distribution     
+          Backups    
+          Blackboard Collaborate    
+          Box    
+          C-stop    
+          Classroom Equipment Lending    
+          Classrooms    
+          Collaboration Tools    
+          Colocation Server Hosting    
+          Computer Labs    
+          Conferencing    
+          Corporate Executive Board    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Endpoint Management    
+          Equipment Lending    
+          Event Logging    
+          Event Support (Audio/Visual)    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          High Performance Computing    
+          Identity and Access Management    
+          Instant Messaging    
+          Learning Design and Development    
+          Learning Environments    
+          Learning Management System    
+          Learning Technology Solutions    
+          Lecture Capture    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Conversion    
+          Media Streaming    
+          Microsoft IIS    
+          Mobile Phones    
+          Multimedia Production    
+          Network    
+          Network Data Moves    
+          Network Filters    
+          Network Operations Center    
+          Network Security Vulnerability Scanner    
+          Office 365    
+          On-Site Support    
+          ONE.UIC    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Recharge Stations    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Secure Computing Environment    
+          Security    
+          SharePoint    
+          Single Sign On    
+          SSL Certificates    
+          StarTel    
+          Surveys    
+          Telecommunications     
+          UIC Alert    
+          UIC Mobile     
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+Service Categories
+
+
+
+
+Choose category  
+          Accounts and Passwords    
+          Business Tools    
+          Email, Calendar and Communications    
+          Facilities and Equipment    
+          Help    
+          Learning Tools    
+          Networking    
+          Research    
+          Security  
+
+
+
+ 
+ 
+
+
+
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

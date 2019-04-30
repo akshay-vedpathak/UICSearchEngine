@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+
+
+
+          Phishing        
+
+
+
+
+Phishing is the term used to refer to email that is sent to you by someone trying to get information from you. That is, they are "fishing" for information. Phishers are often looking for account credentials -- usernames and passwords, banking information, credit card numbers, or or other identity information. When someone provides this information by replying to a phishing email or clicking on a link and submitting a form, the phishers can use it to authenticate as that person, access their email and send spam. 
+ACCC has monitors that look for stolen accounts. When the monitors detect a stolen account, the account is suspended.
+Recognizing phishing
+Phishing messages tends to sound threatening and demand that you "confirm" your credentials or something bad will happen (you will lose your account). Often the From email address and the Reply-To email address in a phishing email are different. Sometimes they will include link to a form where you will be asked to supply your credentials, and the URL will be outside of the uic.edu domain. 
+Beware of messages that:
+ask you to reply with your UIC NetID and password
+ask you to click a link in order to verify your account
+threaten to suspend service unless you reply with your password or click a link
+UIC will never ask you for your password by email, phone, or in person.
+For examples of Phishing messages please visit our .
+For Security Education, Awareness and News.
+
+ 
+
+
+
+
+
+
+Last updated: September 21, 2016
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

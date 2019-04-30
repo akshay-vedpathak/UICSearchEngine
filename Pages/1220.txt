@@ -1,0 +1,178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+      Displaying 15 of 33 answers    
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+          Learning Management System        
+
+
+
+
+Category: , Audience: , , Overview Blackboard Learn is a web application that allows the creation, administration, tracking, and delivery of digital content via course sites. This type of application is also referred to as a Learning Management System or LMS. At UIC, Blackboard Learn course sites are used in three main ways:
+for the enhancement of face-to-face instruction,
+as an important component of content delivery for blended courses, and
+as a core element delivering and assessing learning in online courses. 
+Features With Blackboard Learn, instructors can:
+Create or upload text, audio, video, and interactive content for students to access online. Content can be added using Blackboard Learn tools or using third party software that integrates with Blackboard. You should always  to all students. Below are the most common sources of content:
+Text, audio, or video directly added into a content area using the Blackboard Learn .
+Screen capture and lecture capture content via 
+Multimedia content via the Blackboard Learn 
+Interactive content using  
+Recorded webinar content using 
+Slides, documents, quiz questions, and other resources from  that publishers make available as part of textbooks
+
+Communicate, interact, and collaborate with students via course announcements, email, discussion board threads, blog posts, wiki pages, and other .
+Assess concept mastery through the use of , , and other tools that enable instructors to record and assess students’ work in a variety of ways. A  column is created automatically when an assessment is created, and grades are populated as instructors grade assignments. The Grade Center can be configured to  in the format required for the  module.
+Learn more about Blackboard by watching  (video, 2:19).
+Course site creation
+The Learning Technology Solutions (LTS) group creates course sites for most CRN-related courses, as reflected in the course catalog 60 days prior to the start of every semester. Sites are made unavailable to students by default and instructors determine when to make their . Course site shells are created without course menu items so that instructors can easily copy a course into the clean shell or add to it to suit their teaching preferences and needs.
+Instructors can , or they can copy the content by themselves from any course site that is listed under their teaching assignments. If an instructor does not have a course to copy, they can build a custom site by adding their own course menu items. View the video (2.59) " for further instructions. In addition instructors can  to be imported into their course site. This is a a pre-designed course site supplied by LTS based on best practices for online, blended and enhanced courses.
+In special situations, instructors may need to . Additionally, any staff from UIC can .
+Faculty assignments and student enrollments
+Student enrollments and faculty assignments are handled automatically by the system. We encourage instructors to wait 48 hours for new student enrollments to be reflected in their course sites. Adding students manually in courses should be handled with caution as, after the drop period, all student enrollments added manually may only be removed manually from courses that they have dropped.
+Students
+Whether you’re just beginning your first course with Blackboard Learn or have used it before and need a refresher, check out the Student Resources section located in the portal’s top menu after you have logged in. In the student organization, you will find valuable tips for working in your Blackboard course, checking your computer, frequently asked questions, and tutorials.
+Note that even though any UIC instructor may use Blackboard Learn, not all instructors develop a course site to make available to students. Contact your instructor if you expect to see a course site for a course that is not listed in your My Courses or My Courses Plus in Blackboard Learn.
+Faculty
+Visit the Faculty/Staff Resources section located in the top menu after you have logged in for useful information about how to use Blackboard Learn. You will find , tools tutorials, upcoming , and important information about  regarding course copies, course availability, and managing your files.
+Requirements To , students, faculty and staff must use their  (do not append @uic.edu after the NetID) and . Simply  to  and access your course sites.
+ used with Blackboard Learn must have Java and Javascript enabled, cookies and third-party cookies enabled, and pop-up blocker disabled. Firefox and Google Chrome are the recommended web browsers.
+Blackboard Weekly Scheduled Maintenance Window
+There is never a good time to have a major service like Blackboard taken down for necessary maintenance. However, regular maintenance procedures require that the system be taken offline. For this reason,  Learn has a scheduled weekly maintenance window on Friday mornings from 1:00 am (CST) to 5:00 am (CST).  It is highly recommended that any online tests, quizzes, assignments, etc., take into consideration the weekly maintenance window.
+Cost There is no charge for this service.
+Support Email
+
+Phone
+312-413-0003 Option 1
+In person
+
+ 
+Further Information ACCC Service Level Agreement (SLA)
+Service Request Fulfillment Time
+
+Under 2 business days, unless in-person training/discussion is required, or escalation to the vendor is required.
+
+Incident Resolution Time
+
+Under 2 business days unless escalation to the vendor is required.
+
+Service Availability
+24x7
+Maintenance Window(s)
+Weekly maintenance window: Friday, 1:00am - 5:00am

@@ -1,0 +1,420 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+      Displaying 15 of 43 answers    
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+          Exchange        
+
+
+
+
+Category: Audience: , , , Overview ACCC provides Exchange email as a premium email and calendaring service available to faculty and staff. This premium service ensures a flawless integration with Outlook enhancing your management of calendar, email, contact, task, and note integration. Exchange has superior speed with large mailboxes, and much more up-to-date and functional web interface. Mobile computing is made easy with native support for Windows Mobile smart phones. Mobile devices are supported by using Exchange Active Sync, available on all major mobile manufacturers (Apple, Android, Windows, BlackBerry).
+We currently provide the cloud based version of Exchange, which is known as Exchange Online.  All newly hired employees are automatically provisioned with Exchange Online accounts.
+Features  
+Exchange Online
+Cost
+Free
+High availability
+99.9% reliability built in and managed by Microsoft
+Storage
+50 to 100 gigabyte mailboxes
+Location
+Microsoft data centers located within the US
+Encryption
+Coming soon! Availability will be based on departmental business requirements.
+Anti-spam/anti-malware
+Exchange Online Protection (EOP)  provides inbound and outbound spam filtering, reporting, message trace, multi-engine anti-malware and anti-virus features.
+Security, privacy and
+			regulatory compliance
+ and  compliant.
+Requirements Any user who does not already have an Exchange Online account can self-provision one through the  (authentication required).
+Applicability ACCC only provides support regarding the provision of an account, any problem aside from that (i.e. how to setup, migrate email, etc.) should be directed to your departmental IT staff. If you do not have a departmental IT staff, we can offer assistance by setting up a service call. Service call are $175/hour with a minimum of a 1 hour charge.
+Supported email clients include:
+Outlook 2016 for Windows or Mac (Microsoft Office 2016 is available for free from the  for UI-owned computers)
+Outlook 2013
+Outlook 2010
+Outlook 2011 for Mac (available for free from the  for UI-owned computers)
+ with Internet Explorer 10+
+Important notes: By default, all resource calendars, shared calendars, shared mailboxes, and distribution lists only work within the ACCC Exchange environment. If you need it to be accessible outside of the ACCC Exchange environment, please include it in the request.
+Cost There is no additional cost for Exchange. It is included in the basic services bundle under the .
+Support Email
+
+Phone
+312-413-0003
+ 
+Further Information Please note: We do not provide support for mobile devices. These instructions are provided as a courtesy for our users. It is recommended that you perform a backup/sync of your device prior to performing any configuration change.
+
+
+
+
+
+
+ACCC Service Level Agreement (SLA)
+Service Request Fulfillment Time
+
+2 business days.
+
+Incident Resolution Time
+
+1 business day.
+
+Service Availability
+24x7
+Maintenance Window(s)
+Approved ACCC maintenance window(s):  
+			When necessary, Tuesday nights from 10:00pm to 5:00am.
+Service Notification Channel(s)
+
+ACCC News and Alerts: 
+			REACH distribution email list.
+
+Reviewed to Ensure SLA Meets Business Requirements
+
+Provisional SLA - Currently under IT Governance review.
+
+Date Reviewed
+
+Provisional SLA - Currently under IT Governance review.
+
+Tag: 
+
+ 
+
+
+
+
+
+
+
+
+Choose service  
+          ACCC Extended Laptop Loan (ACCCELL)    
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Automatic Call Distribution     
+          Backups    
+          Blackboard Collaborate    
+          Box    
+          C-stop    
+          Classroom Equipment Lending    
+          Classrooms    
+          Collaboration Tools    
+          Colocation Server Hosting    
+          Computer Labs    
+          Conferencing    
+          Corporate Executive Board    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Endpoint Management    
+          Equipment Lending    
+          Event Logging    
+          Event Support (Audio/Visual)    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          High Performance Computing    
+          Identity and Access Management    
+          Instant Messaging    
+          Learning Design and Development    
+          Learning Environments    
+          Learning Management System    
+          Learning Technology Solutions    
+          Lecture Capture    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Conversion    
+          Media Streaming    
+          Microsoft IIS    
+          Mobile Phones    
+          Multimedia Production    
+          Network    
+          Network Data Moves    
+          Network Filters    
+          Network Operations Center    
+          Network Security Vulnerability Scanner    
+          Office 365    
+          On-Site Support    
+          ONE.UIC    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Recharge Stations    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Secure Computing Environment    
+          Security    
+          SharePoint    
+          Single Sign On    
+          SSL Certificates    
+          StarTel    
+          Surveys    
+          Telecommunications     
+          UIC Alert    
+          UIC Mobile     
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+Service Categories
+
+
+
+
+Choose category  
+          Accounts and Passwords    
+          Business Tools    
+          Email, Calendar and Communications    
+          Facilities and Equipment    
+          Help    
+          Learning Tools    
+          Networking    
+          Research    
+          Security  
+
+
+
+ 
+ 
+
+
+
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

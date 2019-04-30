@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+> >>> (2015-06-01, Main.pnowak5)EA 
+
+
+
+JSDC 2015
+
+ 2015 Summer News 
+
+ CCTV Camera World 
+ Semi-Autonomous Upgrade with Pattern Recognition Camera 
+
+For the 2015 Jerry Sanders Design Competition our robotics team was presented with the challenge of manipulating a set of various objects in a controlled field. In order to do so the team re-designed a robotic arm that was up to the challenge.
+
+The team also decided to switch from the previous shoulder mounted control system to something entirely different in the hopes of creating a more intuitive and robust system that would also be more modular. Our software team decided to program a gaming controller in order to manipulate our robotic arm. While this provided us with more flexibility as far as modifying our controller layout versus having a fixed controller, it did not fully address our issue of having intuitive controls and we were left with the question of how we could improve our control system further. 
+
+
+
+   2015 Arm Skeleton
+
+
+ 
+
+Making our competition robot even semi-autonomous had previously been limited by the cost of the technology that is required. This included a camera that had high resolution capabilities and fast data transfer.
+
+
+
+But because of our new high resolution  5 megapixel IP cameras from  CCTV Camera World, IEEE @ UIC Robotics is now up to the challenge of creating a semi-autonomous arm controller.
+
+The type of cameras we need for the object recognition must be sophisticated, powerful, and have the ability to  capture and stream a lot of visual information as quickly as possible.
+
+ 
+
+5 Megapixel IP Camera 1
+
+
+Through the implementation of this semi-autonomous system, the user’s job becomes much easier. All that is required of the user is to drive up to an object and then the autonomous portion of the control system detects the object and picks it up instead of the user having to fine tune the arm positioning in order to pick up the object. A semi-autonomous implementation like this completely addresses the team’s concern with intuitive controls.The cameras obtained from CCTV Camera World are exactly what we needed, offering up to 2592x1944 pixel recording at 10 fps!
+
+ Although video output from these cameras is meant to be for a security video recorder, we were able to modify it for our use. Using software from  123 CCTV we were able to convert the proprietary video stream in to a open source RTSP stream accessible by our software.
+
+
+
+Utilizing such a system consists of the camera sending information about the robot’s surroundings to an onboard computer in order to determine if there are objects of a specific shape within reach of the arm. If there are, the camera then helps gather data required for the arm to automatically pick up the object on its own.
+
+
+  
+ IEEE UIC Robotics TEAM 
+ WELCOME BACK EVERYONE! 
+
+ 
+
+ Announcements 
+
+ Regular Robotics Meetings on Wednesdays and Fridays at 6pm (Spring 2016 Semester) 
+Our current Robotics Team Captain - Jeff Groenhof - is hosting regular meetings every Wednesday and Friday starting at 6pm in either our office (SEO 1308) or in the conference room down the hall (SEO 1325). Everyone is welcome to come by even if you just want to observe. 
+
+ Regular Robotics Meetings on Tuesdays and Wednesdays at 5pm (Fall 2015 Semester) 
+Our current Robotics Team Captain - Jeff Groenhof - is hosting regular meetings every Tuesdays and Wednesdays starting at 5pm in either our office (SEO 1308) or in the conference room down the hall (SEO 1325). Everyone is welcome to come by even if you just want to observe. 
+
+ Regular Robotics Meetings on Tuesdays and Thursdays at 5pm (Spring 2015 Semester) 
+Our current Robotics Team Captain - Andy Klyuka - is hosting regular meetings every Tuesday and Thursday starting at 5pm in either our office (SEO 1308) or in the conference room down the hall (SEO 1325). Everyone is welcome to come by even if you just want to observe.
+
+ Regular Robotics Meetings on Thursdays at 5pm (Fall 2014 Semester) 
+Our current Robotics Team Captain - Andy Klyuka - is hosting regular meetings every Thursday starting around 5pm in either our office (SEO 1308) or in the conference room down the hall (SEO 1325). Everyone is welcome to come by even if you just want to observe.
+
+ First Robotics meeting of the semester (Sept 19th, 2013, Thursday, 11pm to 12pm @ SEO 1325) 
+Telemetry team meeting will be at 5pm the same day. Slasher Meetings will start Tuesday, Sept 24th at 4pm. Anyone is welcome to attend.
+ First Robotics meeting of the semester (Jan 30th , 2013, Wednesday, 5pm to ~6pm @ SEO 1325) 
+
+Telemetry team/ robot control meeting on Tuesday, 29 Jan at 5pm. Will be going over the Team Slasher Motor controller and connecting it to our Arduino. Also want to discuss connecting a PS3 controller to an Arduino.
+
+--ppn
+
+ Third Robotics meeting of the semester (November 5th, 2012, Monday, 4pm to ~6pm @ SEO 1325) 
+
+Motor Driver Circuit meeting this Monday (11/5/12) at SEO 1325, we will be talking about generating the correct signals for the Mosfets and bjts. Also there will be a quick intro to Bipolar Junction Transistors and Mosfets. If time permits we will be moving towards importing schematics to Ultiboard to define the board layout.
+
+Everyone is welcome!
+
+--ppn
+
+
+
+ Second Robotics meeting of the semester (October 18th, 2012, Thursday, 4pm to ~6pm @ SEO 1308) 
+
+This meeting will be on motor drivers. Specifically prototyping the logic and introduction to Multisim. Location will be specified in a little bit. Please bring breadboards, breadboard wires and 7408(And gate) and 7404(not gate), 4 leds, (4) 220 Ohm resistors, and (2) 10K resistors if you have them.
+
+Everyone is welcome!
+
+--ppn
+
+
+ First Robotics meeting of the semester (September 17th, 2012, Monday, 4pm to ~6pm @ SEO 1308) 
+Everyone is welcome!
+
+
+
+ Last IEEE meeting of the semester (April 18th, Wednesday, 5pm @ SEL4055) 
+ After the meeting we will watch a movie.
+
+As always, there will be free food!
+
+
+
+ Programming a Robotic Car - one of FREE CS Courses at udacity.com 
+Here is an email I received recently that I would like to share:
+
+"Beginning April 16, Udacity will be offering four new courses, in addition to re-offering  and . We are excited to have phenomenal instructors teaching these courses. Read through the descriptions below and enroll today! 
+
+All classes are available for enrollment at Peter Norvig will help students develop good taste as programmers by learning how to identify elegant solutions to problems.Taught by Reddit.com and Hipmunk.com co-founder Steve Huffman, this course will cover the things he wish he would have known when starting his websites while he teaches students to build a blog. Wes Weimer, Professor at the University of Virginia, will teach students about programming languages in the context of building a web browser. Students will learn to understand HTML and javascript from the inside out by writing a program that understands them.Udacity Professor David Evans will teach students the mathematical foundations behind cryptography and see how it is used to solve problems in computing. It's all about making and breaking puzzles!All 200-level classes are good follow-ups to CS101 or the equivalent. CS387 requires some additional math background, but does not expect any programming beyond CS101. See you in class!Thank you,Udacity"
+
+Posted: 4/15/2012 by Thomas Juocepis (Robotics Captain)
+
+
+ Awards 
+ Best Design - 2012 Jerry Sanders Design Competition
+
+ 
+
+ Attachments  Attachments   
+Topic attachments
+
+ I 
+ Attachment 
+ Action 
+ Size 
+ Date 
+ Who 
+ Comment 
+
+
+ jpg 
+  
+  
+ 1863.2 K 
+ 2015-04-01 - 00:10 
+  
+   
+
+
+ jpg 
+  
+  
+ 161.3 K 
+ 2012-04-07 - 03:18 
+  
+   
+
+ 
+E | A | P | H: r14         | B | R | w | MTopic revision: r14 - 2015-06-01 - 17:21:52 - Main.pnowak5
+
+
+ 
+ 
+
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+   
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright 2016 The Board of Trustees of the University of Illinois.
+      
+
+
+

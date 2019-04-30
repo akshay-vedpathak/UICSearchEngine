@@ -1,0 +1,587 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+          Syncing Mobile Devices with UICalendar using Oracle Mobile Data Sync         
+
+
+
+
+Tags: Service: The Oracle Mobile Data Sync, or OMA-DS (formerly known as SyncML), allows you to sync your mobile phone or PDA with a wireless connection directly with the UIC UICalendar server, without connecting it to a PC or Mac and without using your phone or PDA's Web browser. It does require OMA-DS/SyncML support on your mobile phone or PDA -- either built-in or through purchased software. In this case, you enter a specialized URL into SyncML client software. The SyncML client uses the URL to talk to the UICal server and syncs both ways, to the phone or PDA and back to UICal.
+If you have a compatible PDA or smartphone, this is definitely the way to go for syncing. It works much better than a wired sync client and doesn't tie you down to syncing with one personal computer, whether Mac or Windows. In fact, you can sync from anywhere you can get a suitable wireless connection.
+Will your phone or device work?
+Yes, it will if it (1) supports OMA-DS/SyncML natively or (2) there is commercial SyncML client software available for it. This is an old product, but there .
+There are a number of cell phones that support SyncML services natively. For Palm, Windows Mobile, PocketPC, and SmartPhone devices, either wireless PDAs or cell phones, there is third-party SyncML software by a company called Synthesis AG. We've successfully tested a Windows Mobile phone and a Palm PDA with a wireless network connection using the $25 Synthesis SyncML Client STD. For Blackberries, there is a SyncML client called SyncJe from Nexthaus.
+Synthesis SyncML Client STD: 
+You want the For Mobile Device Users section. There is a 30-day free trial offer so you can try before you buy.
+Be certain you are downloading the client that matches your phone or PDA. Choosing the right client can be tricky with Microsoft products, which has rebranded its operating system several times. Some clarity can be found at the .
+The Synthesis SyncML client comes with a short PDF manual that explains how to set it up and use it.
+Note about backing up your data when using Synthesis SyncML: You can still back up your Palm device on your personal computer using HotSync. However, Oracle does not recommend attempting to back up your Pocket PC using ActiveSync if you use Oracle Connector for Outlook. Doing so may result in unexpected behavior, including loss of data.
+Blackberry
+Important Note added September, 2009: There is a new version of Nexthaus SyncJE, Version 3.2.4. There are a number of problems with this version when used with Oracle Calendar. Do not use SyncJE Version 3.2.4 with UICal. If you have version 3.2.4 of SyncJE installed on your device, remove it and reinstall version 2.4.7.
+SyncJE Version 2.4.7 can be directly downloaded to the device by pointing the Blackberry browser to: 
+There is now a SyncML client that both Oracle and other universities say supports Blackberries: . Like SyncML, SyncJe has a trial period, 15 days, that you can use it without charge, before you have to purchase a license. For instructions on how to install it, please consult .
+Configuring the Blackberry for use with Oracle Mobile Data Sync, from Oracle's .
+Select SyncJe Client , then Settings... from the main menu.
+Enter the following details:
+The Server URL: http://uical.uic.edu/ocst-bin/ocas.fcgi 
+		Check this over carefully; we've had a number of people ask for help when the only thing they did wrong was type the URL incorrectly. It's very easy to do.
+Your Userid and Password: your NetID and ACCC common password
+Contacts, Calendar and ToDos; see also the info in How To Set Up the Connection. Be sure to check the blue boxes to select the folder names you enter.
+Contacts Foldername: ./Contacts
+Calendar Foldername: ./Calendar/Events
+ToDo Foldername: ./Calendar/Tasks
+
+After the initial sync, select AutoSync
+Every nn
+and select a unit -- hour, day, or month
+
+After the initial sync, select Sync events between:
+days before sync date: mm
+days after sync date: ll
+
+Communication protocol: The choices are WAP, MDS or BIS; we recommand using WAP.
+If your carrier is Verizon, select WAP and leave the WAP gateway blank.
+If you use another carrier then it may be necessary to set a specific gateway. Check out .
+
+Leave HTTP User Name and HTTP Password blank.
+Timeout, minutes: 3
+Support Email: is set to Nexthaus by default
+Select Skip saving attendees -- it is very important to check this with out new Calendar Server. If you don't, you will spam everyone in your event calendar.
+
+Sending a mass of email out every night at midnight? Go back and make sure that you have Skip saving attendees selected. This is a Blackberry "feature" that became active with the new version of our calendar server.
+Confused about MDS, BIS, and WAP? Here's an explanation: "There is only one Browser application on the BlackBerry. How it behaves depends on which Service Books you have been sent by RIM or your BES (Blackberry Enterprise Server). Your browser can be MDS (BES), PMDS (BIS-B), and WAP (1.2, 1.2 secure, 2.0) but when you click an icon for any of these in the Ribbon, the BlackBerry will refer to a ServiceBook to see how to handle the data. For example, MDS goes to your BES and uses your company Internet connection, PMDS (BIS) goes through RIM's Internet connection, and WAP is supplied by the carrier." From , accessed 09-16-2008.
+iPhones and iPads?
+This isn't the way to go with iOS devices; see 
+How To Set Up the OMA-DS/SyncML Connection (Information for all manner of phones or PDAs)
+Once you have SyncML available, you need to set it up to talk to the UICalendar Oracle Calendar server. This is the info that you need:
+URL:
+http://uical.uic.edu/ocst-bin/ocas.fcgi 
+If your device supports SSL -- Oracle page:  says whether your device does --
+try: https://uical.uic.edu/ocst-bin/ocas.fcgi
+Check this over carefully; we've had a number of people ask for help when the only thing they did wrong was type the URL incorrectly. It's very easy to do.
+Contacts:
+./Contacts
+Events:
+./Calendar/Events
+Tasks (ToDo):
+./Calendar/Tasks
+Though sometimes Events and Tasks are synced together, and it's:
+./Calendar
+Notes:
+I looked through all of the Oracle install information, and didn't see any paths for Notes; it appears that syncing Notes is not supported yet.
+Userid and Password:
+Your UIC NetID and ACCC common password, as usual.
+To specify the date range of the sync:
+./Calendar?/dr(-7,14): Synchronizes events and tasks seven days in the past to 14 days in the future.
+./Calendar/Events?/dr(-30,60): Synchronizes events 30 days in the past to 60 days in the future.
+To specify whether events outside the date range are deleted:
+./Calendar/Tasks?/dr(-30,60)/del(false): Synchronizes tasks from 30 days in the past to 60 days in the future, but does not remove tasks outside this range from the device
+./Calendar/Events?/dr(-30,60)/del(true): Synchronizes events 30 days in the past to 60 days in the future, and removes events outside this range from the device.
+We have had at least one person tell us that he decreased the sync range and it removed events outside the range by default. So if you are changing the sync range and don't want to lose the other events, put in del(false) just to be safe.
+This is an old product, but there .
+Accept or decline meetings
+Your device uses several symbols to display the status of meetings. To change your status for a meeting, edit the meeting by changing the symbols listed below, then synchronize your device. Remember that once you decline a meeting and synchronize your device with the server, the declined meeting will be removed from your device.
+[*]: This symbol may precede the ?, + and - symbols on your device and indicates a meeting you did not create. This symbol will not appear next to meetings you have created yourself.
+[?]: This symbol indicates a meeting you have not accepted or declined.
+[+]: This symbol indicates a meeting you have accepted.
+[-]: This symbol indicates a meeting you have declined.
+Customize conflict resolution
+By default, if an entry has been modified on both the server and the device, the server entry overwrites the device entry. To configure your device to overwrite an entry on the server in the case of a conflict, append the text /cr(x) to the appropriate URI on your device. Set x to 2 to have the entry on the device prevail, or set x to 1 to have the entry on the server prevail. For example:
+./Calendar?/cr(2) 
+Modified events or tasks on the device overwrite modified events or tasks on the server.
+./Calendar/Events?/cr(1) 
+Modified events on the server overwrite modified events on the device.
+./Calendar/Tasks?/cr(2)
+Modified tasks on the device overwrite modified tasks on the server.
+./Contacts?/cr(2)
+Modified contacts on the device overwrite modified contacts on the server.
+More Information
+This is an old product, but there , including a FAQ
+	 
+Safely resetting data on your device: Occasionally, data on your device may become lost, duplicated, or corrupt. This explains how to safely reset your device to clean corrupt information resulting from technical difficulties or problems encountered when synchronizing in different time zones or after a Daylight Savings clock change.
+Delete the extra or incorrect data on your devic. In some cases, it is easier just to clear all data from the device. Obviously, this isn't necessary if you are just missing information.
+Perform a "slow" synchronization with the server. In a slow synchronization all records on the devise are synchronized. In a regular sync, only the records that have been changed are synced.
+	This returns device data to a "clean" state.
+And this page has more specific information about specific devices: . Go to the Getting Started page, find your device, and look at the information for your device in the Review Device Limitations link. There are some significant restrictions in some instances. (For example, see the Warning below.)
+Be sure to make a backup of any existing data your PDA/Phone by whatever means possible (Hotsync, Activesync, specific phone-provider instructions, etc.) before attempting any type of sync with UICalendar.
+Warning for people using Synthesis SyncML clients:
+Synchronization of monthly and yearly recurring events is not supported if the events were created in Oracle Connector for Outlook. And Synchronization of daily recurring weekdays is not supported. I have yearly day events that were created in Outlook Connector that were already on my Clie, and they are still on my Clie after syncing several times with Synthesis SyncML. If you are having problems with duplication with Synthesis SyncML, see . The gist of its advice is to avoid slow syncs.
+
+There is no way that the ACCC can test all of these phones, so you are pretty much on your own except that we can open a problem ticket with Oracle if a need arises. Send email to  if you've carefully followed the instructions and are still having problems. (Check to make sure you've typed the URL correctly and have entered the paths correctly.)
+See the  for more information.
+Need help?
+
+
+ UICalendar 
+ Email
+
+Phone
+312-413-0003
+ 
+  
+
+Last updated: September 21, 2016
+
+
+Browse by tag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Choose service  
+          ACCC Extended Laptop Loan (ACCCELL)    
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Automatic Call Distribution     
+          Backups    
+          Blackboard Collaborate    
+          Box    
+          C-stop    
+          Classroom Equipment Lending    
+          Classrooms    
+          Collaboration Tools    
+          Colocation Server Hosting    
+          Computer Labs    
+          Conferencing    
+          Corporate Executive Board    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Endpoint Management    
+          Equipment Lending    
+          Event Logging    
+          Event Support (Audio/Visual)    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          High Performance Computing    
+          Identity and Access Management    
+          Instant Messaging    
+          Learning Design and Development    
+          Learning Environments    
+          Learning Management System    
+          Learning Technology Solutions    
+          Lecture Capture    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Conversion    
+          Media Streaming    
+          Microsoft IIS    
+          Mobile Phones    
+          Multimedia Production    
+          Network    
+          Network Data Moves    
+          Network Filters    
+          Network Operations Center    
+          Network Security Vulnerability Scanner    
+          Office 365    
+          On-Site Support    
+          ONE.UIC    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Recharge Stations    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Secure Computing Environment    
+          Security    
+          SharePoint    
+          Single Sign On    
+          SSL Certificates    
+          StarTel    
+          Surveys    
+          Telecommunications     
+          UIC Alert    
+          UIC Mobile     
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

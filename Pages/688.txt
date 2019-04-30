@@ -1,0 +1,222 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+  
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+Summer in the City
+Whether you’re already enrolled at UIC or you attend another university, use the flexibility of summer at UIC to achieve your goals.
+
+Lighten your fall or spring course load
+Stay on track to graduation
+Study with nationally recognized faculty
+
+Choose from over 230 courses. Enroll in the 4-week session, 8-week session, or both. And after class you’ll be close to work or play in the heart of the city.
+
+
+2018 Courses
+See what . 2019 info will be available in December.
+Get email alerts
+ to be notified when the 2019 summer application and course information is available.
+
+
+
+2019 Key Dates
+4-Week Session: May 20 – June 14
+8-Week Session: June 17 – August 9
+Summer Tuition and Fees
+Check out the per credit hour rate for  (2019 rates will be available in January).
+Things to Do in Chicago
+Check out the list of .
+
+
+
+
+
+
+
+
+
+
+
+ 
+Have a question? Chat live with Summer Session Staff!
+
+
+
+
+
+
+
+
+
+
+
+ UIC in the summer 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Links
+
+
+
+
+
+
+  Loading
+
+
+
+
+Have a question? Give us a call, we can help!
+312-996-9099
+
+ 
+2016 University of Illinois at Chicago
+
+
+
+
+
+
+
+
+php
+function display_analytics() {
+?
+
+
+

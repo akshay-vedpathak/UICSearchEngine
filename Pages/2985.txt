@@ -1,0 +1,131 @@
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jason Polakis
+
+Assistant Professor, Computer Science
+
+
+
+
+
+
+
+
+
+Biography
+
+I am an Assistant Professor in the  at the .
+I received my B.Sc. (2007), M.Sc. (2009), and Ph.D. (2014) degrees in Computer Science from the 
+while working as a research assistant in the  at FORTH.
+Prior to joining UIC, I was a postdoctoral research scientist in the Computer Science Department
+at , and a member of the Network Security Lab.
+More information is available in my .
+
+ I’m looking for excited and motivated students to work with.  Information for PhD applications at UIC can be found .
+
+Research
+My research interests span several areas of security and privacy. In the past
+few years I have focused on understanding the security limitations of online
+social networks and web services, exploring the privacy threats that users
+face, and designing robust countermeasures. I’m also interested in the
+shortcomings of authentication mechanisms and the robustness of bot-prevention
+mechanisms. Ultimately my research focuses on better understanding the Web’s
+threat landscape and securing users.
+Teaching
+ENGR 194: Intro to CyberSecurity : Fall 2017, 
+CS 377: Communication and Ethical Issues in Computing : Spring 2017 
+CS 594: Security and Privacy in the Age of the Social Web : Fall 2016, Spring 2018
+Contact
+Email:  
+Phone: (312) 413-2442 (email is preferred)
+Office: SEO 1239 
+Mailing address: 851 S. Morgan St. MC 152 
+Chicago, IL 60607-7053, USA 
+
+
+
+
+
+
+
+
+
+
+Email me
+
+
+
+Twitter
+
+
+
+Google Scholar
+
+
+      Jason Polakis
+       • 
+      2018
+
+      
+
+      
+      
+
+
+      Theme by
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

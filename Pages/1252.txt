@@ -1,0 +1,507 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+          Using Synthesis AG's Todo+Cal+Sync iPhone application        
+
+
+
+
+Tags: , Service: The lack of direct SyncML sync to iCal on the iPhone is because Apple won't let third party software interact with iCal. Synthesis AG got tired of waiting for this to change, and decided to make their own calendar and task application;  is the result.
+There are only two problems:
+Because it doesn't use iCal on the iPhone, it doesn't alarm you to let you know when events are happening.
+Like SyncJe, Todo+Cal+Sync handled my 'Day Events' incorrectly; it created a new copy on the previous day each and every time it is synced. If you are concerned with Daily Events or Daily Notes, it's not advised to use this software.
+Oh, and it has a third problem also, it is $14.99.
+Two display quirks:
+You can only get to the Sync screen from the Day, Week, and Todo views, by tapping the double arrow equal-sign Sync icon in the upper left of the screens.
+There are links on the  page to PDF files with info on how to use the product. The two-page Short Reference is useful; there are lots of stuff on each Todo+Cal+Sync screen. To enter the settings you need to go to the Sync page (Day or Todo view, tap the double-arrow equal-sign icon in the upper left), then tap Settings at the bottom.
+Settings -> Server Settings -> Server, URL: https://uical.uic.edu/ocst-bin/ocas.fcgi
+Settings -> Server Settings -> Server, SymcML version: SymcML 1.1
+Settings -> Server Settings -> Server, Ignore SSL errors: I have this ON; it works for me.
+Settings -> Server Settings -> Server Login, User: your UIC NetID, and Password:, your ACCC common password
+Settings -> Contacts, Sync Mode : Slow Sync the first time, Normal after that
+Settings -> Contacts, Server Path: ./Contacts
+Settings -> Todos, Sync Mode : Slow Sync the first time, Normal after that
+Settings -> Todos, Server Path: ./Calendar/Tasks
+Settings -> Calendar, Sync Mode : Slow Sync the first time, Normal after that
+Settings -> Calendar, Server Path: ./Calendar/Events
+And I suggest that you do turn the Date Range Limit ON and select a reasonable range to sync. The sync will fail if you try to sync too much at a time.  Tap Done.
+Need help?
+
+
+ UICalendar 
+ Email
+
+Phone
+312-413-0003
+ 
+  
+
+Last updated: September 21, 2016
+
+
+Browse by tag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Choose service  
+          ACCC Extended Laptop Loan (ACCCELL)    
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Automatic Call Distribution     
+          Backups    
+          Blackboard Collaborate    
+          Box    
+          C-stop    
+          Classroom Equipment Lending    
+          Classrooms    
+          Collaboration Tools    
+          Colocation Server Hosting    
+          Computer Labs    
+          Conferencing    
+          Corporate Executive Board    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Endpoint Management    
+          Equipment Lending    
+          Event Logging    
+          Event Support (Audio/Visual)    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          High Performance Computing    
+          Identity and Access Management    
+          Instant Messaging    
+          Learning Design and Development    
+          Learning Environments    
+          Learning Management System    
+          Learning Technology Solutions    
+          Lecture Capture    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Conversion    
+          Media Streaming    
+          Microsoft IIS    
+          Mobile Phones    
+          Multimedia Production    
+          Network    
+          Network Data Moves    
+          Network Filters    
+          Network Operations Center    
+          Network Security Vulnerability Scanner    
+          Office 365    
+          On-Site Support    
+          ONE.UIC    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Recharge Stations    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Secure Computing Environment    
+          Security    
+          SharePoint    
+          Single Sign On    
+          SSL Certificates    
+          StarTel    
+          Surveys    
+          Telecommunications     
+          UIC Alert    
+          UIC Mobile     
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

@@ -1,0 +1,400 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+
+
+
+          Oracle Calendar Outlook Connector        
+
+
+
+
+Oracle Calendar Outlook Connector allows you to use Outlook 2003 or 2007 to manage your UICalendar database.
+Oracle Calendar Outlook Connector is not supported in Outlook 2010 or any later versions of Outlook. Do not install it or you may be prevented from accessing your e-mail or calendar. There are also reports of it not working properly in Windows 7 with Outlook 2007.
+Should You Use the Outlook Connector?
+If you use Outlook in a "stand-alone" mode (all data is located on your PC and you do not access a Microsoft Exchange Server), then Outlook Connector can be used to connect Outlook with the UICalendar server, and you can Oracle Outlook Connector using the instructions in this Web page.
+If you use Outlook to access your email and calendar on a Microsoft Exchange server but you do not cross-schedule with others, you should be able to install Outlook Connector using these instructions.
+If you use Outlook to access a Microsoft Exchange Server and you do cross-schedule with a small group (3-4 others), and if the entire group is interested in the possibilities of switching to UICalendar Outlook Connector, please send mail to  and we'll try to assist you. Note that we have not yet attempted this (the ACCC does not run Exchange), so you will be helping us to explore this area, which could eventually lead to monetary savings for departments that use Exchange.
+Requirements
+Operating Systems
+Newer Windows Operating Systems
+	Note: Administrator privileges are required to install Oracle Connector for Outlook.
+Disk Space
+200 MB minimum
+	Hard disk usage varies according to configuration. Custom installation options may require more or less hard disk space. The amount of online data the user accesses may also affect the disk space requirement.
+Memory
+Refer to the RAM requirements of your Microsoft Outlook client.
+Microsoft Outlook
+Microsoft Outlook 2000 with Service Pack 3 (SP3), Microsoft Outlook 2002 with Service Pack 3 (SP3), Microsoft Outlook 2003 with Service Pack 2 (SP2), and Outlook 2007 with Service Pack 1 (SP1) at this time. Other Service Packs may work, so says Oracle.
+New this Version
+Support for POP3 mail service.
+Notes:
+
+Native Language version or Multilingual User Interface (MUI) Pack is required for non-English version localization.
+To ensure the best possible performance of Oracle Connector for Outlook, install the latest Microsoft Office service packs
+
+Conduits for PDA Synchronization
+
+ActiveSync
+4.1 for Pocket PC devices
+4.2 or 4.5 for Windows Mobile 5 and Windows Mobile 6 devices
+Note: ActiveSync 4.5 only supports Outlook XP or later.
+
+Windows Mobile Device Center (WMDC) for Windows Vista
+6.1 or 6.2 for Windows Mobile 5 and Windows Mobile 6 devices
+Note: WMDC 6.1 for Vista only supports Outlook 2003 or later.
+
+iPhone Synchronization
+OutlookSyncClient with iTunes 7.4.2.4 or 7.7.0.43 or 7.7.1
+Note: Some limitations such as I) modified recurring meeting instances (exceptions) from iPhone is not synchronized back to OCFO, and II) new recurring meetings created from iPhone does not get synchronized with Outlook (with or without OCFO).
+Note: iPhone could only be synched with Outlook 2003 or higher using iTunes. This is an iPhone sync requirement. iPhone 3G device update 2.0 or higher is recommended.
+
+PocketMirror 3.1.6 to 4.1.x
+Note: Chapura PocketMirror is used with Palm Desktop and Palm HotSync to synchronize with Palm devices.
+
+Palm Desktop 4.1.4 'Extended version' to synchronize directly between Oracle Connector for Outlook and Palm devices.
+Blackberry Desktop Manager (BDM) 3.6.0 to 4.1.1.x
+Note: Versions after 3.6.0 require the "Oracle Connector BBDM Patch 1.1" to synchronize with BlackBerry devices. BDM version 4.2 or higher is not supported due to changes made in the BDM software.
+
+
+Preinstallation Requirements
+A supported Microsoft Outlook version must be installed on a supported platform.
+	 
+Windows 2000, XP, and Vista require you to have administrative privileges on your computer in order to install Oracle Connector for Outlook.
+	 
+Outlook 2000 must be installed in the Corporate or Workgroup (CWG) mode. To verify your Microsoft Outlook configuration, click the Tools menu and select Options, then Mail Services, then Reconfigure Mail Support.
+	 
+To avoid losing information, Oracle recommends that you synchronize your offline folders before upgrading.
+	 
+You must reinstall Oracle Outlook Connector when you upgrade Outlook itself. 
+Download and Install
+Downloads for all the Oracle Calendar clients, including the Outlook Connector, are on a single Web page: .
+1. Export Your Current Outlook Data
+Before you install the Outlook Connector, you have to export your current Outlook data into an Outlook .pst file so you can import it back into the Outlook Connector after you install it.
+Open Outlook and select File > Import and Export
+Select Export to a file and click Next>
+Select Personal Folder File (.pst) and click Next>
+Select Outlook Today or Personal Folders -- whatever you normally need to do to get Outlook Today form your to calendar display -- and click Include subfolders and click Next>.
+ 
+Select a local disk for the the copy to be written onto and a unique filename, say copymove.pst and click Next>
+Select a unique folder name for the copy, so you'll be able to recognize it in Outlook; say, Copy to move, and click OK.
+A progress box will open. If you have a complicated Outlook calendar, it can take a long, long time to export your data, so have patience. It might appear to be stalled, even, but wait a while; it might not be. It will say that it's exporting your Calendar, your Notes, etc.
+You might want to open it in Outlook when you're done just to make sure it worked out OK:File > Open > Personal Folders File (PST)... or Outlook Data File... in Outlook 2002/XP and 2003
+A file open dialog box opens; find the file that you just created (the file name you selected in step 5), and select it.
+It will open in Outlook with the Name you selected in step 6 as the heading. In older Outlooks, click little down arrow by the name to open the folder list. Click the + to open and check the various Outlook folders to make sure everything is there. In Outlook 2003, be sure to also compare the Calendars.
+
+2. Download and Install Oracle Outlook Connector
+Close Outlook if open.
+Go to  page above and click on the download link to download the Oracle Outlook Connector Installer.
+Click on download link for Outlook Connecter.Either save the file to your disk and double-click on downloaded file, or
+Open the file.
+
+Click Next> on the Welcome screen.
+Enter your name and organization on the Customer Information screen, then click Next>.
+Choose the location for the Outlook Connector software to be installed on the Destination Folder screen, then click Next>.
+The next screen allows you to add support for different languages. Select any that you may want and click Next>.
+Click Install on the Ready to Install screen.
+The next screen shows the progress of the installation; click Next> when it's finished.
+On the Installshield Wizard Completed screen, click Finish.
+3. Configure Oracle Outlook Connector
+Double-click on the Oracle Connector Configuration Wizard icon on your desktop.
+Click Next> on the Welcome screen.
+Click New.... In the New Profile dialog box, type a name such as Outlook Connector in the box, then click OK.
+Click Next>.
+Fill in the boxes on the Services Settings screen:.
+Server name: uicalendar.uic.edu 
+
+
+Account Name: your NetID, so Ada Byron Lovelace would put in adabyron
+
+Password: enter your ACCC common password.
+Mail Incoming Server Name: Ada gets her email on an ACCC server, so this is mail.uic.edu
+Mail Account Name: your NetID, if your account is on a UIC server. (It doesn't have to be.) Ada's is: adabyron
+Outgoing Server Name (SMTP): mail.uic.edu
+Select IMAP4 or POP3 for Incoming mail server type. Of course mail.uic.edu does both POP and IMAP; you can choose whichever you want. IMAP is best if you read your email from multiple locations; also the ACCC recommends IMAP.
+Display Name: is your name as you want it on your email messages: Ada Byron Lovelace
+E-mail Address: is the return address to be used on your email messages; Ada's is: adabyron@uic.edu
+Because Ada is using an ACCC server for her email and for the SMTP server, as well as UICalendar, she can click Use same password for all servers; all three use her ACCC common password.
+Assuming you are setting this up on your own computer, you may want to click Remember server passwords.
+
+We have to work a bit with the email settings.Click the More Settings button.
+On the Incoming Mail tab, General settings, Secure Server Connection Settings, click SSL. The Server Port will automatically change to 993 (IMAP) or 995 (POP), which is what we want.
+If you are using an ACCC email account, on the Incoming Mail tab, Mapping settings, enter the following:
+Drafts: mail/Drafts
+Sent Items: mail/Sent Items
+Deleted Items: mail/Deleted Items
+Junk E-mail: mail/Junk E-Mail
+		These move the Outlook default folders into your mail directory, which is where are your other mail folders are. This will allow you to see these folders in Webmail and whatever other email programs you use. It is important.
+If you are using the ACCC's mail.uic.edu outgoing email server, then on the Outgoing Mail tab, General settings, Secure Server Connection Settings, click SSL and change the Server Port to 465.
+If you are using the ACCC's mail.uic.edu outgoing email server, then on the Outgoing Mail tab, Authentication settings, click The server requires authentication and enter your NetID and password in the User name: and Password: boxes. If you checked Remember server password  on the main page, it will be checked and greyed out here also.
+Take a look at the other tabs and settings; you might want to set one or another, but this is all that you must set.
+Click OK.
+
+Then click Next> and Finish and you're done installing the Outlook Connector.
+You can't change anything to do with the Oracle Connector configuration within Outlook. You can go to the Accounts section in the Control Panel
+Make sure Outlook and Oracle Connector are closed.
+Start > Control Panel > User Accounts (Vista) or Start > Settings > Control Panel (Windows XP)
+Select Mail.
+E-mail Accounts... > Oracle Connector for Outlook (Vista)
+	or E-mail Accounts > View or Change Existing Accounts > Next >  > Oracle Connector for Outlook > Change  (Windows XP)
+Which brings you to the Service Settings screen. (Step 5 above.)
+4. Import Your Outlook Data
+Now is the moment of truth -- you open Outlook. If Outlook doesn't open -- and it might not -- go back to  and make sure that all the info there, including your passwords, if you put them in there, are correct.
+After you get into Outlook, you'll find that it's empty, but don't panic. You still have everything in Copy for Moving. If your first try to bring it back fails, you can try again, because you'll still have Copy for Moving.
+Open Outlook. If it doesn't open without errors, go back to  and make sure that all the info there, including your passwords, if you put them in there, are correct.
+With your Oracle Outlook Today open, select File > Import and Export...
+In the Import and Export Wizard, select Import from another program or file, and click Next>.
+On the Import a File screen, select Personal Folder File (.pst), and click Next>.
+On the Import Personal Folders screen, use the Browse button to find the Copy to move personal folders file you exported in  and select it. The other options at the bottom are concerned with what to do with duplicates; you won't have any duplicates, so they won't matter, so you can keep the default, replace duplicates with items imported. Click Next>.
+Select the Copy to move  folder to import from (the name you selected in Part 1 above), select Include subfolders, and click the radio button by Import items into the same folder in: and select Oracle - Your Name from the dropdown list. (These should all be the defaults.) Click Finish and wait a long time again.
+Four Miscellaneous Tasks
+Picking the Default Personal Folder File
+If your UICalendar info isn't the default data -- that is, if the Outlook Today that opens when you open Outlook doesn't show you UICal data, you need to use the E-Mail settings to fix it. Here's how to do it for Windows 2000, Outlook XP:
+Close Outlook.
+Start > Settings > Control Panel > Mail
+Click the E-mail Accounts button.
+On the E-Mail Accounts window, there is a dropdown list at the bottom left labeled Deliver new e-mail to the following location:
+	Select your Oracle Outlook account from the list. (Not very obvious, is it?)
+Click: Finish > Close
+When you log back into Outlook; Outlook Today will have your UICal data in it and UICal will be your default info.
+Setting Up to Use the mail.uic.edu Authenticated Outgoing SMTP Email Server
+This is for version 10.1.3, which is the current version as I add this. There is no particular reason to expect that it will work in other versions of Outlook Connector. If you find out that the instructions are out-of-date, please let us know at .
+Close Outlook.
+Start > Settings > Control Panel > Mail
+Click the E-mail Accounts button.
+View or Change Existing E-mail Accounts
+Click Next.
+Select Oracle Connector for Outlook.
+Click Change....
+For Outgoing mail (SMTP): use mail.uic.edu
+Click More Settings....
+On the Outgoing Mail tab:
+With the Settings pulldown set to General :
+Set Secure Server Connection Using to SSL and Server Port  to 465.
+With the Settings pulldown set to Authentication :
+Check The server requires authentication and
+Fill in the NetID and password boxes.
+
+Subscribing to Mailboxes
+Also, you might have to subscribe to the mailboxes of the email account that you selected for UICal. I say might because the most recent version subscribes to them for you. You're more likely to have to unsubscribe some random files than have to subscribe mailboxes
+Here is how to do it for Outlook XP:
+Open Outlook. Click on Folders in the Navigation Pane.
+Tools > IMAP4 Folders > Subscribe/Unsubscribe .
+Highlight a folder/mailbox you want to subscribe to (to be useable in Outlook), and right-click and select Show. On the other hand, if Outlook has subscribed to a lot of stuff that isn't mailboxes, highlight them and right-click and select Hide.
+When I was testing this, Outlook subscribed Ada's mailboxes properly by itself. All I had to do was...
+Click OK when you are finished.
+Setting the Date Range for the Calendar
+Is the Outlook connector only showing you two weeks into the past and into the future?
+That's the default date range. Having to set a date range for the calendar in Outlook isn't something you used to have to do, but it's a bug in the newer versions that you do. Here is how.
+Here is how to do it Oracle Calendar 10.1.2 with Outlook 2003 and Oracle Calendar 10.1.3 and Outlook 2007 (however for 10.1.3, the defaults are two weeks back and two years into the future).
+Open Outlook.
+Tools menu > Options... > Oracle Connector tab
+Click the Calendar Options... button (at the top)
+Select Display Range from the Settings dropdown list.
+Select the date range that you want in the Display my Calendar folder box.
+Click OK then OK.
+You may have to restart Outlook for the changes to take place; I didn't with Outlook 2003.
+And here is how to do it for Oracle Calendar 10.1.2 with Outlook XP and Windows XP:
+Close Outlook.
+Start > Settings > Control Panel > Mail
+Click the E-mail Accounts button.
+Click View or Change Existing
+Select Oracle Connector.
+Click Change.
+Select the Startup tab.
+Be sure Enable offline agenda is checked.
+Click OK, Finish, Close, etc. to exit and close the Control Panel.
+Then open Outlook again.
+Open Outlook.
+It should now ask you if you want to Connect or Work Offline. Select Connect.
+Right-click on the calendar icon of folder in the navigation pane.
+In the right-click menu, select Properties.
+Select the Synchronization tab.
+Click the Filter button.
+On the Appointments and Meetings tab, set the number of weeks in the past and the future that you want to see.
+Click OK, and so on, to close the Properties.
+ 
+
+
+
+
+
+
+Last updated: September 21, 2016
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

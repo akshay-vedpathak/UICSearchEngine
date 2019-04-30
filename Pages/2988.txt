@@ -1,0 +1,58 @@
+
+
+Ouri E. Wolfson 
+
+Professor
+Biographical sketch:Ouri Wolfson's main research interests are in 
+database systems, distributed systems, and 
+mobile/pervasive computing. He received his B.A. degree in mathematics, and his 
+Ph.D. degree in computer science from Courant Institute of Mathematical 
+Sciences, . He is currently 
+the Richard and Loan Hill Professor of  at the , 
+and an Affiliate Professor in the . 
+He is the 
+founder of Mobitrac, a high-tech startup 
+that was acquired by Fluensee Co. in 2006; and the founder and president of Pirouette Software Inc. which specializes in 
+mobile data management.
+He served as a consultant to Argonne National Laboratory, US Army 
+Research Laboratories, DARPA, and 
+NASA. 
+Before joining the University of Illinois he has been on the computer 
+science faculty at the Technion and Columbia University, and a 
+Member of Technical Staff at Bell Laboratories.
+Ouri Wolfson authored over 200 publications, and holds seven patents. He is a  a  a  
+and a University of Illinois Scholar for 2009. 
+He co-authored six award winning papers,
+and 
+served as a  
+during 2001-2003.
+Wolfson was the keynote and distinguished  
+speaker at leading conferences and universities, e.g., 
+the 2012 International Conference on Mobile Data Management (MDM), and
+Peking University (2012).
+Ouri Wolfson serves on the editorial boards of several journals, and chaired leading conferences. Most recently he was 
+the
+general chair of the  ,
+and the general co-chair of the 2013 Mobile Data Management (MDM) conference.
+His research has been funded by the 
+National Science Foundation (NSF), Air Force Office of Scientific Research (AFOSR), Defense 
+Advanced Research Projects Agency (DARPA), NATO, US Army, NASA, the New York State Science and 
+Technology Foundation, Hughes Research Laboratories, 
+Informix, Accenture, and Hitachi Co. During 2006-2015 he served as the Principal Investigator on a $3.1M NSF grant to establish a Ph.D. program in the new discipline of .
+
+
+Current Projects Directed and Related Publications:
+
+
+ 
+Completed Projects and Related Publications:
+
+
+
+
+
+
+ 
+
+
+  

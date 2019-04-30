@@ -1,0 +1,499 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ University of Illinois at Chicago  | College of Engineering  & College of Medicine Make a Gift
+
+
+ 
+Academics
+
+Future Students
+Undergraduate Studies
+Graduate Studies
+Courses
+Special Programs
+
+BS/MS Track
+Clinical Immersion Program
+Guaranteed Paid Internship Program
+Medical Scientist Training Program
+Pre-Med
+Senior Design
+
+
+
+
+Student Life
+
+Scholarships
+Study Abroad
+Student Awards
+Student Jobs
+Career Center
+Student Organizations
+
+Alpha  Eta  Mu  Beta
+Bioengineering Graduate Society
+Biomedical Engineering Society
+Engineering World Health
+Graduate Student Council
+Society of Women Engineers
+UBSJ
+
+
+
+
+Research
+
+Research Labs & Focus Areas
+
+
+People
+
+People
+Core Faculty & Staff
+Affiliate Faculty
+Faculty Awards
+Faculty Jobs
+Alumni Connection
+
+
+About Us
+
+About Us
+ABET Accreditation
+Events & Seminars
+News Center
+
+Annual Report
+Newsletter
+News Center
+
+
+Make a Gift
+Directions
+Contact Us
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+					Undergraduate Studies				
+
+
+
+
+Undergraduate Studies
+
+
+
+
+
+
+
+
+
+
+
+ A bachelor’s degree in bioengineering from UIC prepares men and women for a variety of occupations, graduate programs, and professional programs. Students complete a challenging selection of courses chosen to provide a broad understanding of engineering and biology. Opportunities for independent study are common, and each senior participates in a one year senior design project. 
+
+
+
+
+
+
+
+GETTING STARTED
+
+Undergraduate Admissions – information on how to apply to the College of Engineering
+
+
+Undergraduate Catalog – Bioengineering program requirements and course offerings
+
+
+ (FAQ’s) – Frequently asked questions about the program
+
+
+ – Mandatory for undergraduate students to register for courses
+
+
+
+
+
+
+Undergraduate Studies Explained
+
+
+
+
+
+
+
+
+
+
+
+DEGREE REQUIREMENTS FOR BIOENGINEERING STUDENTS
+
+
+ Students entering Fall 16 to Present
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Students entering Fall 14 to Spring 16
+
+
+
+
+
+
+
+
+
+
+
+
+
+Students entering Fall 12 to Spring 14
+
+
+
+
+
+
+
+
+
+
+
+
+
+Students entering Fall 10 to Spring 12
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DEGREE REQUIREMENTS FOR BIOINFORMATICS STUDENTS*
+
+
+ Students entering Fall 19
+
+
+
+Degree Requirements – Coming Soon
+
+
+
+
+
+
+
+
+
+* Pending university approval.
+
+
+
+
+
+CONCENTRATION AREAS – All students must choose one
+
+
+Bioinformatics
+
+
+ An interdisciplinary field that combines computer science and statistical methods with an understanding of molecular biology to provide an understanding of the structure and function of gene products, the regulation of gene expression, and the network of molecular interactions that have direct impact on the function of all living things.  The capstone lecture course for this concentration area are: 
+
+BIOE 480. Introduction to Bioinformatics. 3 or 4 hours. Computational analysis of genomic sequences and other high throughput data. Sequence alignment, dynamic programming, database search, protein motifs, cDNA expression array, and structural bioinformatics. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): BIOS 100 and CS 109.
+
+
+BIOE 481. Bioinformatics Laboratory. 2 hours. How to use bioinformatics tools, including sequence alignment methods such as Blast, Fasta, and Pfam, as well as structural bioinformatics tools, such as Rasmol and CastP. Course Information: Extensive computer use required. Prerequisite(s): Credit or concurrent registration in BIOE 480; and senior standing or above; and consent of the instructor.
+
+
+
+Biomedical Imaging
+
+
+ Biomedical imaging traditionally has included optical, X-ray, magnetic resonance, ultrasound, computed tomographic and nuclear imaging methods. Students will learn the science and engineering that enable these imaging modalities and will have the opportunity to focus on specific techniques and explore cutting edge developments, taught by recognized leaders in the field. Hands-on laboratory experience complements classroom instruction.  The capstone lecture course for this concentration area are: 
+
+BIOE 421. Biomedical Imaging. 3 or 4 hours. Introduction to engineering and scientific principles associated with X-ray, magnetic resonance, ultrasound, computed tomographic and nuclear imaging. Course Information: 3 undergraduate hours. 4 graduate hours. Extensive computer use required. Prerequisite(s): MATH 210 and PHYS 142.
+
+
+BIOE 423 (494 temporarily). Biomedical Imaging Lab. 2 hours. Hands-on sessions in acquisition and processing of biomedical imaging data. The imaging modalities covered are relaxation time-based MRI, motion sensitive MRI, X-ray computed tomography, Ultrasound and Optical Methods. Prerequisite(s): Credit or concurrent registration in BIOE 421.
+
+
+
+Cell & Tissue Engineering
+
+
+ Tissue engineers combine the principles and methods of engineering and biology to develop biological constructs that are the basis of a future regenerative medicine. To accomplish this goal tissue engineers combine cells, biological growth factors, and scaffolding materials based to create nascent biological structures that can restore a biological function, such as insulin production, or stimulate the body to regenerate the tissue such as the repair of damaged articular cartilage.  The capstone lecture course for this concentration area are: 
+
+BIOE 455. Introduction to Cell and Tissue Engineering. 3 or 4 hours. Foundation of cell and tissue engineering covering cell technology, construct technology, and cell-substrate interactions. Emphasis in emerging trends and technologies in tissue engineering. Course Information: 3 undergraduate hours. 4 graduate hours. Prerequisite(s): CME 260; and BIOS 443 or BIOS 452.
+
+
+BIOE 456. Cell and Tissue Engineering Laboratory. 2 hours. Includes polymer scaffold fabrication, microstamping biomolecules, cellular adhesion and proliferation assays, and immo/fluorescent tagging. Course Information: Prerequisite(s): Credit or concurrent registration in BIOE 455; or consent of the instructor.
+
+
+
+Neural Engineering
+
+
+ Computational and experimental models of artificial bioelectric interfaces are becoming vital to work in neural prosthetics, biosensors, and biological computing and are the basis for new neuro-prosthetic devices such as cochlear implants and progress toward a silicon retina. Neural engineers learn to characterize and manipulate neural tissue and to develop more effective interfaces for sensory and motor applications.  The capstone lecture course for this concentration area are: 
+
+BIOE 475. Neural Engineering I: Introduction to Hybrid Neural Systems. 3 or 4 hours. Modeling and design of functional neural interfaces for in vivo and in vitro applications, electrodes and molecular coatings, neural prostheses and biopotential control of robotics. Course Information: Same as BIOS 475. 3 undergraduate hours. 4 graduate hours. Prerequisite(s): BIOE 472; or consent of the instructor.
+
+
+BIOE 476. Neural Engineering I Laboratory. 2 hours. Hands-on experience with computational and experimental models of engineered neural systems, with emphasis on neuroprostheses and biosensors. Course Information: Animals used in instruction. Prerequisite(s): Credit or concurrent registration in BIOE 475.
+
+
+
+
+
+
+SPECIAL PROGRAMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNDERGRADUATE FORMS
+
+ – required to change major in college
+
+
+ – course substitution
+
+
+ – required for BIOE398
+
+
+ – general petition
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Connect With Us 
+ 
+   
+    312 996 2335  
+   312 996 5921
+
+Quick Links
+
+
+
+
+ 
+Make a Gift
+Internal Links
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+ | © Copyright 2018. The Board of Trustees of the University of Illinois | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

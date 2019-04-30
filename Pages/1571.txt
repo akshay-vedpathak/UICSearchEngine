@@ -1,0 +1,462 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  University of Illinois at Chicago  | College of Engineering Make a Gift
+
+
+ 
+FUTURE STUDENTS
+
+Undergraduate Admissions
+Chancellor’s Fellows Program
+Graduate Admissions
+Life @ UIC
+Visit Us
+
+
+ACADEMICS
+
+Departments
+Undergraduate Programs
+Graduate Programs
+Current Students
+
+Undergraduate Students
+
+
+Scholarships
+MakerSpace
+
+
+STUDENT LIFE
+
+Student Office Hours
+Student Organizations
+Student Activities – EXPO
+Career Center
+Student Affairs
+Disability Resource Center
+
+
+RESEARCH
+
+Research Centers
+Research Strengths
+Interdisciplinary Areas
+
+Autonomous Vehicles
+
+
+Industry Tech Services
+
+
+ABOUT US
+
+Mission Statement
+ABET Accreditation
+Make a Gift
+News
+
+College News
+Student News
+
+
+People
+
+Faculty
+Staff
+Directory
+
+
+Offices
+Alumni
+Contact
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+					EXPO 2014				
+
+
+
+
+EXPO 2014
+
+
+
+
+
+
+
+
+
+
+
+26TH ANNUAL SENIOR DESIGN EXPO
+Thank you to everyone who supported the 25th Annual Engineering EXPO.
+Lead Sponsor: Illinois Ventures
+Sponsors: Elara Engineering, The Felder Family, Ali Khounsary, and The Office of Technology Management
+Donors: Kathy McGuire, Arlene Norsym, Susan Tonon, and Bruce Wiatrak
+EXPO 25 Honorary Co-Chairs: Arlene Norsym and Kathy McGuire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GALLERY OF THE 25TH ANNUAL SENIOR DESIGN EXPO
+
+
+
+
+
+
+
+
+
+
+
+EXPO 2014 WINNERS
+
+
+Assistance and Living Products
+
+
+RK Inventions Hand Strengthener 
+Bioengineering 
+Katrina Weber, Denisse Espino Barros Perez, Cyril George, Kyle Kempke, Masood Qader
+Abstract:
+More than ten million hand injuries occur every year in the United States. They occur in the workplace, as well as during sporting activities. Cases in which surgery is needed, a rehabilitation period is necessary. As a result, there are countless products, both in the public market and private healthcare industry, dedicated to assisting patients and doctors with the recuperating process. While most of these devices provide a level of assistance, they lack diversity in functionality desired with the treatment of the hand. The hand constitutes countless bones as degrees of movement, thus a one-dimensional functional device would limit finger movement. Therefore, the goal of our project was to design a device that could provide multiple levels of movement for the human fingers and thumb, all the while strengthening them through different exercise sets. Resistive bands would be incorporated into the design, providing increased pressure by turn of a dial. This eliminates the need for bands of different set resistances, with a device that could be utilized the entire duration of the rehabilitation period. Such a design followed the requirement of portability and ease of use. Resistance measurements were done using basic tension principles and a tensile tester provided by the University of Illinois at Chicago. Adhering to the established design requirements facilitated the creation of a device that strengthens fingers by varying the resistance internally in addition to allowing multiple dimensions of freedom.
+
+
+Chemical Processes
+
+
+Reactor Design for Polyols Production 
+Chemical Engineering 
+Nathan Liebmann, Ryan Rock, Andrew McNamara, Elmar Von, Brian Reyes
+Abstract:
+Glycols are one of the most widely sold chemical merchant products in the world. Millions of metric tons per year of propylene glycol are sold worldwide to manufacture antifreezes, food additives, pharmaceuticals and various other chemicals used in industry. The current mode of manufacture is from the byproducts of petroleum refinement. However, as petroleum resources begin to dwindle the environmentally friendly production of glycols from renewable materials will become more and more competitive. As a result, there is a great opportunity for companies in the U.S. to utilize corn as a raw material to produce glycols – and by extension remain a global leader in the chemical marketplace. The process that we have explored here does exactly this. Sorbitol made from corn is used as a feedstock to generate propylene and ethylene glycols as well as several other byproducts that can be sold on the market. In order to make these products the choice of catalyst and the design of both the reactor and the ancillary equipment all had to be taken into careful consideration. The end result of this work is an eco-friendly glycols production process that will play a vital role in keeping the U.S. ahead in the chemical manufacturing industry for years to come.
+
+
+Chemical Production Methods and Facilities
+
+
+Corn Wet Milling – Concentration on Centrifuge Separation on Gluten and Starch 
+Chemical Engineering 
+Osman Braimah, James Walsh, Mike Nguyen, Ishai Strauss
+Abstract:
+Corn Wet Milling is a corn refining process in which corn is separated into its various components, namely starch, oil, gluten, and fiber. This process yields numerous products and byproducts, which are used in a variety of applications from pharmaceuticals to food processing to animal feeds. On an industrial scale, the process of Corn Wet Milling becomes complex, costly, and energy intensive. For our project, we were given a portion of the Corn Wet Milling process, specifically starch and gluten separation and drying. The task was to use our engineering knowledge to design a reasonable, efficient process for separating and drying starch and gluten generated from 100,000 bushels per day of corn, which would then be used by subsequent groups to produce animal feed, pharmaceutical feedstock, and other profitable products. Requirements that were taken into consideration were the ability to justify our reasoning for particular process equipment, following EPA regulations, and producing enough starch to meet the design specification for conversion into dextrose and sorbitol. Throughout the process of this project, a detailed mass and energy balance was maintained as well as researching various competing processes and potential products that could be produced to maximize profit.
+
+
+Efficiency Methods and Studies
+
+
+Increasing Efficiency of Bus Bar Lamination Process
+Mechanical and Industrial Engineering
+Abstract:
+With demand increasing and technology improving Methode Electronics was faced with a rising problem with their bus bar lamination process. The method of heating, cooling, and lamination used was becoming outdated and needed an update to improve the cycle time, increase the efficiency of the heating and cooling cycle, and possible process automation. This is the challenge our team was faced with. We have developed a design that incorporates state of the art heating and cooling techniques that significantly reduce the cycle time of the lamination process which results in a greater output of product. Also we have included ideas of an automation system to further increase the efficiency and output of the process.
+
+
+Electronic Devices
+
+
+Motor Telemetry System 
+Electrical and Computer Engineering 
+Zach Quinn, Brian DeSimone, Joseph Davis
+Abstract:
+In today’s world there is an increase in automated manufacturing and motor controlled systems. From large companies to even the garage hobbyist, there is a high demand for a motor monitoring device with intuitive software. Currently, motor telemetry systems are simply too expensive for many small businesses and consumer use. Our Motor Telemetry System (MTS) is affordable, meaning the average person, small business, or large corporation will be able to accurately and reliably monitor any type of motor driven system. MTS is a low cost, highly efficient, and very unique answer to this large demand. MTS is unique for two reasons, first, it is sold “tool only” meaning you buy the standalone system as a separate unit or a barebones kit. The user can then buy the attachments they desire to monitor data such as temperate, speed, or circuit breaker status. While helping to keep the cost down, this method is environmentally friendly and keeps the footprint of the system as small as possible. Secondly, MTS is an open source project, meaning a public API will be written to allow individual expansion of the system and further customization to customer specific needs. MTS uses two powerful microcontroller processors that interface with each other to provide real time status updates of the sensory data collected while displaying them graphically and wirelessly to our handheld LCD. By creating a device that transmits sensory data from our attachments wirelessly, it allows the operator to have mobility as they are interacting with our system.
+
+
+Electronic Products
+
+
+Planting Made Easy 
+Electrical and Computer Engineering 
+Komal Shah, Querida Ellis, Hector Acosta, Ravi Pate
+Abstract:
+Increasingly, there is a push for greener, more environmentally friendly approaches to food production. With the emphasis on farm-to-table and organic movements in the United States and all over the world, individuals have been seeking ways of becoming smarter consumers. Our gardening device, Planting Made Easy, seeks to provide beginners and the more advanced the option to do just that; those wishing to grow their own fruits, vegetables, herbs, or plants can quickly become proficient gardeners. While there are similar monitoring systems on the market, our approach is different in that it is small, interactive, easy-to-use, and affordable. In addition to monitoring moisture, sunlight, temperature, pH, and soil nutrition, it also grants users access to a database containing optimal gardening conditions for a number of plant species. The device consists of four major parts: sensor circuits (including any necessary amplification components), an analog-to-digital converter, a microcontroller, and an LED display. Each of the sensors passes analog values to the microcontroller’s ADC to be converted to digital values and displayed on the LED screen. In terms of acceptable performance, the device will provide measurements within 5% of actual values and work in environments between 40 and 120 degrees Fahrenheit.
+ 
+
+
+Environmental Infrastructure
+
+
+City of North Chicago: Water Distribution Phase 1 
+Civil and Materials Engineering 
+Nadia Simek, Paul Guardi, Keith Schell
+Abstract:
+The city of North Chicago (Illinois, USA) is located on Lake Michigan and has a municipal water treatment plant (WTP) with a 15 million gallon per day (MGD) capacity. This facility, however, currently produces only 4-6 MGD. Meanwhile, some communities directly west of the city are facing water shortages in the near future. Selling water to these communities would provide needed revenue to North Chicago, and would ensure the supply of this precious resource in areas where it is needed. In addition, North Chicago-based pharmaceutical company Abbott/Abbvie currently buys 60% of the plant’s water. If Abbott were to relocate or stop needing the water, it would be a large loss of revenue for the city. This project is a Phase I study on the feasibility of expanding the North Chicago WTP and its network. It will determine the necessary upgrades for the plant to treat enough water for distribution to those communities that need it. These include expansion of the plant’s facilities and a distribution pipeline. This study will establish the water demand for the distribution area and the permitting for land acquisition and water allocation. Our goal is to design the improvements required to bring the plant closer to its operating capacity, and to do so in the most economic, efficient, and sustainable manner possible.
+
+
+Environmental Sustainability
+
+
+Nutrient Removal Using a Constructed Wetland 
+Civil and Materials Engineering 
+Caleb Carr, Paul Jacobs, Diana Mejorado
+Abstract:
+Nitrogen and phosphorous are essential nutrients for sustaining plant life, however, excessive amounts in waterways can cause eutrophication and hypoxic conditions, which can put aquatic life at serious risk. Agriculture is the primary source of these nutrients to the Mississippi River. Pollutant loads that leave agricultural fields can be difficult to manage once they enter a stream system. Constructed wetlands sited to intercept tile drainage flow in locations where nutrients originate have the potential to significantly reduce nutrient levels. A site in the Big Bureau Creek watershed has been identified to serve as the demonstration of this non-conventional conservation practice. The primary goal is to develop an engineering design for this site. The main requirement is that the design meets the Illinois Natural Resource Conservation Service’s practice criteria and standards so the landowner can receive financial assistance through federal/state conservation programs. Sizing the wetland began with calculating design flows through hydrologic and hydraulic models followed by the modeling of nutrient loading to determine influent Nitrogen concentrations and reduction potential. Geotechnical data and physical land characteristics were analyzed to design the impoundment structure. Permitting issues were investigated and a cost/benefit analysis was performed. A template of the hydrology and engineering parameters was developed with key design elements facilitating and accelerating the design of future wetland sites which implement an underutilized but highly effective nutrient reduction practice within the context of a state nutrient reduction strategy or trading program.
+
+
+Mechanical Devices and Products
+
+
+Snack Tray
+Mechanical and Industrial Engineering
+Boris Golub, William Hartman, Ryan Zei, Miteshkumar Shah
+Abstract:
+Over a century ago Freedman Seating Company began with the production of seat cushions for horse-drawn buggies. Since then, Freedman Seating has developed into an industry leader of seating for buses, trains, and commercial vehicles. The manufacturer continues its charge in innovation with the development of a new snack tray that can accommodate for the modern commuter. The new design aims to provide the user with a surface that remains level independent of the reclinable seat to which it may be attached. The tray will maintain traditional functions such as securing a beverage, but will also provide the passenger with a space to comfortably use a laptop or mobile device. The snack tray must provide apt support, a two-position in-use and stowed design, and should be retrofittable so that customers may have the option of post-production installation. It is our goal to see our design reach the manufacturing stage of development, and watch as it joins the rich history of innovation within the Chicago-based company.
+
+
+Medical Devices and Products
+
+
+Mouth Guard and Oral Airway Device 
+Bioengineering 
+Juan Rodriguez, Nancy Rios, Catherine Santis, Melissa Wardlow, Johnny Villasenor
+Abstract:
+Each year there is an estimated 25 million people in the US that require endotracheal intubation. A major component of invasive surgery and emergency care is proper airway passage for the intended patient. To achieve proper airway, medical personnel utilize intubation technologies such as, the standard laryngoscope, glidescope and fiberoptic laryngoscope. Of these technologies, the most commonly used is the laryngoscope with a Macintosh blade. Complications that arise during the intubation procedure include; tracheal and esophageal perforation as well as teeth chipping and aspiration as a result of the rigidity of the blade. The primary objective of this project is to create a cost efficient, multi-component device that will minimize the aforementioned complications while also providing lip protection and preserving the standard technique of the use of a laryngoscope. In addition, our device is aimed to be disposable to prevent infection and cross contamination, as well as customizable in size.
+
+
+Optimization and Production Systems
+
+
+CINTAS Inventory Maintenance 
+Mechanical and Industrial Engineering 
+Daniel Curyla, Andrew Arellano, Michael Gore
+Abstract:
+The CINTAS location in Maywood, IL provides sanitation for floor mats, mops, and towels to local businesses. CINTAS delivers clean products to the customer and returns the dirty products which are then cleaned at the facility and prepared for future delivery. The company has expressed their interest in increasing accountability of its customers by monitoring lost towels. Currently the random auditing system of products has proven to be unreliable. If the amount of product lost by the customers can be accounted for then CINTAS will be able to reduce their operating costs by decreasing the amount of new product purchased. The goal of this project was to develop an efficient and ergonomic process that would increase accountability. The random auditing system was changed to a confidence interval system which compares the weight of returned bags to a calculated average. The average was determined by taking numerous samples of the weight of a dirty towel. With the amount of data collected, we determined that the weight of a dirty towel is normally distributed and thus created a confidence interval for the product. Returned product outside of the confidence interval range will manually be counted to get exact towel losses. Furthermore, in order to keep track of which customers lose product each bag returned will have a barcode label with customers’ information to improve accountability. The project was successful in terms of the goals that were set. This process did improve accountability thus reducing costs. The next phase would be to have 100% accountability.
+
+
+Sustainability and Infrastructure for UIC
+
+
+A Resource for Commuters and a Building for UIC 
+Civil and Materials Engineering 
+Slawomir Domagala, Ally Laskero, John Kando, Marian Agamy
+Abstract:
+The University of Illinois at Chicago (UIC) campus has the largest student commuter population in Illinois with approximately 85% of the 27500 students commuting. The University has tried to accommodate these students by providing the Commuter Student Resource Center (CSRC), however, originally planned in 2009 for the maximum of 200 total students at a single time. Due to the current layout, there are many problems with the CSRC, which include: space restrictions, the inconvenient location and layout, operating hours, student outreach capabilities and the lack of amenities provided. Considering these problems many students could benefit greatly from a relocation and redesign of the CSRC. Thus, to better accommodate students, a new building dedicated to the CSRC is proposed. This proposed facility would significantly improve the lives of students, based on its location in the heart of the eastside campus, the ample space and the services that will be provided. Students will benefit from amenities such as: a kitchen to store and heat up food brought from home, abundant locker space, shower rooms, a lounge area, a computer lab with printing center, and private study rooms. The building will be LEED certified under the new construction and major renovations section following the green building. Green building technologies to be utilized include: a renewable energy source, green roofing, grey water recycling systems, rain barrels, and more. In short, building a new CSRC UIC will show its commitment to the commuters. Which will make UIC more diverse and expand the perspectives at the school and that will continue to make UIC one of the fore front universities in the country.
+
+
+OTM (Office of Technology Management) Innovation Prize
+
+
+RK Inventions Hand Strengthener 
+Bioengineering 
+Katrina Weber, Denisse Espino Barros Perez, Cyril George, Kyle Kempke, Masood Qader
+Abstract:
+More than ten million hand injuries occur every year in the United States. They occur in the workplace, as well as during sporting activities. Cases in which surgery is needed, a rehabilitation period is necessary. As a result, there are countless products, both in the public market and private healthcare industry, dedicated to assisting patients and doctors with the recuperating process. While most of these devices provide a level of assistance, they lack diversity in functionality desired with the treatment of the hand. The hand constitutes countless bones as degrees of movement, thus a one-dimensional functional device would limit finger movement. Therefore, the goal of our project was to design a device that could provide multiple levels of movement for the human fingers and thumb, all the while strengthening them through different exercise sets. Resistive bands would be incorporated into the design, providing increased pressure by turn of a dial. This eliminates the need for bands of different set resistances, with a device that could be utilized the entire duration of the rehabilitation period. Such a design followed the requirement of portability and ease of use. Resistance measurements were done using basic tension principles and a tensile tester provided by the University of Illinois at Chicago. Adhering to the established design requirements facilitated the creation of a device that strengthens fingers by varying the resistance internally in addition to allowing multiple dimensions of freedom.
+
+
+
+
+
+UIC ENGINEERING EXPO ARCHIVE
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+Connect With Us 
+    
+
+Quick Links
+
+
+
+
+
+ Make a Gift
+Resources
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+© Copyright 2018. The Board of Trustees of the University of Illinois | Privacy Statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

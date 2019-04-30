@@ -1,0 +1,93 @@
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Balajee Vamanan
+
+Biography, teaching, and contact
+
+
+
+
+
+
+
+
+
+Biography
+
+I am an Assistant Professor in the department of computer science at University of Illinois at Chicago (UIC).
+My research interests primarily lie in computer networks, specifically in datacenters and low-latency networks, software-defined networking, and network hardware. I have secondary interests in architecture and hardware design.
+I received my Ph.D. from Purdue University in August 2015. I spent the summer and fall of 2012 at Google on datacenter congestion control and load balancing. I worked as a senior design designer at Nvidia between 2004 and 2008 when I designed the memory controller for the first unibody MacBook Air (see this  newspaper clip!). I got my bachelor’s degree from BITS, Pilani (India).
+Aside from research and teaching, I enjoy playing tennis and badminton. I live in Chicago with my wife, , who is a researcher in molecular biology and genetics.
+I maintain a  as well as a  page.
+
+Teaching
+CS 450: Introduction to Networking:  |  |  | 
+CS 594: Advanced Computer Networking:  | Spring 2018
+Contact
+Physical location: SEO 1310 Email:  Phone: (312) 413 2424
+
+I am looking for motivated PhD students who are interested in computer networks and systems. If you are looking for an advisor, please send me an email with your CV. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+
+
+
+
+
+
+
+
+
+
+> > (2014-09-12, Main.clee231)EA 
+AES Members at the Chicago Recording Company | Feb 2014
+
+ Audio Engineering Society 
+
+A student chapter of the Audio Engineering Society at UIC.
+ Events 
+General Body Meeting:
+
+We will be having a meeting on Wednesday, April 5, at 5pm in SEO 1325. Our guest speaker will be Dave Maclaughlin, of the speaker company , who will give a talk on speaker technology and how to improve the sound of any system. After that, we will have elections for AES officers for next year (president, vice president, treasurer). Talk to president Steve Leib if you have any questions or are interested in being an officer and want more information.
+
+For more events, see our .
+
+ Projects 
+
+ EVL CAVE2 
+The CAVE2 in the Electronic Visualization Laboratory of UIC is a cutting-edge virtual reality environment with the purpose of enabling users to better conduct e-science (). Utilizing 72 LCD monitors and a 20 speaker surround audio system, the CAVE2 offers intuitive analysis and interaction with datasets. 
+
+The students of AES@UIC aim to expand the functionality of the audio server of CAVE2 through original research on open questions. Currently, AES@UIC is working on a new spatialization algorithm and putting ideas together for a demo to showcase it.
+
+ The Forte 
+ It's called the Forte - but earlier names included labels along the lines of un-piano, or backwards keyboard. Because of the reverse approach of the instrument, all names are quite fitting. Implementing thirteen photo resistors corresponding to a one octave range, the Forte is played by covering up the notes the player does not want to hear.
+
+For example, if all the notes are exposed to light and the player's hands are not touching the instrument, all thirteen frequencies will sound. If the player would like to rest, all light should be prevented from reaching the photo resistors. Through the utilization of 555 timers, op amps, and trimmer pots, the circuit will provide an alternative approach to how keyboard instruments can be played while exploring the sonic possibilities of generating sound from light. Keep your ears peeled - it's Forte
+
+AES@UIC presented the Forte at the AES 135th convention in New York. Check out our adventures here:
+
+
+ Contact Info 
+
+President: Steven Leib Vice-President: John Romanski Treasurer: Juan Becerril
+
+Faculty Advisors

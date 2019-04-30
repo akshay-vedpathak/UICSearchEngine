@@ -1,0 +1,501 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+          How do I share my UICalendar other people on the Web?        
+
+
+
+
+Tags: Service: Global Agendas -- Sharing Your UICal Calendar with Anyone. Global Agenda viewing is an option of UICal on the Web that allows you to send a URL to anyone you want -- they do not have to have to have a UICal account and they may not have anything to do with UIC at all -- that will allow them read-only access to a view of the times that you are busy.
+People viewing your Global Agenda Web page will be able to read the text of agenda items that you mark items with the access level of Public. Non-Public items will just appear as "Busy".
+Turn Your Global Agenda On
+First you have to turn your UICal Global Agenda on:
+Login to UICal on the Web () and click the Edit Preferences (second icon on the right side of the main Toolbar) link.
+Click the Security tab/link, click Allow Global Agenda Viewing, and click OK.
+Now you've turned on the Global Agenda.
+You also need to check to make sure the time zone displayed by UICal on the Web will be correct:
+Click the Edit Preferences (second icon on the right side of the main Toolbar) link.
+On the General tab/link, select some time zone other than the right one, say Mexico's, and click OK. (Yes, you read correctly. It's a bug. Oracle knows about it; this is the official fix for it.)
+Now go back and click the Edit Preferences (second icon on the right side of the main Toolbar) link.
+On the General tab/link select the right time zone, which is CST6CDT, Central Daylight Time. (If you don't know what time zone to choose, click the question mark beside the pulldown box and look it up.)
+Sharing Your Global Agenda
+When you get back to your UICal Daily, Weekly, or Monthly View, you will see a link on the right side above the tool bar saying E-mail Agenda which opens a Web page that allows you to do just that.
+Enter email address(s) -- separated by commas -- in the Enter e-mail address: box, then a Message text, if you wish, and click Send. Your friend will receive an email message with a long, strange URL that will give them a read-only look at your busy times with a Normal access level and a link that opens an email message to you.
+This URL will not expire; it will always display your current agenda. Send an email message to yourself to get the URL and you can use it in a Web page, if you want.
+Note that the Global Agenda will give people View access to agenda items with an access level of Public. (That means that anyone that you give the URL to will be able to read the text of those agenda items.)
+Need help?
+
+
+ UICalendar 
+ Email
+
+Phone
+312-413-0003
+ 
+  
+
+Last updated: January 30, 2013
+
+
+Browse by tag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Choose service  
+          ACCC Extended Laptop Loan (ACCCELL)    
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Automatic Call Distribution     
+          Backups    
+          Blackboard Collaborate    
+          Box    
+          C-stop    
+          Classroom Equipment Lending    
+          Classrooms    
+          Collaboration Tools    
+          Colocation Server Hosting    
+          Computer Labs    
+          Conferencing    
+          Corporate Executive Board    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Endpoint Management    
+          Equipment Lending    
+          Event Logging    
+          Event Support (Audio/Visual)    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          High Performance Computing    
+          Identity and Access Management    
+          Instant Messaging    
+          Learning Design and Development    
+          Learning Environments    
+          Learning Management System    
+          Learning Technology Solutions    
+          Lecture Capture    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Conversion    
+          Media Streaming    
+          Microsoft IIS    
+          Mobile Phones    
+          Multimedia Production    
+          Network    
+          Network Data Moves    
+          Network Filters    
+          Network Operations Center    
+          Network Security Vulnerability Scanner    
+          Office 365    
+          On-Site Support    
+          ONE.UIC    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Recharge Stations    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Secure Computing Environment    
+          Security    
+          SharePoint    
+          Single Sign On    
+          SSL Certificates    
+          StarTel    
+          Surveys    
+          Telecommunications     
+          UIC Alert    
+          UIC Mobile     
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

@@ -1,0 +1,561 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+          How do I use the UIC email address book with Outlook?        
+
+
+
+
+Tags: , , , Service: , , The ACCC runs an LDAP server that you can use to look up the names and email addresses of people with NetID@uic.edu email addresses. This page explains how to use this LDAP server with Outlook 2010 and 2007.
+Outlook 2010 / 2013
+Setup
+Open the File tab.
+Select Account Settings, then select Account Settings below it.
+Select the Address Book tab.
+Select New.
+Select Internet Directory Service (LDAP) then select Next.
+For Server Information type: ldap.uic.edu
+Then select More Settings... You will receive get a warning that you will have to restart Outlook before the directory service will work; dismiss the warning.
+Select the Search tab, under Search Base select Custom and type or paste into the box:
+ou=people,dc=uic,dc=edu
+	then select Apply and click OK to save your changes.
+Select Next then Finish to end the wizard.
+Close Outlook and restart it.
+To use UIC LDAP Directory Services
+To use your new LDAP directory, open a new message. 
+Select  the To: header. 
+Make sure that lookup is selected from the Address Book dropdown list.
+Begin to type either the first or last name of the person you want to send email to -- use whichever is more unique -- in the Search box and select Go.
+Scroll down in the list of names returned and click to select the person. Select To: to add the name and address to your message.
+Repeat as necessary.
+Note: If you plan to use an address frequently you may want to add it to your personal address book. To do this, right click on the person you want to add and select Add to Outlook Contacts. Click the Add to: Personal Address Book button to add this person to your Outlook Contact List. This is really the way to go, because it will add all the information in the Properties to your contact list. And you can add a person that you already have in your Contact List; you can choose to update your existing listing with the new data.
+Outlook 2007
+Setup
+Select Tools > Account Settings
+Select Address Books then select New
+Select Internet Directory Service (LDAP) then select Next
+For Server name type: ldap.uic.edu
+Select More Settings....
+	You receive get a warning that you will have to restart Outlook before the directory service will work; click OK.
+Select the Search tab. Under ;Search Base, select Custom and type:
+ou=people,dc=uic,dc=edu
+	then select Apply then OK to save your changes.
+Select ;Next then Finish to end the wizard.
+You may need to restart Outlook before you can use your new LDAP directory.
+To use UIC LDAP Directory Services
+To use your new LDAP directory, open a new message. 
+Select the To: header. 
+Make sure that lookup is selected from the Address Book dropdown list.
+Begin to type either the first or last name of the person you want to send email to -- use whichever is more unique -- in the Search box and select Go.
+Scroll down in the list of names returned and click to select the person. Select To: to add the name and address to your message.
+Repeat as necessary.
+Note: If you plan to use an address frequently you may want to add it to your personal address book. To do this, right click on the person you want to add and select Add to Outlook Contacts. Click the Add to: Personal Address Book button to add this person to your Outlook Contact List. This is really the way to go, because it will add all the information in the Properties to your contact list. And you can add a person that you already have in your Contact List; you can choose to update your existing listing with the new data.
+Need help?
+
+
+ Basic Email 
+   
+
+ Exchange 
+ Email
+
+Phone
+312-413-0003
+ 
+  
+
+ G Suite (formerly Google Apps) 
+ Email
+
+Phone
+312-413-0003
+ 
+  
+
+ Email and Calendaring 
+ Email
+
+Phone
+312-413-0003
+ 
+  
+
+Last updated: September 21, 2016
+
+
+Browse by tag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Choose service  
+          ACCC Extended Laptop Loan (ACCCELL)    
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Automatic Call Distribution     
+          Backups    
+          Blackboard Collaborate    
+          Box    
+          C-stop    
+          Classroom Equipment Lending    
+          Classrooms    
+          Collaboration Tools    
+          Colocation Server Hosting    
+          Computer Labs    
+          Conferencing    
+          Corporate Executive Board    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Endpoint Management    
+          Equipment Lending    
+          Event Logging    
+          Event Support (Audio/Visual)    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          High Performance Computing    
+          Identity and Access Management    
+          Instant Messaging    
+          Learning Design and Development    
+          Learning Environments    
+          Learning Management System    
+          Learning Technology Solutions    
+          Lecture Capture    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Conversion    
+          Media Streaming    
+          Microsoft IIS    
+          Mobile Phones    
+          Multimedia Production    
+          Network    
+          Network Data Moves    
+          Network Filters    
+          Network Operations Center    
+          Network Security Vulnerability Scanner    
+          Office 365    
+          On-Site Support    
+          ONE.UIC    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Recharge Stations    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Secure Computing Environment    
+          Security    
+          SharePoint    
+          Single Sign On    
+          SSL Certificates    
+          StarTel    
+          Surveys    
+          Telecommunications     
+          UIC Alert    
+          UIC Mobile     
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

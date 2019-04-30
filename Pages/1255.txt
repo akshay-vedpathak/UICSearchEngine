@@ -1,0 +1,560 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+          How do I subscribe to my UICalendar?        
+
+
+
+
+Tags: , , Service: You can "import" or "subscribe" your UICalendar calendar into any calendar that supports iCal calendar feeds. You can do this once, to move from UICalendar to another calendaring system, or you can use it just to display your UICal calendar in another calendar program or device.
+You use the  to do this. With this utility, you can create an iCalendar Web URL, which allows you to copy a "snapshot" of your UICalendar agenda into the other calendar program. The subscription link (known as an iCalendar feed) can be used to view the calendar, including events and alarms, in a variety of desktop and mobile clients -- Google Calendar, iPhone, iPad, Apple iCal, Microsoft Outlook, Mozilla Sunbird, Mozilla Thunderbird with Lightning extension and others. 
+Whenever you or your calendar software go to your personal UICal iCaendarl URL, it returns your UICal data, as it is at that very moment, in iCal format. iCal format is the most widely used import  format for calendar data.
+Note that this copy is one way: UICalendar into iCal, Google Calendar, or whatever, though when you  into your other calendar software, the other software should automatically go back to the UICal Web link on a regular basis to get a new, updated copy of your UICal calendar. We do not have the ability to bring changes made in the other calendar program back into UICalendar using the UICal iCal Web link.
+
+	Sharing Your Calendar
+Using the URL after it has been created does not require authentication. For this reason, it can be used to share your calendar with other people. Unless you want the other person to see everything that is in your calendar, you might want to create a public link, which shows only events or details on your calendar that are open to any user on UICal.
+
+	To create your personal UICal iCalendar URL
+
+		Visit  (authentication with UIC NetID and password required)
+
+		In the section Create a new link to your calendar, select the type of URL that you want to create: calendar (which includes everything in your calendar) or public (which only includes the events marked in UICalendar as public). 
+
+		Click on Create Link.
+Your UICal iCal URL will be in the format:
+
+http://ical.uical.uic.edu/uicalbin/uicalTOical?c=nnnnnnnnnnnnTo disable your URL's access to your UICal calendar at any time, delete the link using .
+
+	One-Time or Recurring?
+There are two ways to use your UIC iCal URL:
+
+		Subscribe to the URL if you want to continue to use UICal and want to have your UICal data automatically imported into the other calendar program on a regular basis.
+
+		Or import the data into your other program if you want to move from UICal to another calendaring system.
+Both are explained below.
+
+Recurring Subscription
+Do you want your UICalendar calendar to be brought into another calendar program and have the changes that you make in UICalendar be reflected in your other calendar? You can do this too, if your "subscribe" to your UICalendar iCalendar URL. In this case, the default date range: &back=30&forward=90 (30 days in the past to 90 days in the future) will probably do, but you should add &compat=br to the end of the URL.
+Google's instructions on how to 
+
+
+	One-Time Import
+Do you just want to copy your UICalendar into another calendar program and not use UICalendar anymore? You can do it with your iCal link, if you download your UICalendar data into an .ics file, and "import" that file into.
+
+		Open your favorite Web browser and paste your personal UICal iCal subscription link in the address box and press Enter.
+
+				Remember that if you are having trouble with missing repeating events, add the following to the end of the UICal iCal Web link: &compat=br
+
+				And specify a date range for the time that you want your data from, for example: &startdate=1/1/2008&enddate=1/1/2015
+
+				For example: http://ical.uical.uic.edu/uicalbin/uicalTOical?c=566861224616075&compat=br&startdate=1/1/2008&enddate=1/1/201
+
+
+		A download dialog box will open for a file named yourNetID.ics, or for Grace Hopper, gmhopper.ics.
+
+				You might have the option in the dialog box to open it directly into your calendar program.
+
+				Or save your file and
+
+						Double-click on the file's icon to open it in your calendar program.
+
+						Or, open your calendar program and use its Import function. 
+
+
+For example, Google's (simple) instructions for importing your .ics file Google Calendar:  .
+You might have to play with the date range or break the import up into sections if the resulting .ics file is too big for your new calendar program.
+
+	Common problems
+Some calendar importers require that the link include the extension .ics. If the link doesn't work, try adding .ics to the end of your UICal iCal URL. 
+Make sure you are pasting the entire URL, including http://
+If you are not seeing your repeating events, try adding &compat=br to the end of the link.
+Need help?
+
+
+ UICalendar 
+ Email
+
+Phone
+312-413-0003
+ 
+  
+
+Last updated: September 21, 2016
+
+
+Browse by tag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Choose service  
+          ACCC Extended Laptop Loan (ACCCELL)    
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Automatic Call Distribution     
+          Backups    
+          Blackboard Collaborate    
+          Box    
+          C-stop    
+          Classroom Equipment Lending    
+          Classrooms    
+          Collaboration Tools    
+          Colocation Server Hosting    
+          Computer Labs    
+          Conferencing    
+          Corporate Executive Board    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Endpoint Management    
+          Equipment Lending    
+          Event Logging    
+          Event Support (Audio/Visual)    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          High Performance Computing    
+          Identity and Access Management    
+          Instant Messaging    
+          Learning Design and Development    
+          Learning Environments    
+          Learning Management System    
+          Learning Technology Solutions    
+          Lecture Capture    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Conversion    
+          Media Streaming    
+          Microsoft IIS    
+          Mobile Phones    
+          Multimedia Production    
+          Network    
+          Network Data Moves    
+          Network Filters    
+          Network Operations Center    
+          Network Security Vulnerability Scanner    
+          Office 365    
+          On-Site Support    
+          ONE.UIC    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Recharge Stations    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Secure Computing Environment    
+          Security    
+          SharePoint    
+          Single Sign On    
+          SSL Certificates    
+          StarTel    
+          Surveys    
+          Telecommunications     
+          UIC Alert    
+          UIC Mobile     
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

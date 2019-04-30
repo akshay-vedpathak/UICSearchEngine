@@ -1,0 +1,64 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+          NextHaus's SyncML iPhone application        
+
+
+
+
+Tags: , Service: The long awaited  has come. SyncML is the best way to sync smartphones and PDAs, but Synthesis SyncML for the iPhone isn't quite finished yet. This is part of an email we received from them:
+To find the application once it appears in the App Store, search for 'Synthesis SyncML'.. [It's in Production.]
+The initial release will be a free download from the App Store, supporting only contact sync. Calendar synchronization is prepared, but at this time Apple does not allow access to the calendar data yet. The Synthesis SyncML client for iPhone will become a paid application once it is complete with calendar synchronization.
+The version that is there now does only support contact sync, but it does that well. So we have a ways to wait yet.
+Synthesis SyncML now actually did sync my contacts, and the sync was very fast over a wireless connection. The problem that I had before -- downloaded contacts from UICal, but they didn't go into Contacts, and the net result was that it erased the contacts I already had on my phone -- was a bug. Synthesis says they fixed it in version 1.0.2. I don't know about 1.0.2, but I can testify that version 1.0.4 works just fine.
+The settings were the same as those for other smart phones:
+Settings -> Server Settings -> Server, URL:

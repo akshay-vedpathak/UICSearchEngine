@@ -1,0 +1,88 @@
+
+
+
+http://grad.uic.edu/rss
+    
+en
+
+
+
+http://grad.uic.edu/announcements/fall-2018-award-winners
+    <div class="field field-name-field-announcements-topics field-type-list-text field-label-hidden"><div class="field-items"><div class="field-item even">Funding</div></div></div><div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">Dec 01, 2018</span></div></div></div>
+Tue, 11 Dec 2018 15:56:14 +0000
+Benn Williams
+419948 at http://grad.uic.edu
+
+
+
+http://grad.uic.edu/education-news/9-great-resources-help-phd-students-transition-workforce
+    <div class="field field-name-field-news-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">Nov 20, 2018</span></div></div></div>
+Tue, 20 Nov 2018 15:06:50 +0000
+Benn Williams
+414770 at http://grad.uic.edu
+
+
+
+http://grad.uic.edu/announcements/2018-communicating-science-conference-chicago
+    <div class="field field-name-field-announcements-topics field-type-list-text field-label-hidden"><div class="field-items"><div class="field-item even">General</div></div></div><div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">Aug 25, 2018</span></div></div></div>
+Fri, 02 Nov 2018 15:47:57 +0000
+Kevin Michael Monahan
+410488 at http://grad.uic.edu
+
+
+
+http://grad.uic.edu/fellowships-awards/award-graduate-research
+    <div class="field field-name-field-announcement-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">Apr 17, 2019</span></div></div></div>
+Fri, 28 Sep 2018 21:58:20 +0000
+Benn Williams
+402154 at http://grad.uic.edu
+
+
+
+http://grad.uic.edu/fellowships-awards/provosts-graduate-research-award
+    <div class="field field-name-field-announcement-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">Sep 19, 2018</span></div></div></div>
+Thu, 20 Sep 2018 04:15:28 +0000
+Benn Williams
+400099 at http://grad.uic.edu
+
+
+
+http://grad.uic.edu/announcements/winners-fall-2017-competitions
+    <div class="field field-name-field-announcements-topics field-type-list-text field-label-hidden"><div class="field-items"><div class="field-item even">Funding</div></div></div><div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">Dec 01, 2017</span></div></div></div>
+Fri, 01 Dec 2017 17:40:39 +0000
+Benn Williams
+327613 at http://grad.uic.edu
+
+
+
+http://grad.uic.edu/announcements/u-i-care-responds-federal-governments-plan-rescind-daca
+    <div class="field field-name-field-announcements-topics field-type-list-text field-label-hidden"><div class="field-items"><div class="field-item even">Resources</div></div></div><div class="field field-name-field-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">Sep 05, 2017</span></div></div></div>
+Thu, 21 Sep 2017 19:24:33 +0000
+Kevin Michael Monahan
+313845 at http://grad.uic.edu
+
+
+
+http://grad.uic.edu/education-news/uic-building-computer-science-boom-crains-chicago-business-reports
+    <div class="field field-name-field-news-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">Mar 27, 2017</span></div></div></div>
+Mon, 27 Mar 2017 15:42:28 +0000
+Kevin Michael Monahan
+283848 at http://grad.uic.edu
+
+
+
+http://grad.uic.edu/fellowships-awards/2016-icah-winners-announced
+    <div class="field field-name-field-announcement-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">May 13, 2016</span></div></div></div>
+Fri, 13 May 2016 18:45:10 +0000
+Benn Williams
+229271 at http://grad.uic.edu
+
+
+
+http://grad.uic.edu/fellowships-awards/deans-scholar-fellowship
+    <div class="field field-name-field-announcement-date field-type-datetime field-label-hidden"><div class="field-items"><div class="field-item even"><span class="date-display-single">Feb 05, 2016</span></div></div></div>
+Fri, 05 Feb 2016 22:09:36 +0000
+Benn Williams
+211534 at http://grad.uic.edu
+
+

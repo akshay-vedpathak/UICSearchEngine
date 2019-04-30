@@ -1,0 +1,313 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ University of Illinois at Chicago  | College of Engineering  & College of Medicine Make a Gift
+
+
+ 
+Academics
+
+Future Students
+Undergraduate Studies
+Graduate Studies
+Courses
+Special Programs
+
+BS/MS Track
+Clinical Immersion Program
+Guaranteed Paid Internship Program
+Medical Scientist Training Program
+Pre-Med
+Senior Design
+
+
+
+
+Student Life
+
+Scholarships
+Study Abroad
+Student Awards
+Student Jobs
+Career Center
+Student Organizations
+
+Alpha  Eta  Mu  Beta
+Bioengineering Graduate Society
+Biomedical Engineering Society
+Engineering World Health
+Graduate Student Council
+Society of Women Engineers
+UBSJ
+
+
+
+
+Research
+
+Research Labs & Focus Areas
+
+
+People
+
+People
+Core Faculty & Staff
+Affiliate Faculty
+Faculty Awards
+Faculty Jobs
+Alumni Connection
+
+
+About Us
+
+About Us
+ABET Accreditation
+Events & Seminars
+News Center
+
+Annual Report
+Newsletter
+News Center
+
+
+Make a Gift
+Directions
+Contact Us
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+					Jie Liang, PhD				
+
+					Richard & Loan Hill Professor				
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+312-355-1789
+
+
+
+
+
+
+
+
+
+
+Bio
+
+Contact Information:
+UIC Bioengineering (MC 563)
+820 S Wood St, W103 CSN
+Chicago, IL 60612
+Office: CSN 164J
+Lab Location: MSB E603
+Lab Website: 
+Computation Server: 
+Research: Dr. Jie Liang leads the Molecular and Systems Computational Bioengineering Lab -MoSCoBL in the Bioengineering Department at the University of Illinois at Chicago. This lab is equipped with a 64-bit Linux clusters with 36 node, each containing dual AMD Opteron CPUs with dual core, with a combined 144 cores availalbe for computation. All nodes are under adequate UPS power management. In addition, this lab is equipped with 4 fast linux quad-core application server machines, each equipped with 8G memory. This linux cluster is supported by a RAID array with multi-terabyte storage space, and is housed in a separate air-conditioned room. This linux cluster and the server machines will be made available for the training activities.
+In addition to specific application software developed at UIC, numerous computing packages are currently running on this Linux environment, including Splus/R, Matlab, Lapack, Arpack, linear programming packages, VMD, molscript, raster3D, Mesa, -OpenGL, Rasmol/Chime, Hmmer2, clustalX, Fasta, Blast, HMM and many other bioinformatics packages.
+Complementing the hardware and software array is an accomplished contingent of technical support team from the Advanced Computing and Communications Center that is currently under assembly to support research activities of the -MoSCoBL.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Connect With Us 
+ 
+   
+    312 996 2335  
+   312 996 5921
+
+Quick Links
+
+
+
+
+ 
+Make a Gift
+Internal Links
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+ | © Copyright 2018. The Board of Trustees of the University of Illinois | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

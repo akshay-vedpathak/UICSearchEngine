@@ -1,0 +1,14 @@
+
+
+
+
+shibsp::ConfigurationException
+The system encountered an error at Wed Dec 12 13:52:19 2018
+
+To report this problem, please contact the site administrator at
+.
+
+Please include the following message in any email:
+shibsp::ConfigurationException at (https://accc.uic.edu/Shibboleth.sso/Login)
+Target resource was not an absolute URL.
+

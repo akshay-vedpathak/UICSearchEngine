@@ -1,0 +1,223 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+          GSuite Client Configuration        
+
+
+
+
+In addition to the web clients, you can also access your GSuite@UIC account through native desktop and mobile clients. 
+Allow Less Secure Apps
+
+Allow less secure apps: ON
+Note that it can take up to 24 hours for this change to take effect.
+Email clients
+Your NetID@uic.edu is your GSuite@UIC account name at Google for Gmail. Note that both Google and the ACCC recommend using IMAP to access your email remotely. You can follow  for many email clients. You will need the information in the Notes below. GSuite@UIC email accounts are now automatically set up to accept IMAP access, so you can skip that step.
+Setting
+Value
+Username
+NetID@uic.edu
+Password
+ACCC common password
+Email address
+NetID@uic.edu
+Protocol
+IMAP
+Incoming mail server
+imap.gmail.com
+Incoming mail server port
+993 (use SSL or SSL/TLS)
+Outgoing (SMTP) server
+smtp.gmail.com
+Outgoing (SMTP) server port
+465 (SSL) or 587 (STARTTLS)
+Use your entire uic.edu email address, NetID@uic.edu, as the user name.
+If your client has a checkbox for Use Secure authentication, do not check it.
+If your client has a checkbox that says Requires Password (or something similar), please check it.
+Email programs that attempt to set up your email account automatically will think that NetID@uic.edu email addresses should be sent to mail.uic.edu, so you will have to set the account up manually.
+If your email program complains that your userID or password is not correct and you know that you typed it correctly and if you have already changed your ACCC password once then go to the Google Captcha page and unlock your account. This can happen due too frequent logins, repeated password failures, or frequently changing IP addresses.
+POP
+POP (Post Office Protocol) is a one-way download of your messages that allows you to access your desktop or mobile email client. By default, POP downloads messages to your computer or device and deletes them from the server. POP only offers one-way communication, which means that actions you take in the mail program (like marking a message as read) won’t be synced to Gmail. We strongly recommend using IMAP instead of POP, but if you really wish to use POP, make the following changes to the configuration:
+Select POP as protocol
+Use incoming mail server port 995
+Use incoming mail server pop.gmail.com
+Using Smartphones (iPhone, Android, Palm, Windows Mobile, Others)
+Google's  and its  has much more information. GSuite@UIC email accounts are now automatically set up to accept IMAP access. However, if you have everything set up correctly, and you can't connect, it doesn't hurt checking. You will need to log onto  and go to Settings in Gsuite@UIC.
+Gmail for Mobile
+Don't despair, Google has an app for that:  is available for Android, iOS, Windows Phone, and BlackBerry. Google thinks it's better than built-in, in some cases, because it looks and works like the Google Web pages.
+You can also access Gmail for Mobile web, visit this URL in your phone's browser: . To read and reply to email messages, view calendar appointments, and browse your documents using the Web browser on your handheld mobile device, visit . To login, enter your username as NetID@uic.edu.
+ is an option, which for supported phones, syncs email, contacts, and calendars. Note that data may be deleted from your phone when you install Google Sync, so make sure to back up before you set up Google Sync. Google Sync is great if you can use it because it is two-way in that changes you make on the Web go to your phone and changes you make on your phone go to Google. Follow Google's instructions to set it up; there are links on the  page.
+Google keeps complaining that my userID or password is wrong
+If your email program complains that your userID or password is not correct and you know that you typed it correctly and if you have already changed your ACCC password once and have waited three hours for the change to sync with Google then go to  and unlock your account. Note that this is the Google Captcha page; now you have to use your NetID@uic.edu -- with the @uic.edu on the page.
+Here are some things that might trigger this lock:
+Too frequent logins. (Google documentation says not to connect more often than once every ten minutes.)
+Repeated password failures.
+Frequently changing IP addresses (especially from geographically diverse locations).
+Using pine on tigger
+There are versions of pine for Windows, Macs, and Linux and you can use them to manage your GSuite@UIC email.  has instructions how how to download, install, and configure PC Alpine -- pine for Windows -- to read your GSuite@UIC email. The download link on that page works for Macs and Linux also; configuration is similar for those operating systems.
+ 
+
+
+
+
+
+
+Last updated: November 13, 2018
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

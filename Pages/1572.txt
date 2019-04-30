@@ -1,0 +1,515 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  University of Illinois at Chicago  | College of Engineering Make a Gift
+
+
+ 
+FUTURE STUDENTS
+
+Undergraduate Admissions
+Chancellor’s Fellows Program
+Graduate Admissions
+Life @ UIC
+Visit Us
+
+
+ACADEMICS
+
+Departments
+Undergraduate Programs
+Graduate Programs
+Current Students
+
+Undergraduate Students
+
+
+Scholarships
+MakerSpace
+
+
+STUDENT LIFE
+
+Student Office Hours
+Student Organizations
+Student Activities – EXPO
+Career Center
+Student Affairs
+Disability Resource Center
+
+
+RESEARCH
+
+Research Centers
+Research Strengths
+Interdisciplinary Areas
+
+Autonomous Vehicles
+
+
+Industry Tech Services
+
+
+ABOUT US
+
+Mission Statement
+ABET Accreditation
+Make a Gift
+News
+
+College News
+Student News
+
+
+People
+
+Faculty
+Staff
+Directory
+
+
+Offices
+Alumni
+Contact
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+					EXPO 2013				
+
+
+
+
+EXPO 2013
+
+
+
+
+
+
+
+
+
+
+
+ENGINEERING EXPO 2013
+Imagine walking into a room filled with people daring enough to tackle some of the most pressing engineering problems. In it you find a robotic system with the potential to deliver aid to frontline soldiers in combat; a design solution to solve the crisis of contaminated drinking water in Bangladesh; and even the invention of a self-rising levee that could prevent the kind of flooding that has recently damaged so many homes and businesses across the Midwest.
+On April 23, more than 260 UIC seniors gathered in Student Center East to compete in the 24th annual Engineering EXPO, applying their four years of knowledge to real world problems.
+“Engineering is all about creation and improvement,” said event technical chair Houshang Darabi, PhD, Associate Professor, Department of Mechanical & Industrial Engineering. As a longstanding participant, Dr. Darabi sees its value from all sides. “EXPO gives students a chance to network, and gives us an opportunity to introduce to the outside world what we do,” he said.
+Sixty-eight judges volunteered from business and industry, including representatives from Motorola; Caterpillar; United Airlines; and Argonne National Laboratory. Groups of Chicago middle school and high school students also came to learn about engineering and get inspired.
+Susan Tonon, a retired computer analyst for United Airlines, volunteered a fourth time to be on the panel of judges—though her perspective is that she received more than she gave. “I find the energy, commitment, and professionalism of these students so heartening,” she said. “I go and see what these kids are doing and I feel better about the state of our planet.”
+INFORMATION ABOUT EXPO
+April 23, 2013
+ 9am to 2pm
+ Student Center East, Illinois Room
+ 750 South Halsted Chicago IL 60607
+
+
+
+
+
+
+
+
+
+
+
+IMAGE GALLERY OF ENGINEERING EXPO 2013
+
+
+
+
+
+
+
+
+EXPO 2013 WINNERS
+
+
+Chemical Processes
+
+
+Fischer-Tropsch Refinery: Transportation Fuels from Natural Gas
+Chemical Engineering
+Mudassir Ali, Stephen Drake, Kevin Meaux, Brandon Sieve
+Abstract:
+As crude oil reserves dwindle, refining is become more expensive and reducing profit margins of transportation fuels. In recent years, advancements in drilling technology have given the U.S. the ability to tap into previously unreachable shale gas reserves. Consequently, cheap natural gas has become available in vast quantities. Fischer Tropsch technology is capable of converting this natural gas into high-value, clean-burning transportation fuels, such as diesel. The resultant fuel is odorless, colorless, and lower in toxicity than traditionally refined fuels. It has virtually zero sulfur and aroma tic content, making it much more environmentally friendly. In addition, diesel fuel produced from Fischer Tropsch liquids has a cetane rating of approximately double that of traditional diesel. The cetane number is the primary measure of diesel quality. The ability of Fischer Tropsch technology to use natural gas as a source for high-demand transportation fuels makes it a very valuable process. The advantages make it clear that it will play a vital role in the path to energy independence in the U.S. The Fischer Tropsch Liquids Plant is part of a larger Integrated Shale Gas Complex and has a capability of putting out 5,000 barrels per day. It will maximize the production of diesel fuel and will be produced to the specifications of the U.S. market. Since this plant will be constructed near a large shale gas reserve, its design can be used as a precursor to larger scale Fischer Tropsch plants in the U.S. With the much sought goal of energy independence at stake, the U.S. cannot afford to overlook this process.
+
+
+Chicagoland Infrastructure
+
+
+UIC East Campus Sustainable Pedestrian Bridge Crossing to Halsted Street Parking Garage, 
+Civil & Materials Engineering 
+Glenn Arnold, William Bakos, Benjamin Hendron, Veronica Ward
+Abstract:
+Passed in 2012, Mayor Rahm Emanuel’s initiative for sustainable infrastructure in Chicago includes an infrastructure trust fund that mandates all new public buildings in the city of Chicago to be LEED certified. To apply this initiative on the UIC East Campus, an elevated pedestrian walkway across Halsted St. will provide safe passage as well as promote environmental sustainability on campus. The bridge will serve as an accessible and multi-functional pathway to pedestrians entering and leaving the student center, the East Campus Recreation Center, the Halsted street parking garage and the East campus Quad. By locating the bridge at the main access point of the parking structure, it will be a highly accessible and convenient mode of passage. The bridge will provide a safe route for pedestrians to cross Halsted St. without needing to climb over the raised median and avoid traffic. While using this bridge, students will notice many sustainable elements including a rainwater collection system, vegetated swale, and permeable pavers. The rainwater that is conserved will be used for campus irrigation, while the sustainable vegetation will help filter water runoff, remove pollution from the air, and provide valuable shade. By developing the parcel of empty land on the West end of the bridge, the environmental awareness of UIC will be promoted to the surrounding community and serve as an educational model. This pedestrian bridge will be a landmark for UIC and will provide immediate benefits to the community and the college.
+
+
+Electronic Devices / Products
+
+
+Autonomous Transmitter Controller, 
+Electrical & Computer Engineering 
+Mike Dorris, Bill Kukowski, Austin Nutt, Alfons Vako
+Abstract:
+In today’s radio broadcast market, engineers are becoming a scarce resource. With an increase in automated equipment and consolidation of stations into broadcast groups, one engineer may be responsible for maintaining several stations. Engineers in smaller markets may be driving between distant transmitter sites and in the event of a fault, the station can end up off the air for a lengthy amount of time resulting in revenue loss. Current automatic control systems are simply too expensive for many of these markets. Our product is affordable so that smaller markets may add reliability to their transmission systems. The unit is a viable insurance policy when engineers are spread thin throughout a market. The goal of the Autonomous Transmitter Controller is to intuitively switch between transmitters at an AM/FM site. Modern radio sites feature two transmitters, a coax switch (to change which transmitter is connected to the antenna) and an antenna system. The two transmitters serve as backups to each other, but the coax switch is not designed to automatically switch between the two in the event of a fault. Our controller’s purpose is to monitor several variables of the site and determine if a fault has occurred. In the case that a fault has occurred, the module decides whether switching to the other transmitter is possible, and if so, it performs the switch to bring the station back on the air.
+ 
+
+
+Environmental Infrastructure / Remediation
+
+
+Water for Ward 12, 
+Civil & Materials Engineering 
+Heidi Grandberry, Alissa Kidd, Tamanna Islam, Andrew Mattson
+Abstract:
+In the slums of Khulna, Bangladesh, 274 children die every day from contaminated drinking water. The two main sources of portable water are the Bhairab River and groundwater, but no facility exists for proper treatment. River water contains human waste, bacteria, and heavy metals. Groundwater contains arsenic and other heavy metals. These toxins pose health risks ranging from dysentery to various forms of cancer. Brighter Dawns, a non-profit organization striving to improve living conditions in Ward 12 (the most neglected section of Khulna), has reached out to UIC structural and environmental engineering students to help end this crisis. After extensive analysis and a restrictive budget, two designs were proposed. The first design is to build a water treatment plant on a provided site located in an area prone to monsoon storms with high winds and flooding. Thus, the structure is designed to resist these wind loads and is raised on stilts to avoid the water levels. Using recycled and local building materials such as bamboo reinforced concrete and stabilized mud blocks integrates sustainability. The second design is to filter groundwater through arsenic barrels. Using the existing hand-operated pumps, this new design directs the water into the filtering device that uses porous media sorbents to remove heavy metals. The filter is an inexpensive solution and retains the current infrastructure. Both designs are simple and effective solutions to end the crisis in Ward 12 as well as serve as a prototype to other underprivileged nations in the world.
+ 
+
+
+Environmental Sustainability
+
+
+Suggested Flood Profile and Floodway Modification of Kerry Funeral Home Property,
+Civil & Materials Engineering 
+Kyle Catalano, Shane Plewa, Ramsey Salahat, Cabe Sartsoontorn
+Abstract:
+The Village of Palos Heights Illinois has found that the current conditions of Kerry Funeral Home are not up to standards due to a newly repaved parking lot. The contractor responsible for the repaving avoided removing existing asphalt in some areas causing a higher elevation in the floodplain. The hydraulic study done by the Metropolitan Water Reclamation District of Greater Chicago (MWRD) on the Navajo Creek located near the Kerry Funeral Home (between Harlem Ave and 70th Ave), has higher existing condition flood elevations and flood discharges than those found in previous studies. The objective of our analysis is to minimize cost to the property owner, while not violating any local ordinance requirements. There are three viable alternatives that are available to the property owner. These include installing a compensatory storage tank, adding permeable asphalt, or creating a retention pond. Our decision will be based on data analysis via traditional surveying as well as 3D laser scanning technology. Our data will be designed and evaluated through AutoCAD and Autodesk Civil 3D. With the findings produced by the point cloud data from the three dimensional laser scan, we will be able to calculate the volume of the existing condition of the property. We then compare it to the previous conditions before the parking lot was repaved. Through this process we will find the best alternative for the property owner.
+
+
+Living & Assistance Products
+
+
+The Electronic Braille Tablet (TEBT),
+Electrical & Computer Engineering
+Dolores Fernandez, Mary McCague, Wallace Quach, Eddie Tsang
+Abstract:
+In the modern world, there are lots of ways to easily access information right at our fingertips. However, this mass of information is NOT so easy for blind people to access. TEBT (The Electronic Braille Tablet) is a step in the direction to resolve this issue. It would greatly increase the availability of literature for the blind, and effectively bring everyday written word to their fingertips as well. Yes, there are audiobooks readily available for the blind, but according to a Braille teacher from Lighthouse for the Blind, when blind people “read” with their fingers, it aids in comprehension of material as well as increasing their spelling and grammar efficiency. The goal of Project TEBT was to build a one-character proof of concept for a refreshable Braille display that will output any text sent to it. This project was finally realized using DC ice cube relays to serve the place of actuators for moving six pins up or down to form all the basic Braille characters. An HC9S12 microcontroller controls the character output. This project went through many phases before it reached completion, and several different methods of pin actuation were researched, designed, and rejected before the relay method was taken on as our official design. A next phase to this project would be to have the relays custom built so that they take up less room, and allow for expansion to many characters, so that a blind person could comfortably read whole words and sentences at a time.
+
+
+Mechanical Devices / Products
+
+
+Robotic Assistance and Aid Transport (RAAT), 
+Mechanical & Industrial Engineering 
+Ashur Joseph, Matteo Occhipinti, Andy Wu
+Abstract:
+In combat or field environments, disbursing aid to front line soldiers puts additional equipment and lives at unnecessary risk. Other areas, such as bomb disposal, assembly lines, and search and rescue, have shown significant progress in using Robotic systems to provide life-saving solutions in hazardous situations. The Robotic Assistance and Aid Transport (RAAT) looks to provide a unique solution to the problem of delivering aid, munitions, food, and surveillance to forward-deployed personnel. Our design goal is to create a system that is a quickly deployable, cost-efficient, and a modular package that could respond to distinct scenarios based on situational needs. The RAATS’ key features achieve this through system maneuverability, payload, and endurance, while keeping the ease of use, maintenance costs, and total system costs down and ensures easy access to a supply of spare parts. A hydraulically controlled suspension system and small footprint ensures the RAAT can reach soldiers in need quickly, and allows it to go where larger vehicles, such as Humvees or helicopters, cannot or will not tread due to their heavy combat loads or other situational threats. This will simultaneously increase the effectiveness of aided soldiers while maximizing their chances of survival in these hostile circumstances. Ultimately, the RAAT system provides an indispensable tool that can save soldiers’ lives in dangerous situations where support otherwise would not be an option.
+ 
+
+
+Mechanical Production Systems
+
+
+Dryer Oven Automation, 
+Mechanical & Industrial Engineering 
+Tara Ceasario, Brad Ferraro, Areazue Hosseini, Brian Katamay
+Abstract:
+Federal-Mogul Corporation is a major manufacturer of automotive parts. Within their gasket fabrication facility in Skokie, Illinois, Federal-Mogul is moving towards a highly automated production line in their Molding Group department. After a chemical application, the gaskets are manually inserted into a non-automated forced air convection drying oven. With the desire to decrease human intervention, Federal-Mogul has expressed the need to create a mechanized system in which to move the gaskets through an updated dryer oven. In addition, they have given three mandates to be met with the new design: the ability to vary the drying time of the gaskets, allow several sizes of gaskets to be inserted into the oven simultaneously, and increase oven capacity and efficiency in order to account for three shift’s worth of manufactured product to be moved through in half the time. The idea is to create a two level mechanism that has adjustable speed and process time. The gaskets will be loaded from one central location. A control panel will be placed in order to keep track of the gaskets, to change the speed of the automated system, and to allow an emergency stop if necessary. Once the gaskets have made its way through the oven, they will be removed and be sent to the process.
+
+
+Medical Applications
+
+
+Tactile Feedback System for Minimally Invasive Surgeries, 
+Bioengineering 
+Natalia Arana, Heta Chokshi, Shelley Kerwell, Tejen Soni
+Abstract:
+Although the advent of Minimally Invasive Surgery (MIS) has minimized patient recovery time and surgical trauma, it has also introduced heavy limitations on the tactile capabilities of surgeons. In conventional open procedures, surgeons rely on tactility as a vital technique for intraoperative assessments; a sensation that is lacking in modern laparoscopic surgeries. Consequently, the absence of direct hand-eye coordination may lead to excessive forces applied on internal tissues. Previous histological analysis has shown excessive grasping forces from laparoscopic forceps may induce localized necrosis. In order to assist surgeons during MIS, a system to measure the applied force was proposed. As a means to quantify the force applied, a force-sensing feedback system was developed for laparoscopic grasping forceps. The objective of this device is accomplished through a two-fold approach. First, the applied force is measured by integrated force sensors. Second, the resulting force is analyzed by a microcontroller and translated into a visual feedback. The visual feedback on a display screen reports the force exerted on tissues in real-time through a color-gradient bar graph. By implementing force-sensing laparoscopic grasping forceps, surgeons can accurately assess the force being exerted and respond accordingly, thereby minimizing potential tissue damage. Future goals of this project are aimed toward standardizing this force-sensing modality for other laparoscopic instruments during minimally invasive surgeries.
+
+
+Medical Devices
+
+
+Portable Vacuum Suction with Manual Power, 
+Bioengineering 
+Maurice Chojecki, Robert Pacie, Matt Pagan, Martin Willoughby
+Abstract:
+In many areas globally, the availability of electricity is either insufficient or unobtainable. In cases involving the developing world and areas struck by disasters, the need for ways to perform emergency related procedures without the use of electricity is essential. In surgeries, the physician often needs to have the maximum-possible visibility of the surgical area which requires the removal of exudates from the surgical area. Typically, surgical suction devices rely on electricity to operate. For the portion of the world that does not have electricity, this becomes an issue. Therefore, a device has been proposed for surgical suction that does not require the use of electricity. Our blood suction device includes a pump that has been designed with the intention of being used in areas that have undergone a disaster and/or lack access to electricity. The proposed pump will be able to evacuate at least 6 L/min without user fatigue, which is consistent with today’s standards. The system will be crafted primarily from bicycle pumps and readily available surgical equipment. The goal of this project is to create a system that can be deployed in any condition and provide a physician with ways to clear exudates from a surgical area. This system will include a pump, a canister for blood collection, a surgical wand and tubing. The system may contain multiple pieces of the latter two elements for multiple surgeries. The device is classified as a type II medical device by the FDA and is exempt from 510(k) submission.
+
+
+Mobile-Controlled Applications
+
+
+Garden Tracker,
+Electrical & Computer Engineering 
+Dariusz Gorczynski, Kevin Marz, Marc Pivan
+Abstract:
+The goal of the Garden Tracker is to update some of the old methods of gardening and bring the hobby closer to the twenty first century. Our device is intended to provide consumers with data about their garden with little interaction required by the user. A collection of sensors will be used to periodically sample temperature, sunlight and moisture levels. A microcontroller acting as a USB host module will store the data to an easily accessible thumb drive. The information can then be retrieved and analyzed at the users convince in order optimize the overall plant health. Data will be available to the user through a software GUI and a comma separated value (csv) file. The user can quickly navigate through the GUI and observer trends in their garden or open the csv file to perform more detailed analysis. To reduce upkeep cost the device will run on rechargeable batteries that charge using solar power. Because of its low power consumption, the garden tracker can be left out in a garden plot for anywhere between several days to several months. Since the garden tracker will be used in outdoor growing environments, the garden tracker will be equipped to deal with all possible environmental hazards. All of the above functionality will be displayed as a prototype for the EXPO, and the next phase would be to wirelessly communicate the statistics to a remote user.
+ 
+
+
+Production Methods & Facilities
+
+
+Marietta Corporation Downtime Analysis and Productivity Improvements, 
+Mechanical & Industrial Engineering 
+Nadya Fogarty, Plamen Ivanov, Julianna Wokurka, Margaret Zero
+Abstract:
+Throughout the manufacturing world, downtime creates multiple disadvantages for a company resulting in reduced efficiencies and lost capital. The root cause of the downtimes can unveil the larger issues present, allow for implementation of countermeasures and increase uptime. The Chicago location of the Marietta Corporation specializes in large and small bottle filling of household products and is interested in improving uptime on all production lines. Current data does not sufficiently determine the chief downtime contributors; therefore, there is a need to restructure the current downtime coding to better reflect the existing state of their five production line processes. The downtime analysis procedures require significant revisions to increase accuracy of analysis reports and establish report standardization. By using standardized codes and corresponding documentation for this data, the operational equipment contributing to the downtime can be identified and improvements addressed now and in the future. Additionally, the visual factory for all the lines needs to be updated to express the downtime modifications and to more effectively convey information to operators. This project will focus on restructuring the downtime coding, recoding past downtime data, developing new analysis standard procedures and designing new visual factory layouts on all the lines. Downtime data will then be analyzed using statistical techniques to identify the chief contributors of downtime. The end goal of the project is to use this information to develop specific countermeasures and action plans on the production lines to improve uptime, profitability, productivity and throughput.
+
+
+Structure & Site Design
+
+
+Focal Point: Design of Modern Sustainable UIC Quad, 
+Civil & Materials Engineering 
+Oscar Carvajal, Russell Coate, Nabil Farooq, Evelina Kaunietyte
+Abstract:
+Slated to be the focal point of University of Illinois at Chicago, a bold vision is undertaken to overhaul the UIC quad. UIC has a large footprint that demands a great quantity of water for irrigation. Our main focus is to replace the concrete tiles in the quad with permeable pavers and develop a storm water harvesting system. Along with creating the focal point for the campus, we will design a modern quad with critical elements geared towards energy efficiency, functionality, serviceability, and sustainability. Harvested water is to be stored in a large water tank, which would be the base for a water fountain along the north side of the Quad. A canopy capped with solar panels is planned along the southern side of the Quad to produce enough energy to operate all electrical functions of the Quad. Using this renewable energy a heat trace network is installed to collect snow melt in winter months. Foundation design, water treatment, and water distribution will be studied. Steel design for the canopy as well as the selection of solar panels is a key element, while the design/build of the fountain is outsourced. A thorough cost analysis will be presented. Our design also includes benches for seating, and greenery is to be added for an overall comfortable atmosphere. All of these features are combined in the heart of UIC giving our campus not only a green infrastructure, but a place to be inspired by.
+
+
+Khounsary Award for Social and Environmental Advancement
+
+
+1. DME – Clean Diesel from Natural Gas, 
+Chemical Engineering 
+John Elzaibak, Roy Kim, Alex Magarychev, Kamal Tbakhi
+Abstract:
+US natural gas availability has increased dramatically as a result of shale gas fracking. On an equivalent heating value basis, the price of natural gas is now much lower than crude oil, creating tremendous opportunities to substitute natural gas and natural gas-based products for oil-based products. A significant new domain for natural gas and natural gas-based products is for use as transportation fuels. However, high pressure storage requirements and relative low onboard storage density of compressed natural gas or the expense of converting natural gas to liquefied natural gas, has led to alternative uses for the low cost energy in natural gas for transportation fuels. One solution, explored in our work, is to convert natural gas to dimethylether (DME) via the conversion of syngas to methanol and methanol to DME which is non-toxic, non-carcinogenic, with much lower pressure storage than compressed natural gas. DME is clean burning in diesel engines, producing almost no soot. Diesel engines need only a small number of modifications to shift from using crude oil based diesel fuel to DME. The process of making DME involves converting natural gas to syngas, then converting the syngas to methanol, followed by converting the methanol and water to DME. As long as natural gas prices stay low, the price of DME will be lower than diesel from the Fischer-Tropsch process and In general lower than the cost of diesel fuel derived from fossil fuels.
+2. Resources Recovery, 
+Chemical Engineering 
+Lynette Hernandez, Hsin Ting Hsieh, Jose Ortiz, Alexander Palmas
+Abstract:
+The Gas Cleanup and Water Reuse Plant (GCWRP) is essential to the integrated shale gas complex. The purpose of this plant is to clean up the effluent vapors to recycle or sell as merchant products and clean enough flowback and processed waste water to feed back to the Combined Heat and Power Plant (CHP Plant) and other units when necessary. Pressure Swing Adsorption (PSA) will be used to treat the effluent vapors. Cleaning up the water will consist of several stages (sand trap, API separator, pH adjusters, mixers, dissolved air flotation unit, ultrafiltration, and reverse osmosis). Economics have been taken into consideration when making the final decisions on what units and materials to use to get to the final goal: high purity gases for recycling or selling and high water purity for reuse in the shale gas complex. All effort has been done to make this a zero emissions plant.
+
+
+Felder Family Award for Environmental and Human Sustainability
+
+
+1. Storm Water Remediation at Elder Park Beach, 
+Civil & Materials Engineering 
+Joseph Giannini, Allen Perez, Joseph Shapiro
+Abstract:
+The beaches of Lake Michigan are a highly coveted attraction for the Chicagoland area. In the Village of Winnetka, Ill., Elder Park Beach has been classified as one of the “Dirtiest Beaches in America”. Pollution has caused numerous beach closings and health concerns to patrons of Lake Michigan’s recreational areas. The main reason for these beach closures is the fecal coliform bacteria in the beach water exceeding permissible levels. The local environmental agency tests water quality for fecal coliform and other contaminants on nearly a daily basis. Contained in storm water runoff are heavy metals from pesticides and fertilizers, vehicle leakage, animal wastes, and construction byproducts. One instance where storm water is directly discharged into Lake Michigan is at Elder Park Beach. The storm sewer system that services the 300 acre watershed directs untreated storm water into Lake Michigan through an outlet located near the beach. We believe a solution in combating this problem is to treat the first flush from stormwater runoff before it enters the lake. By means of an effective two-stage filtration design, we can economically and effectively remove both suspended solids and contaminants, making the beach safer for public use. Our design will be based on a thorough examination of the watershed area, sampling of discharge, and study of a filtration media made of zeolite, calcite, sand, and iron filings. Our design’s effectiveness and cost will be compared to that of similar devices currently being manufactured.
+2. Blood Loss during Labor, 
+Bioengineering 
+Ruchita Gujarathi, Vineetha Kaitharath, Deepika Kaushik, Kruti Shah, Maher Yassin
+Abstract:
+Blood loss during Labor poses a serious threat to a woman’s health in developing countries. Postpartum hemorrhage (PPH) is the leading cause of maternal mortality that occurs during the third stage of labor that constitutes a placental delivery in which a woman loses more than 500 mL of blood. The frequent cause of hemorrhage is the early postpartum uterineatony. World Health Organization (WHO) and International Federation of Gynecologists and Obstetricians (FIGO) recommend that the skilled birth attendants provide active management of the third stage of labor to reduce the risk of PPH. The primary objective of our project is to develop a medical device that accurately measures blood loss during childbirth in developing countries such as India, Africa, and Vietnam. Our blood collection device is comprised of a belt, the calibrated obstetric drape (includes a plastic filter) with color coding that indicates the warning sign. We tested our design at the University of Illinois at Chicago Hospital with the help of mock delivery and received valuable feedback regarding the design and operation of our system. The calibrated drape with plastic filter helps to quantify the blood loss. An algorithm based on average blood loss was created and analyzed using biostatistics. Our design involves easy integration into a standard clinical or non-clinical environment without using electricity or any other external form of energy. Our device will be cost effective and accessible everywhere. Auto-transfusion of blood can further improve the device.
+
+
+OTM (Office of Technology Management) Innovation Prize
+
+
+Automated Guitar Tuner, 
+Electrical & Computer Engineering 
+Yancarlo Maldonado, Oscar Marquez, Alejandro Ruiz
+Abstract:
+Hearing and reproducing relative pitch is a difficult skill to master for any aspiring musician. Electric guitars are arguably the most popular instrument for novice musicians. Electric guitars create sound through the synergy of precise mechanical and electrical components. Faults and inconsistencies in these components lead to problems which are either audibly obvious or undetectable by the untrained ear. Through the use of Fourier analysis and digital signal processing techniques, our product will detect these problems and offer detailed solutions so that the user may diagnose and make appropriate adjustments to the guitar. An easy-to-use graphical user interface allows the user to bring the expertise of a trained guitar technician into the comfort of a personal computer. The sound and feel of a properly maintained guitar is essential to a musician’s craft and to the experience of his or her audience.
+ 
+
+
+Participant Award
+
+
+1. Self-Rising Levees,
+Civil & Materials Engineering
+Guillermo Gaytan, Kyle Gensler, Lev Ladzyga, Karl Novak
+Abstract:
+An important issue in water resources is controlling floods around residential and commercial areas. Storm water causes serious economic problems by flooding businesses, homes, and transportation routes. This leads to costly water removal and extensive remediation for flood damaged areas. In order to prevent flooding, levees are used to increase the capacity of waterways by building embankments along the edges. However, in urban areas where space is limited, levees are infeasible due to existing construction and unde sirable aesthetics. Additionally, levees may fail if breaches occur or if water overtops the height of the levee. In order to solve these problems, we have developed a new levee system that will fit all requirements addressed previously. We will implement our ‘Self-Rising Levees’ along the banks of Good Avenue Pond, in Des Plaines, IL, that are prone to flooding. As water rises to flood levels, the excess water fills storage tanks along the edge of the pond. Inside the tank, the rising water level causes a floating flood wall to raise parallel to the pond’s bank. The variability of flood levels is restrained by the accompanying flood wall height. By making an adjustable flood wall based on the severity of the flood, the natural waterway’s volumetric capacity increases only to necessary levels, and the wall remains unseen during normal water stages. Our ‘Self-Rising Levee’ system limits the space required for levee construction compared to banked levees and solves the problems of water crests rising above the height of the levee and levee breaches.
+2. Fischer-Tropsch Refinery: Transportation Fuels from Natural Gas 
+Chemical Engineering 
+Mudassir Ali, Stephen Drake, Kevin Meaux, Brandon Sieve
+Abstract:
+As crude oil reserves dwindle, refining is become more expensive and reducing profit margins of transportation fuels. In recent years, advancements in drilling technology have given the U.S. the ability to tap into previously unreachable shale gas reserves. Consequently, cheap natural gas has become available in vast quantities. Fischer Tropsch technology is capable of converting this natural gas into high-value, clean-burning transportation fuels, such as diesel. The resultant fuel is odorless, colorless, and lower in toxicity than traditionally refined fuels. It has virtually zero sulfur and aroma tic content, making it much more environmentally friendly. In addition, diesel fuel produced from Fischer Tropsch liquids has a cetane rating of approximately double that of traditional diesel. The cetane number is the primary measure of diesel quality. The ability of Fischer Tropsch technology to use natural gas as a source for high-demand transportation fuels makes it a very valuable process. The advantages make it clear that it will play a vital role in the path to energy independence in the U.S. The Fischer Tropsch Liquids Plant is part of a larger Integrated Shale Gas Complex and has a capability of putting out 5,000 barrels per day. It will maximize the production of diesel fuel and will be produced to the specifications of the U.S. market. Since this plant will be constructed near a large shale gas reserve, its design can be used as a precursor to larger scale Fischer Tropsch plants in the U.S. With the much sought goal of energy independence at stake, the U.S. cannot afford to overlook this process.
+
+
+
+
+
+UIC ENGINEERING EXPO ARCHIVE
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+Connect With Us 
+    
+
+Quick Links
+
+
+
+
+
+ Make a Gift
+Resources
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+© Copyright 2018. The Board of Trustees of the University of Illinois | Privacy Statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

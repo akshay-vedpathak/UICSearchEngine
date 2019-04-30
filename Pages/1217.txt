@@ -1,0 +1,102 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here
+
+
+
+          gmail        
+
+
+
+
+
+
+
+
+
+
+ 
+
+ is a suite of tools used for communication and collaboration. It includes Gmail, Google Drive, Google Sites, Google Groups and Google Calendar.
+Audience: , , ,   
+
+
+
+
+Tags: , , , , Service: , , When you're going to be away from your email for an extended period of time, you can use the auto-reply filter to automatically respond to your incoming email to inform senders that you're away, when you'll be back, and perhaps let them know who they can get in touch with for help while you're gone. 
+
+
+
+
+ is the Google-powered email service. Gmail can be accessed via the web client or desktop and mobile native clients. To get started using Gmail, you must .
+
+
+
+Tags: , Service: POP and IMAP are two different protocols, or ways of accessing your email account. The main difference between them is that:
+By default, IMAP stores messages on the server.
+By default, POP downloads messages to your computer or device and deletes them from the server. 
+ACCC strongly recommends using IMAP:
+
+
+
+GoogleApps@UIC has multiple ways that it can be accessed depending on your needs.
+
+
+
+Tags: , , Service: Use the Report Spam if you received junk email or a spoofed message.
+If you think that your email account has been compromised, contact . Please include the header of the suspicious message and the entire message text.
+
+
+
+
+Tags: , , , Service: The easiest way to import contacts into Gmail is to export your contacts from your old email client into a comma-delimited file, and then import the contents of the comma-delimited file into GoogleApps@UIC.
+
+
+
+Tags: , , Service: 

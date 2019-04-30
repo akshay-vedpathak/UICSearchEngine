@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+          UICalendar Client Download        
+
+
+
+
+Note: As of January 2012: The Oracle Calendar native client cannot run on Mac OS X 10.7 Lion.
+Mac users: If the download files don't download when you double-click on the download links, control-click on the download links and select Download Linked File As  or something similar (each Mac browser words it a bit differently).
+Plus PDA and mobile phone users, including Blackberry,  should consider using  for syncing with UICalendar. It works quite well if your phone or PDA is supported.
+iPhone users: The new version of Oracle Outlook Connector supports iPhone sync with iTunes, on Windows, the only Oracle Calendar sync that works so far with iPhones. It does work. However, you have to use Windows. :) There are other ways. See .
+
+	Desktop clients
+
+				Operation System
+
+				Download
+
+				Windows
+
+
+
+				Mac OS X (not 10.7 Lion)
+
+
+
+				Mac Classic (Mac OS 9)
+
+
+
+				Linux
+
+
+
+				Solaris
+
+
+
+	Mobile clients
+
+				Mobile Devices
+
+				Windows
+
+				Mac Classic
+
+				Mac OSX
+
+				Oracle Calendar Sync for PalmOS
+
+New May 30, 2007:
+See also  below
+
+
+
+
+
+
+				Oracle Calendar Sync for PocketPC
+
+
+
+				N/A
+
+				N/A
+
+				iPhone
+
+iPhone users: See .
+
+
+Oracle Mobile Sync
+
+				Sync PDAs and Cell Phones wirelessly via the Web; see .
+
+	Oracle Outlook Connector
+If you are using an ACCC basic email account, be sure to map the Sent Items, Deleted Items, Drafts, and Junk E-Mail folders to mail/Drafts, mail/Sent Items, and so on. If you don't, they won't be available in Webmail.
+Note added April, 2008: Now you can -- and should -- change Outlook Connector to login using your NetID as you do in all other UICal clients. It makes Outlook Connector work a lot better.
+
+Newer Windows and Outlook 2003 and 2007
+ ().
+This version also supports iPhone sync, with Outlook 2003 or Outlook 2007. I have heard of people that this works for. 
+

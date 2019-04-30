@@ -1,0 +1,432 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  University of Illinois at Chicago  | College of Engineering Make a Gift
+
+
+ 
+FUTURE STUDENTS
+
+Undergraduate Admissions
+Chancellor’s Fellows Program
+Graduate Admissions
+Life @ UIC
+Visit Us
+
+
+ACADEMICS
+
+Departments
+Undergraduate Programs
+Graduate Programs
+Current Students
+
+Undergraduate Students
+
+
+Scholarships
+MakerSpace
+
+
+STUDENT LIFE
+
+Student Office Hours
+Student Organizations
+Student Activities – EXPO
+Career Center
+Student Affairs
+Disability Resource Center
+
+
+RESEARCH
+
+Research Centers
+Research Strengths
+Interdisciplinary Areas
+
+Autonomous Vehicles
+
+
+Industry Tech Services
+
+
+ABOUT US
+
+Mission Statement
+ABET Accreditation
+Make a Gift
+News
+
+College News
+Student News
+
+
+People
+
+Faculty
+Staff
+Directory
+
+
+Offices
+Alumni
+Contact
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+					EXPO 2011				
+
+
+
+
+EXPO 2011
+
+
+
+
+
+
+
+
+
+
+
+ENGINEERING EXPO 2011
+
+
+ENGINEERING EXPO 2011- SCHEDULE
+
+
+
+7:00 a.m.
+STUDENT REGISTRATION OPENS
+
+
+7:00-8:15 a.m.
+PROJECT SET-UP
+
+
+8:30 a.m.
+STUDENTS: Briefing – Illinois Room (stage area)
+JUDGES: Sign-in & breakfast briefing (Cardinal Room)
+
+
+9:00 a.m.
+EXPO OPENS for general public
+
+
+9:30-11:30 a.m.
+PROJECT JUDGING
+
+
+11:30 – Noon
+COLLECTION OF VOTING BALLOTS Attendee/Participant voting ends at noon!
+Be sure to vote for your favorite project!
+
+
+12:00 Noon
+ROBOTICS DEMONSTRATION (Illinois Room) Engineering Design Team
+
+
+12:00-1:30 p.m.
+VOTING TABULATION
+
+
+1:30-2:30 p.m.
+AWARDS (Illinois Room)
+
+
+
+EXPO ORGANIZATION
+
+
+
+General Chair:
+Chris Kuypers, Undergraduate Administration, COE
+
+
+Technical Chair:
+Houshang Darabi, Ph.D., Department of Industrial Engineering
+
+
+Student Chair:
+Stephen Drake, Engineering Council
+
+
+Award Tabulation:
+Jim Muench, Undergraduate Administration, COE
+
+
+Catering:
+Mary Larsen, Undergraduate Administration, COE
+
+
+Cover Design
+Lara Ansari, Undergraduate, Department of Bioengineering
+
+
+Printing
+Manor Press, Elmwood Park, IL
+
+
+
+EXPO FACULTY ADVISORY COMMITTEE
+
+
+
+Terry Layton, Ph.D.
+Department of Bioengineering
+
+
+Karl Rockne, Ph.D.
+Department of Civil and Materials Engineering
+
+
+Jeff Perl, Ph.D.
+Department of Chemical Engineering
+
+
+Vahe Caliskan, Ph.D.
+Department of Electrical and Computer Engineering
+
+
+Carmen Lilley, Ph.D.
+Department of Mechanical and Industrial Engineering
+
+
+
+
+
+
+GALLERY OF THE ENGINEERING EXPO 2011
+
+
+
+
+
+
+
+
+
+
+
+EXPO 2011 WINNERS
+
+
+ASSISTIVE TECHNOLOGY DEVICES
+
+
+Jake-cycle /Jake’s Bike
+Mechanical and Industrial Engineering
+David Garon, Jeremy Hass, Scott Timme, Satheshku Makayee, Lukas Satas, Masin Ouksel
+Abstract:
+Jake is a disabled 11-year old boy who wishes to ride a bicycle. However due to his physical disabilities, which include an amputated left leg, right arm and hand weakness, right leg weakness, and heart conditions, it is nearly impossible for Jake to ride a conventional bicycle. The focus of this project will be to design and build a bicycle based on Jake’s needs and also his desires. We will focus on building a visually appealing bicycle while keeping safety a top priority. The bike will include numerous safety features which will include a three wheel design, with foot and hand harnesses, all breaking and gearing apparatus to be on the left handle bar, and an orbital three- speed gearing for easy transition to any gear even if he is stationary. The frame design will be able to support Jake as he grows during his adolescent life, and will also accommodate his small stature and allow for him to easily mount the bicycle.
+ 
+
+
+MECHANISM AND DEVICE DESIGN
+
+
+Soap Dispenser Buddy, 
+Mechanical and Industrial Engineering 
+John DiNofrio, Sherman Robinson, Raul Rodriguez, Daniel Tyiran
+Abstract:
+Worldwide, the hotel industry supplies single use quantities of soap, shampoo, and conditioner to its customers. While convenient to the short stay customer this practice results in the disposal of tons of plastic bottles annually. Providing customers a means of dispensing these products in a less wasteful manner was made possible through the design of a mechanism that mixes liquid soap, shampoo, or conditioner in a device installed in the shower. By incorporating three large, separate, and refillable dispensers customers are able to use as much as they want while having no bottles to throw away. This project includes the design, prototype manufacture, market study, and manufacturing process for a product used to manually pump liquid soap, shampoo, or conditioner through a shower head. The product was designed to use existing plumbing and adapt universally to any residential or commercial shower. A target market was analyzed to determine the overall need and estimate a number for production thereby enabling a cost analysis per unit. Materials were chosen to make the product cost effective, corrosion resistant, and maintenance free. Our design will not only revolutionize the way we shower but it will also cut down on shower time leading to less water consumption.
+
+
+CHICAGOLAND INFRASTRUCTURE
+
+
+Metra Train Station-Pedestrian Tunnel Lombard IL, 
+Civil Engineering 
+Robert Churchill, Kyle Cussen, John Helfric, Mark Seaquist, Zach Smith
+Abstract:
+The state of Illinois has the second-highest number of railroad crossing accidents in the nation. A new rule by the Federal Railroad Administration (FRA) requires the ten states with the most crossing collisions over the past three years to come up with specific solutions for improving safety. The Regional Transportation Authority (RTA) utilizes the three-track Union Pacific owned railway to run consistent commuter trains to and from the City of Chicago. Options outlined by the FRA include shutting down crossings or building bypass structures, such as overpasses and tunnels. In order to improve safety and accessibility at the Metra station in the Village of Lombard, a pedestrian tunnel is proposed. This project will investigate the design and construction of this structure along with the layout and planning of the surrounding area. A pedestrian tunnel was chosen due to the existing conditions of the area. The existing pedestrian grade crossing is located approximately ten feet above the adjacent access roads. The Metra station is located in the heart of downtown Lombard and poses unique challenges in implementing construction which must be considered. The structure must meet the unique loading criteria caused by the commuter and freight train traffic. The downtown area is vital to the local economy and therefore must not be affected adversely during the construction process. This project provides instrumental advancements in safety and functionality to the commuters of Lombard.
+
+
+ENVIRONMENTAL AND ENERGY CONSERVATION
+
+
+Railway Track Foundation Design Using Recycled Materials, 
+Civil Engineering 
+Paulius Gurklys, Dylan Johnston, Milja Pekic, Martin Todorov
+Abstract:
+A growing demand for construction aggregates is depleting sources of natural aggregates. Therefore, large scale civil engineering applications of recycled materials are becoming more prevalent. With increased government support for railway network expansion, recycled materials in railway track foundation design should be considered. Currently, most of the recycled materials are used in highway construction applications. Minimal consideration is given for its use in railway track foundations. The primary goal of our project is to design a new railway track foundation for Metra trains using locally available aggregates blended with appropriate recycled materials. Track foundation primarily consists of three stratums: ballast, sub-ballast, and subgrade. For ballast and sub-ballast design, requirements include choosing appropriate recycled materials which are compatible with aggregates and comply with AREMA specifications for performance of materials. For subgrade soils, requirements include obtaining data for required ASTM tests. The performance of materials used for ballast, sub-ballast, and subgrade was tested at UIC Geotechnical and Geoenvironmental Engineering Laboratory where we acquired the necessary data for our design. This data allowed us to evaluate the chemical compatibility, durability, mechanical properties, and behavior of recycled materials blended with aggregates. It was determined that certain recycled materials can successfully be blended with aggregates to provide satisfactory performance for ballast and sub-ballast in railway track foundation design. Our design demonstrates that application of recycled materials can be expanded to construction of railway track foundations, thus preserving natural aggregate resources and freeing landfills.
+
+
+STRUCTURE AND SITE DESIGN
+
+
+Integration of Radiant Heat and Flexible Concrete in Bridge Decks, 
+Civil Engineering 
+Shraddha Adhikari, Rose Sadlier, Raguez Taha
+Abstract:
+According to the United States Department of Transportation, icy pavement causes an average of 366,000 car crashes per year (Pissano et al., 10). Bridge decks in particular, are common locations for accidents, as they are more susceptible to colder air temperatures and lack proper insulation. State transportation officials currently use salts and chemicals such as Calcium Chloride, Magnesium Chloride, Calcium Magnesium Acetate (CMA), and Potassium Acetate (KAc), sand, sensor systems and geothermal heating for deicing. Chemical deicers, currently in use, have detrimental effects on the surrounding environment. Additionally, chemical deicers intensify freeze- thaw cycles causing the concrete to crack and corrode the reinforcing steel there by reducing the life span of bridges. An alternative to chemical deicers is radiant heat preventing the formation of ice. With the integration of flexible concrete, a more durable, less permeable, and more sustainable bridge can be achieved. To determine the feasibility, radiant heat and flexible concrete will be applied to the Old Orchard Road Bridge located in Skokie, Illinois. Finite element modeling will aid in the comparative analysis among radiantly heated bridge decks composed of: conventional concrete, conductive concrete and flexible concrete.
+
+
+ENVIRONMENTAL INFRASTRUCTURE & SARA LEE AWARD
+
+
+District Housing for Haitian Homeless, 
+Civil Engineering 
+David Alvarez, Dao Nguyen, Kris Salvatera, Jeremy Stull, Stephen Wong
+Abstract:
+One year after the devastating Haiti earthquake, there are still over a million people left without adequate shelters and safe drinking water. The reconstruction process will undoubtedly take years and billions of dollars before every Haitian will have a permanent home. Our goal is to design a fast track shelter system that is able to withstand not only earthquakes, but also take advantage of the heavy rainfall that occurs in Haiti. The design of our shelter system was inspired by honeybee hives known for their extremely efficient geometry that maximizes volume while using the least amount of material. These hexagonal shaped shelters are constructed using a one piece fabric roof and six steel framed walls and will be able to sleep 8 to 10 people. Because of the uniformity of the design, production cost will be low as there are few parts that need to be produced. During rain, the water will be retained and channeled through the connected roofs into a nearby reservoir and then treated for use. In addition, electric energy produced from wind farms will distribute enough energy for lighting. Ultimately, communities will develop consisting of our shelters with water for life and electricity for safety. Our goal is to bring the cost of each shelter down to an affordable price where more fortunate families can make a donation to provide this shelter for at least one family. This design is sustainable in that it can be disassembled and used elsewhere.
+
+
+COMMUNICATION DEVICES
+
+
+Personal Automated Note Digitizing Application (P.A.N.D.A.), 
+Electrical and Computer Engineering 
+Marios Fanourakis, Mayur Patel, Patrick Scannell
+Abstract:
+In the ever expanding technology industry the demand for automated user friendly digital data entry systems has been consistently increasing. Existing systems such as LaTeX and Microsoft Word are cumbersome and lack automation. Users of such systems must manually input data to form complex objects such as mathematical equations. The proposed system will provide a more efficient and simple means of digitizing user data ranging from handwritten notes to complex formulas. P.A.N.D.A. provides a universal environment requiring no proprietary or specialized hardware. Required input data is collected using a typical computer webcam or other image capturing device such as a scanner and is processed through a sophisticated handwriting recognition application. P.A.N.D.A. is designed and implemented using MathWorks‘ powerful programming environment, MATLAB. A simple graphical interface interacts with users to help automate the process. Testing a variety of handwritten characters with algorithms such as Optical Character Recognition (OCR) produced poor results. Further testing of our design using Support Vector Machines (SVM) and neural networks produced much more desirable results. Further developments using P.A.N.D.A. could consist of an automated mathematical environment with the ability to solve complex equations from the digitized handwritten user input. Such technology could find widespread use in the fields of mathematics and engineering.
+
+
+ELECTRONIC CONVENIENCES
+
+
+Green Breeze, 
+Electrical and Computer Engineering 
+Tomasz Pikul, Sujit Shah, Carlos Torres, Justin Tullos
+Abstract:
+Green Breeze was engineered to safeguard putting greens from adverse climate conditions, preserving the most crucial and costly component of a golf course. Without air circulation, a hot and humid layer of stagnant air remains on top of the putting green, not allowing evapotranspiration to occur, which in turn kills the grass and causes golf courses to completely replace the putting green. Research has shown that grass exposed to temperatures above 90 degrees and relative humidity above 90% for long periods of time is the main cause of damage. At Green Breeze we have constructed a system that will replenish the air circulation on a putting green. Our solution is implemented using readings from a motion detector (to not disturb a game), a thermal/humidity sensor (to know at what point to trigger the fan on), and an HCS12/9S112 microcontroller (which controls and regulates the speed of the fan automatically). Our fan has its own housing to protect it from adverse weather conditions as well as to seclude it from the playing field. The fan is connected to PVC pipes which run underground to transport the air to the putting green through ventilators. This results in a system that is completely discrete and provides the proper amount of air circulation for a healthy putting green. Green Breeze is not only more efficient at providing adequate air circulation, compared to the current industry standard of a box fan, but is also more eye pleasing to the landscape.
+
+
+MEDICAL DEVICES
+
+
+Endotracheal Tube Securing Device, 
+Bioengineering 
+Carl Funk, Pratik Patel, Rishil Patel, Sweetu Patel
+Abstract:
+Premature removal of the endotracheal tube, known as unplanned extubation, is a main cause of tracheal damage and pneumonia for intubated patients. The main reason for unplanned extubation is the standard use of tape as the only securing mechanism to hold the endotracheal tube in place. The existing 

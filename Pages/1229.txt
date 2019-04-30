@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+          Policies and Guidelines        
+
+
+
+
+
+
+
+
+Schedule of penalties for computing privilege abuse.
+Revision Date: December 21, 2007
+
+
+
+
+	Summary of Disk Space Allocations
+There are three types of free ACCC online storage available to each member of the UIC community -- faculty, staff, and student. In each case, you use your UIC NetID and ACCC common password to access the storage.Revision Date: October 19, 2010
+
+
+
+Policy governing the use of university resources and technologies.
+Revision Date: May 05, 2003
+
+
+
+You will download the ACCC Network Backup Service client program you need to connect your personal computer or workstation to the ACCC Backup server though this page. Before proceeding, however, you must read and agree to the following UIC policies regarding the ACCC Network Backup Service:Revision Date: January 18, 2012
+
+
+
+In addition to  and , the following rules apply in the ACCC PC Labs:Revision Date: August 31, 2005
+
+
+
+You can lose your UIC computing privileges if you send offensive or inappropriate electronic mail.Revision Date: August 24, 2005
+
+
+
+All Events and Classified Ads submitted to the UIC Event Calendar must follow the . The UIC Event Calendar system also has restrictions and limitations that will be monitored and enforced. Anyone who chooses to use the UIC Event Calendar will be expected to abide by these policies.Revision Date: March 18, 2009
+
+
+
+The below policy applies only to the computers distributed as part of the AY14-15 Computer Replacement Program.  The renegotiated contract for AY15-16 implements a change in structure, in which ACCC does not have a direct role in the program.
+ Revision Date: September 18, 2014
+
+
+
+GoogleApps@UIC is being offered to the University of Illinois at Chicago community through the Google Apps for Education program ("Services"). Current UIC faculty and staff and currently registered UIC students are eligible for Google Apps@UIC accounts ("Users"). Students may choose to use GoogleApps@UIC because it will give them unified mail, calendar, document collaboration, Web sites, chat, and more. Electronic mail on GoogleApps@UIC has all the advantages of any ACCC email account.
+Revision Date: January 18, 2011
+
+
+
+Partner with technology providers who demonstrate environmental sensitivity and effectiveness programs. 
+Practice proper disposal procedures for all your IT supplies and equipment -- recycle and reuse. See  from Computer Hope.com. Revision Date: March 15, 2011
+
+
+
+The University of Illinois is committed to respecting U.S. copyright law. In accordance with campus policy, the University does not inspect the contents of digital media traversing the campus network.Revision Date: September 14, 2015
+
+
+
+Policy and procedures for installation of class-related softwareRevision Date: February 17, 2015
+
+
+
+Usage of all equipment loaned by the ACCC constitutes acceptance of the overall ACCC .  Any party that borrows equipment from the ACCC or any of its subsidiaries is responsible for returning the equipment in the same condition they borrowed it, and on time.  ACCC will charge fines and/or suspend access to Revision Date: December 22, 2016
+
+
+
+The University of Illinois at Chicago is committed to providing equal access to computer services to people with disabilities. Inclusive environment allows people with disabilities to work along side their peers in completing their educational requirements.Revision Date: March 03, 2008
+
+
+
+The Academic Computing and Communications Center (ACCC) operates several computers for the benefit of the UIC community; specifically, faculty, staff, and students. If you are employed by or attend UIC, you may obtain an account on at least one of our machines.
+Revision Date: October 26, 2004
+
+
+
+Guest access to the UIC wireless network is provided as a service to visitors to the UIC campus. For information on how to obtain access to the guest network, see .Revision Date: January 30, 2012
+
+
+
+The following policy guidelines apply to the registration of any UIC-related Internet domains including domains with UIC in them or the names of any domains incorporating the names of UIC programs which are trademarked (TM) or service marked (SM).
+Revision Date: January 04, 2011
+
+
+
+Your NetID is your identity, in many different ways -- email address, login credentials, Banner, Bluestem, Listserv lists, lists of NetIDs allowed to access various files, personal URL, and more. Changing your NetID is a complex, labor-intensive and time-consuming process, and despite ACCC's best efforts, can result in some service disruption. You wouldn't believe all the different machines, accounts, and files, that can contain a NetID and need to be changed about the same time.
+In almost all cases, ACCC must enlist the assistance of other organizations such as AITS/Banner and ITS (Medical Center Network), and work closely with them to resolve various non-trivial technical issues associated with a NetID change. Approved NetID changes will be implemented on a "best effort" basis with no guarantees of timeliness. Please remember that to minimize service disruption, we have to coordinate and synchronize several steps with other organizations, and that takes time.
+Revision Date: November 19, 2015
+
+
+
+The University of Illinois at Chicago has always been a leader in providing quality network and computing resources for the pursuit of academic research and education. In recent years, these resources have become one of the cornerstones for providing a well balanced education in many, if not all, of the disciplines.Revision Date: October 08, 2010
+
+
+
+Consequences for copyright infringement and peer-to-peer (p2p) abuse
+If the ACCC receives a notification of copyright infringement we will take the following actions:Revision Date: September 22, 2011
+
+
+
+An academic community such as UIC thrives on respect for other's ideas and other's rights. Our privileges are balanced by our responsibilities. This policy focuses on respect for all intellectual property, including copyrighted digital works of entertainment.Revision Date: September 12, 2003
+
+
+
+The academic community thrives on respect for other's ideas and other's rights. Our privileges are balanced by responsibilities. This policy focuses on respect for intellectual property, especially computer software. As used in this policy, the term "software" includes traditional program software and other works published in electronic form.Revision Date: March 07, 1999
+
+
+
+This document is a guide to all Architects, Engineers, Consultants, and Contractors pertaining to the construction design, review, comments, and approval procedures for Telecommunications services as required by the University of Illinois at Chicago. Deviations will not be permitted without the consent of the Director of Telecommunications or a designated representative.Revision Date: June 19, 2017
+
+
+
+The University of Illinois at Chicago (UIC) is committed to being a good network neighbor on the Internet. All computers connected to the UIC wireless or Res-Net networks are using UIC's network for access and are expected to abide by the following rules in order to continue receiving network access.
+Revision Date: August 13, 2015
+
+
+
+The University has long recognized that confidentiality and privacy mandates the removal of student and staff data from computers that are to be reused. The  required all magnetic media to be overwritten or "scrubbed" ten times before being sent to surplus.Revision Date: April 26, 2011
+
+
+
+
+	Guidelines for other authorized uses
+Within these guidelines, other authorized uses of University telephones are calls that:Revision Date: July 01, 2007
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Last updated: August 13, 2012
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

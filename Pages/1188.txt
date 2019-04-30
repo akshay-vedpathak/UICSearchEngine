@@ -1,0 +1,82 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+          How do I set up an out-of-office or vacation email auto-reply?        
+
+
+
+
+Tags: , , , , Service: , , When you're going to be away from your email for an extended period of time, you can use the auto-reply filter to automatically reply to your incoming email to inform senders that you're away, when you'll be back, and perhaps let them know who they can get in touch with for help while you're gone. 
+GoogleApps accounts
+ and .
+Basic Email accounts
+Below are the steps to set up auto-replies (vacation or out of office replies) for  accounts (mailserv and tigger).
+ with your UIC NetID and password.
+Click on Vacation Auto-Reply setup. The first box tells you the current status of your Auto-Reply filter. (Which at this point will most likely be NOT ACTIVE.)
+Edit the content of the auto-reply message. If you've used the service before, the one you used last will be there for you to use again or modify. If you've never used it before, you'll have to type a new one in. In either case, type in what you want to use and click the Save Your Vacation Message button. Saving the message does not activate the auto-reply.
+Set a date for automatic deactivation. Optional but recommended. The auto-reply will deactivate in the morning of the date you specify.
+Click Activate Vacation Auto-Reply Filter button to active the auto-reply. The filter will send the reply once per sender. Auto-reply will avoid sending messages to listserv and other discussion lists. If you receive messages addressed to email aliases, only one reply will be sent to each sender.
+Exchange
+Automatic replies in Microsoft Outlook respond to the first email message you receive from someone. Let people know you aren’t in the office or that your response might be delayed. Automatic replies can include a referral to someone else who can respond in your absence.
+Outlook 2010/2013/2016
+Click File then Automatic Replies.
+Select Send automatic replies.
+If you want, select the Only send during this time range check box to schedule when your out of office replies are active. If you don’t specify a start and end time, auto-replies are sent until you select the Do not send automatic replies check box.
+On the Inside My Organization tab, type the response that you want to send to teammates or colleagues while you are out of the office.
+On the Outside My Organization tab, select the Auto-reply to people outside my organization check box, and then type the response that you want to send while you are out of the office. Select whether you want replies sent to My contacts only or to Anyone outside my organization who sends you messages.
+Outlook Web App
+Log in to 
+Click Settings (gear icon) in the top right corner.
+Click Automatic Replies.
+Select Send automatic replies and set a time period if needed.
+Select Send automatic reply messages to senders outside my organization.
+Input the message that you would like people to receive in both textboxes.

@@ -1,0 +1,6 @@
+
+Forbidden
+You don't have permission to access /depts/oaa/spec_prog/gppa
+on this server.
+
+Apache/1.3.33 Server at  Port 80

@@ -1,0 +1,279 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+
+
+
+          UICalendar Services for Departments        
+
+
+
+
+UICalendar is an older campus-wide calendaring and scheduling service offered by ACCC. UICalendar uses the Oracle Calendar Server, a component of Oracle's Collaboration Suite. This Web page introduces UICalendar services for departments: event calendars and the schedules for departmental resources such as conference rooms, department-owned equipment, and departmental services.
+Types of Departmental Calendars
+Department Event Calendars - for departmental events, contacts, and meetings
+UICal departmental calendars can be used for departmental functions such as the following:
+Schedule departmental meetings
+Define groups of people to use for recurring meetings
+Check for conflicts and suggest alternate times if necessary
+Easy searching
+
+Publish events and departmental calendars
+Publish departmental address books
+The name of a departmental event calendar has the form deptcalname.deptcal where "deptcalname" is different for each calendar; deptcalname.deptcal is the login name given in the .
+Displaying Public Events with the UIC Events Calendar
+You can authorize your Departmental Event Calendar to display its public items on the Web in the format that the  uses. If you use the UIC Events Calendar Web interface to add these items, you can optionally have them included in the UIC Events Calendar itself. Only the public items in an authorized departmental Events Calendar will appear on the Web.
+Doing this is called "Connecting the calendar to the UIC Events Calendar."
+The functions available through this are the following:
+Easily display public events from your Events Calendar calendar in the  (which is at the More Events link on the ).
+Easily display public events in your own public Events Calendar.
+People with individual UICalendar accounts can click a link when viewing an event and add that event to their own UICalendar calendar.
+Anyone can click link when viewing an event and download the event in iCalendar format, to import it into their other personal calendar software, such as Google calendar, iCal, or Outlook.
+Departmental Events Calendars are regular departmental event calendars with special features, so they can be managed using Oracle Calendar clients. However, to use the special functions of the UIC Events Calendar interface, you will need to use the ACCC's Eventcal Web pages, introduced below.
+The public Web address of a department's Events Calendar will be:
+
+http://events.uic.edu?&defaultcal=deptcalname.deptcalPeople who have permission to add events to the calendar can do so through the above Web address.
+To authorize departmental Events Calendars for the UIC Events Calendar:
+Departmental event calendars can be authorized for the UIC Events Calendar using the , either when they are created, or by the calendar's owner later.
+Using a departmental Events Calendar:
+A departmental Events Calendar is used like the UIC Main Events Calendar Web page, except that (1) they don't have Classified Ads and (2) the public cannot add events to most departmental Events Calendars. The  has instructions on using the UIC Events Calendar page.
+Department Resource Calendars
+There are two types of Department Resource Calendars:
+Room-Reservation for scheduling rooms and
+Shared Resource for scheduling resources such as cameras, projectors etc.
+The resource calendar names have the form resourcename.rescal, for example, bgrc_176.rescal, which is the resource calendar for an office in the Benjamin Goldberg Research Center, BGRC 176.
+Resource calendars are somewhat-impaired standard Oracle calendars that can only be .
+Getting and Using a Departmental Calendar
+All types of departmental calendars are created by your department's REACH representative, using the . If you don't know who your department's REACH representative is, see .
+All types of departmental calendars can be edited with UICalendar. The editing of department calendars with UICalendar after they are created can be done by anyone with a UICal account whom the .
+The public events in a department Events calendars that will be displayed on their public Event Calendar Web page should be entered and edited with the Events calendar's Web page. (The same page that is used to display the calendar is used to edit it.)
+"Connecting" a department event calendar to the  can be done easily, either by the REACH member when he or she creates the calendar or by the calendar's owner at any time, using the .
+The editing of an Events Calendar after it's created can be done by anyone that the owner of the calendar authorizes to "administer" the calendar. The calendar's owner uses Admin Panel of their calendar's to authorize other people as administrators to create and edit the public events displayed on the Web. Administrators do not have to have UICalendar accounts, but do need UIC NetIDs and passwords.
+Important Information:
+All Departmental Calendars Are Owned by an Individual
+Like all UICalendar calendars, all departmental calendars must be owned by a single individual and can be logged into the calendar's login name and the owners' ACCC common password. However, all types of departmental calendars have an important difference from individual UICal calendars. They generally need to be managed -- added to, changed -- by several people. This creates a problem. The calendar owner uses their password for their other ACCC accounts -- to read ACCC email, and to login to all the ACCC, UIC, and U of I secure Web pages; the owner should not -- should never -- share his or her ACCC common password with anyone else.
+Give People Permission to Edit the Calendar
+To avoid sharing passwords, which would be a very bad thing,  everyone -- including the owner -- who will modify a departmental calendar in UICalendar does it using designate rights and their own UICalendar account, or, in the case of Events Calendars and the EventCal Web page, administration rights and their UIC NetID. The calendar owner can assign anyone with a UICal account the right to access a departmental calendar from their own UICal account or they can assign anyone with a UIC NetID and password administrator rights to add or edit events to a departmental event calendar. See  for instructions.
+This is done differently for items that will be publicly displayed in a departmental Events Calendar and for all other Department Calendars. In this case, the necessary permission is called administrator permission, which allows a person to use the calendar's Event Web page. The calendar's owner automatically has administrative rights; the owner can use the Admin Panel of their calendar's  to authorize other people as administrators to create and edit the public events displayed on the Web. Events calendar administrators do not have to have UICalendar accounts, but do need UIC NetIDs and passwords.
+Editing the Calendar
+
+Logging In To Departmental UICal Accounts -- Native client only for Resource Calendars
+For a Departmental Room Reservation or Shared Resource Calendar, the only thing the owner can do when they login is .
+You cannot log into a resource calendar using the UICal Web client. 
+Departmental Event Calendars are regular UICal calendars; when the owner logs in to them, they can use them as they would their own UICal agenda, including assigning access rights. But don't use the event calendar account -- use your own UICalendar account with designate rights like everyone else does.
+Departmental Event Calendars that are connected to the UIC Events Calendar  -- Department Events Calendars -- are also regular UICal calendars; you can set designate rights and edit them like the regular departmental calendars, but it is not a good idea, at least for entering and editing the public items. Entering and editing items to go into the public Events calendars should be done with the Events Calendar Web interface.
+
+In summary, you can edit departmental UICal calendars:
+Using the Events Calendar Web Pages:
+For Events Calendars only, the easier and preferable way to submit or edit events is to use the Submitting Events links on the calendar's Events Calendar Web interface:http://events.uic.edu?&defaultcal=deptcalname.deptcal
+where you substitute the name of your department calendar for deptcaltes.deptcal.
+The Events Calendar owner can automatically use the calendar's Events Calendar Web interface; he or she must authorize everyone else who will work on the calendar.
+Items submitted on an Events Calendar Web interface are included in the UIC Events Calendar immediately.
+You can take advantage of the extra fields and display properties that an Events Calendar has to offer when you use the Web interface.
+Other calendars can be invited. ("Other calendars" include the UIC Events Calendar and a college Events Calendar if one exists.)
+As a UICalendar agenda:
+The calendar's owner logs into the actual departmental calendar account and sets designate rights for you; then,
+You log in to your own UICal account.
+File -> Agenda -> Open As Designate.
+Then select the title of your department calendar from the list of calendars you have designate rights to.
+Click OK.
+For regular Departmental Event Calendars and Department Resource calendars, you will be able to do everything you need to do editing it this way.
+For Departmental Event Calendars that are connected to the UIC Events Calendar, departmental Events Calendars, your ability to enter events that will be displayed in the UIC Events Calendar when editing as a UICalendar agenda will be limited:
+Items entered this way to departmental Events Calendars will not be added to the published calendar until the following day and will be displayed very generically.
+Remember to make the Access: Public on items you want published to public Events Calendars.
+Sharing the UICalendar Calendars on the Web
+Here we have a choice of okay and really, really good. In both cases, only events with Access Level of Public will be fully displayed on the Web.
+Global Calendars for Standard Departmental Calendars
+The Okay: Like any UICal calendar, the owner of an event or resource departmental calendar can Web Global Agenda, which allows the departmental calendar to be shared with anyone on the Web. The only problem is that the URL is very long and involved, so you will have to have it as a link on another Web page; you will not be able to give out the direct link.
+Events Calendars
+The Really Good: A departmental event calendar that has been connected to the UIC Events calendar, where the public events are displayed in the UIC Events Calendar format, and, if you select the UIC Events Calendar when you add the events, they are also displayed on the UIC Events Calendar itself. Also note that searches done on departmental Events calendars like this one only search the events in that departmental calendar.
+How-to instructions for editing and administrating Departmental Events Calendars included on their web pages.
+As an example: The . Its URL is: http://events.uic.edu?&defaultcal=accc_docum.deptcal
+(Use: https://events.uic.edu?&defaultcal=accc_docum.deptcal
+Note the https, not just http -- when you want to edit the calendar or give or take away delegate permissions. Though if you forget, it will automatically ask you to log in if you click the links to add or modify or delete an Event.)
+Note that searches done on departmental Events calendars like this one only search the events in the current departmental calendar.
+ 
+
+
+
+
+
+
+Last updated: September 21, 2016
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

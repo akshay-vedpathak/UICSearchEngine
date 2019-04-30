@@ -1,0 +1,221 @@
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+Search this site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Research
+
+
+
+
+Problem of Security and Privacy
+
+
+
+
+
+
+
+
+
+
+
+Security and privacy attacks come from many different sources, in a wide variety of flavors, and are driven by many different motivations. From "private" family Facebook pictures  in ads for targeted advertising to  emails redirecting people to compromised sites, from   in computer systems to vulnerabilities discovered in embedded systems of  or , to burglars   geospatial services to identify victims, the ways in which private information can be exposed, accessed, and exploited and in which security and safety can be compromised are countless. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The two main aspects that make all these attacks possible are technology and information sharing. Technology, especially the internet, provides attackers with opportunities to gain access to private information that is shared, not always intentionally, by the information owners. Therefore, to gain an understanding of this problem, both knowledge of technology and of informational norms is required. Informational norms are social norms that constrain the collection, use, and distribution of personal information. Such norms play a key role in the law; the law routinely looks to social norms to determine what counts as reasonable expectations and reasonable behavior.
+
+
+
+
+
+
+
+
+The key to understand these norms is in the context of a specific problem. However, the rapid advance in information processing technology has outstripped the relatively slow evolution of social norms in a wide range of important cases. What informational norms are evolving? Are these evolving norms acceptable? Addressing such questions, requires a combined approach of various disciplines in an interdisciplinary approach. On the technological dimension, one should gain a firm understanding of the underlying technologies. On the human/social dimension, a deeper understanding is required of the psychology of norm evolution. On the economic dimension, business realities have to be taken into account. From a policy perspective, the goal is not just to understand how norms evolve; we also want to determine how to fashion acceptable norms, norms that adequately respect the fundamental values of promoting individual rights while also preventing users from harm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Our philosophy will result in two broad set of outcomes: 
+
+
+
+
+
+A set of broad scientific principles that constitutes a systemic, deeper understanding of the fundamental issues in ESP
+A set of methods, tools, and policies that can be employed by end-users, technologists, and policy makers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research Areas
+
+
+
+
+
+
+
+
+
+
+
+Our research efforts and philosophy is focused in the following main areas:
+
+
+
+
+
+
+
+
+
+Social Networks
+Commercial use of social networks
+Privacy tools for social networks
+Safeguarding personal systems from unauthorized access
+Social networking over mobile devices
+Healthcare Informatics
+Securing healthcare information by controlling information propagation
+Mobile and tele-health applications
+Designing human-centric healthcare IT systems
+Adoption and diffusion of secure healthcare IT systems
+Electronic Financial Transactions
+Assisting organizations to implement security measures
+Supporting users to conduct secure electronic transactions
+Addressing privacy issues in electronic transactions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+||||Powered By 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+

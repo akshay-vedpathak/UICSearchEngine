@@ -1,0 +1,415 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ University of Illinois at Chicago  | College of Engineering Make a Gift
+
+
+ 
+ACADEMICS
+
+Future Students
+Undergraduate Studies
+Graduate Studies
+Minor in Environmental Engineering
+Minor in Materials Engineering
+
+
+STUDENT LIFE
+
+Scholarships
+Student Organizations
+
+ASCE (American Society of Civil Engineers)
+Engineers Without Borders (EWB)
+Institute of Transportation Engineers
+NSBE (National Society of Black Engineers)
+SWE (Society of Women Engineers)
+SHPE (Society of Hispanic Professional Engineers)
+Structural Engineers Association Of Illinois (SEAOI)
+Tau Beta Pi (Engineering Honors Society)
+
+
+CME Job Board
+Career Center
+Living in the City
+
+
+RESEARCH
+
+Research Labs
+Environmental Science (IESP)
+Urban Transportation (UTC)
+
+
+PEOPLE
+
+Faculty & Staff
+CEPAC
+Alumni
+Faculty Awards
+Open Positions
+
+
+ABOUT US
+
+Our Department
+ABET Accreditation
+Seminars
+Events
+Newsletter
+News Archive
+Contact Us
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+					PhD Student Helps Team Win Second Place at ‘Intelligent Water Systems Challenge’				
+
+November 28, 2018 
+
+
+PhD Student Helps Team Win Second Place at ‘Intelligent Water Systems Challenge’
+
+
+
+
+
+
+ 
+ 
+
+
+John Mulrow, a PhD candidate in the Department of Civil and Materials Engineering (CME), partnered with a team of scientists from the Metropolitan Water Reclamation District of Greater Chicago (MWRDGC), a professor from the University of Illinois at Urbana-Champaign, and professionals from Ensaras, Inc., to win second place at the inaugural “LIFT Intelligent Water Systems Challenge.”
+The national competition, hosted by the Leaders Innovation Forum for Technology (LIFT), a joint effort of the Water Environment Federation and the Water Research Foundation, challenged participants to develop new tools to improve local water and environmental quality through data analytics and artificial intelligence. It featured 19 teams of students, professionals and technology experts who used innovation and data to help solve difficult real-world issues facing water and wastewater utilities. Winners were announced following finalists’ presentations that were delivered at the Water Environment Federation’s Technical Exhibition and Conference in New Orleans. The team captured second place for its project “Developing Intelligent Advanced Warning Systems for Odors at Thornton-Composite-Reservoir.”
+The team developed solutions to odor issues, and created a predictive model to provide MWRDGC’s staff with advanced warning before odors emerge at the reservoir, which will allow corrective actions could be taken in advance.
+“My friend Dominic Brose, a soil scientist at the MWRDGC, asked me about joining a team focused on predicting odor events at their large reservoir on the south side. Dominic was familiar with CSUN’s work applying machine learning to civil engineering problems,” said Mulrow, who is working under the direction of CME Associate Professor Sybil Derrible in the . “I was lucky to recruit the assistance of Darshan Jain, Master’s Degree candidate in Civil Engineering, to help with data preparation and Quality Assurance/Quality Control (QAQC).”
+The data prep and QAQC processes turned out to be a major portion of the work as the team spent approximately four months reviewing hundreds of thousands of data points from at least 10 different data streams – weather, reservoir operations monitoring, and sensor data. They had to get each data type into a database format that was usable in machine learning testing. Additionally, they mined the data for time series and spatial trends in order to formulate hypotheses for data that would provide the strongest predictive power. 
+“Once the data was compiled, we worked with Dr. Lav Varshney [of UIUC] and Ms. Nina Kshetry [of Ensaras] as they tested random forest algorithms on various subsets of data in search of an algorithm that would successfully predict odor events while avoiding false positive predictions,” said Mulrow. “Using this approach we were able to identify the data types and monitoring locations with the most predictive power, which will help MWRD improve their odor monitoring program going forward.”
+While the contest has ended, the teams’ research will continue to be used to remedy the real-world solution they were tasked with addressing.
+“We will be conducting follow-up this fall to train MWRD staff in implementation of the prediction algorithm using real-time data streams,” said Mulrow. “The algorithm that was developed can also be used to evaluate the efficacy of odor mitigation solutions at additional locations.”
+Learn more about the research at CSUN at . Learn more about CME’s Masters and PhD degrees at .
+By David Staudacher, UIC 
+ 
+
+
+
+Facebook
+
+
+Twitter
+
+
+Google Plus
+
+
+Linkedin
+
+
+Tumblr
+
+
+Email
+
+
+
+
+
+
+
+
+
+
+
+
+You may also like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+davidst
+
+
+
+
+
+
+PreviousCollege of Engineering’s First Female Graduate
+
+
+NextProfessor Vitousek Quoted in Wired Magazine Story
+
+
+
+
+
+
+
+
+
+Search
+
+  Recent Posts 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recent CommentsArchives 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Categories 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meta 
+
+RSS
+RSS
+ 
+ 
+
+
+
+
+
+ 
+Connect With Us 
+ 
+    
+  (312) 996-2426
+
+Quick Links
+
+
+
+
+
+ 
+Make a Gift
+RESOURCES
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+  |   
+© Copyright 2018. The Board of Trustees of the University of Illinois | Privacy Statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,689 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+          How do I use pine (Alpine) with GoogleApps?        
+
+
+
+
+Tags: , Service: Have you been using pine on tigger to manage your uic.edu email?
+Want to get away from logging in all the time, but still use your trusty pine interface?
+Want to be able to use pine and still save attachments directly to your personal computer?
+Want to use pine to read your GoogleApps@UIC email?
+You can do all of these things with the personal computer versions of Alpine. (The "pine" on tigger has been the newer Alpine for many years. It's the same thing.)
+What Instructions You Need and What You Don't
+This page gives instructions on how to install and set up PC Alpine to read GoogleApps@UIC email. You will need these; it isn't obvious.
+But you won't need instructions on how to use Alpine. If you know how to use Pine, you know how to use Alpine, with the added extra that you can click on an option in Alpine to select it, in addition to typing its shortcut letter.
+Download and Install Alpine
+There are specific instructions here for Windows. You can install Alpine on Macs and Linux also; the files needed are in the same download location. (This is the same place the ACCC gets alpine for tigger.)
+It is very important that you get the location for your pinerc file right the first time (Step 7) please be careful.
+.
+Scroll down to Windows Downloads, and click on PC-Alpine setup program to initiate the download. (Going there to get the download ensures that you will get the newest version of the software.)
+At the moment, this will download setup_alpine_2.00.exe.
+Double-click on the exe file to run it.
+If Windows says that the publisher cannot be verified, click Run and give it permissions to make changes if asked.
+Follow the instructions toinstall Alpine; accept the options you are given until...
+After you click Install and the program is installed, a series of two Alpine Configuration Setup dialog boxes will appear.
+It is very important that you get this right the first time; please be careful. In the first Alpine Configuration Setup dialog box ,
+Click Use local configuration file
+Then click Browse, browse to your My Documents folder, type: pinerc
+			at the bottom for the file name, and click Open.
+When you get back, it should read: ...My documents\pinerc
+			(Where "..." is other stuff. You can put your pinerc file elsewhere if you want, but make sure it's somewhere that you own. Such as My Documents.)
+Click OK.
+
+In the second Alpine Configuration Setup dialog box,
+Personal Name: Your name as you want it on your sent email messages.
+Email address: yourNetID@uic.edu 
+			For example: adabryon@uic.edu
+Mail server: imap.gmail.com/ssl/user=yourNetID@uic.edu 
+			For example: imap.gmail.com/ssl/user=adabyron@uic.edu
+Select: This server is an IMAP server
+SMTP server: smtp.gmail.com/ssl/user=yourNetID@uic.edu 
+			For example: smtp.gmail.com/ssl/user=adabyron@uic.edu
+Click OK
+
+
+Click Finish.
+When Alpine opens for the first time and it displays the Main Menu, the Alpine Login dialog box will open. It will have yourNetID@uic.edu already filled in for Login:.
+Type your ACCC common password in the Password: box.
+Click to select Preserve this password for future logins if it's safe.
+Click OK.
+	You will have to do this again the first time you send a message.
+Add Your Email Folders
+The above just gives you access to your Inbox; you still need to add the rest of your folders, or as Google calls them, labels.
+You might receive an error message about not being able to save changes to your configuration; that appears to be a bug in Alpine. You should be able to ignore it.
+In Alpine's Main Menu, use Main Menu->Setup->Config to enable incoming mailboxes:
+
+[X] Combined Folder Display
+[X] Expanded View of Folders
+
+Type: e (Exit Setup) and type y (Yes).
+Config changes don't take effect until your next Alpine session, so type: q (Quit) and y (Yes) to close Alpine.
+
+
+In the MAIN MENU, type (or click on): s (Setup).
+In a highlighted line at the bottom, Alpine displays: Choose a setup task from the menu below :
+Type: c (Config)
+Type Ctrl-w (WhereIs), type: Folder Preferences and press Enter.
+If the Enable Incoming Folders option is not already selected -- marked with an X -- press double-click on it to select it:
+[X] Enable Incoming Folders
+
+If you'd like your folders to be automatically expanded, then select these also:
+
+Open Alpine. Use Main Menu->Setup->CollectionList to add your other mailserv folders as a Folder-Collection:
+Type m (Main Menu)
+In the MAIN MENU, type: s (Setup).
+In a highlighted line at the bottom, Alpine displays: Choose a setup task from the menu below :
+Type: L (CollectionList); it should look something like this:ALPINE 2.00 SETUP COLLECTION LIST
+Mail
+					    Local folders in mail/
+ 
+ 
+ 
+ 
+ 
+                                                                      ? Help      E Exit Setup P PrevCltn   - PrevPage A Add Cltn $ ShuffleO OTHER CMDS C [Change]   N NextCltn Spc NextPage D Del Cltn W WhereIs
+
+
+
+Type: a (Add collection). In Alpine's FOLDER COLLECTION ADD screen:ALPINE 2.00 FOLDER COLLECTION ADD
+Nickname : GoogleApps@UICim
+				Server :
+				Path :
+				View :
+
+				   Fill in the fields above to create a new Folder Collection.
+				   Use "^G" command to get help specific help for each item, and
+				   use "^X" when finished.
+ 
+ 
+^G Get Help ^X eXit/Save ^Y PrvPg/Top ^K Cut Line^C Cancel   ^D Del Char  ^V NxtPg/End ^U UnDel Line
+
+In the Nickname field, type a nickname for the server that your other email account is on; for example: GoogleApps@UIC
+In the Server field, type the imap.gmail.com/ssl/user=yournetID@uic.edu 
+		In this case: imap.gmail.com/ssl/user=adabyron@uic.edu
+Leave Path: and View: blank.
+Type: Ctrl-x (eXit/Save)
+Alpine will ask: Exit and save changes?
+		Type: y (Yes)
+ALPINE 2.00 FOLDER COLLECTION ADD  Folder: INBOX 2 Messages
+Nickname : GoogleApps@UIC
+					Server : imap.gmail.com/ssl/user=adabyron
+					Path :
+					View :
+
+					Fill in the fields above to create a new Folder Collection.
+					Use "^G" command to get help specific help for each item, and
+					use "^X" when finished.
+ 
+ 
+ 
+ 
+
+Exit and save changes? yY [Yes]N No
+
+
+This returns you to the SETUP COLLECTION LIST screen; the folder collection you added will be listed.ALPINE 2.00 SETUP COLLECTION LIST   Folder: INBOX 2 Messages
+   Mail
+					      Local folders in mail\
+   GoogleApps@UIC
+					      Folders on on imap.gmail.com/ssl/user=adabyron@uic.edu in home directory
+                                                                      
+					           [New collection added. Use "$" to adjust order.]
+					? Help       E Exit Setup P PrevCltn   - PrevPage A Add Cltn $ ShuffleO OTHER CMDS C [Change]   N NextCltn Spc NextPage D Del Cltn W WhereIs
+
+
+Type: e (Exit Setup)
+
+Thereafter, the Inbox and other "folders" -- labels -- in your GoogleApps account will be an Alpine Folder-Collection. (Note that the Folder-Collection <Mail> holds your local folders.)
+
+
+ALPINE 2.00   FOLDER LIST                  Folder: INBOX                  1,327 Messages +
+--------------------------------------------------------------------------------------------
+Folder-Collection <Incoming-Folders>
+--------------------------------------------------------------------------------------------
+INBOX
+--------------------------------------------------------------------------------------------
+Folder-Collection <Mail>
+--------------------------------------------------------------------------------------------
+sentmail savemail
+--------------------------------------------------------------------------------------------
+Folder-Collection <GoogleApps@UIC>
+--------------------------------------------------------------------------------------------
+INBOX/            1cel-lists[/]     ACCC-people/      ACCC-stuff/       Drafts[/]
+Follow up[/]      IT meeting[/]     Junk[/]           Junk E-mail[/]    Kathleen[/]
+Mandy[/]          Migrated[/]       Misc[/]           Priority[/]       Sent Messages[/]
+Stuff/            Testing[/]        Trash[/]          Western[/]        [Gmail]/
+birthday[/]       dislist[/]        high-test[/]      incoming[/]       judy11[/]
+? Help         < Main Menu    P PrevFldr        - PrevPage   A Add          R Rename
+O OTHER CMDS   > [View Fldr]  N NextFldr      Spc NextPage   D Delete       W Where Is
+If you didn't add your GoogleApps@UIC Inbox when you installed Alpine, you can do it later. Here is how.
+Use Main Menu->Folder List-> and have Incoming-Folders expanded to add your GoogleApps@UIC Inbox to your pine Incoming folder list.
+In the MAIN MENU, type: L (FOLDER LIST).
+You need to have the Incoming Folders collection expanded and be in it to add your GoogleApps@UIC Inbox to it. How you do this depends on what Folder options you have selected; you may have to:
+Highlight Incoming-Folders and press Enter:Incoming Message Folders
+					-----------------------------------------INBOX
+
+Or use an arrow key if necessary to highlight INBOX in Folder-Collection <Incoming-Folders>:-----------------------------------------
+					Folder-Collection <Incoming-Folders>
+					-----------------------------------------INBOX
+					-----------------------------------------
+					Folder-Collection <Mail>
+					-----------------------------------------
+					[Select Here to See Expanded List]
+
+
+With your current INBOX highlighted, type: a (Add).
+You will add the inbox at the bottom of Folder List window;
+For Name of server to contain added folder :, type: imap.gmail.com/ssl/yourNetID@uic.edu
+		For example: imap.gmail.com/ssl/user=adabyron@uic.edu
+		Press Enter.
+For Folder on "imap.gmail.com/ssl/yourNetID@uic.edu" to add, type: Inbox
+		Press Enter.
+For Nickname for folder "Inbox" :, type a suitable nickname, such as: GoogleApps@UIC and Press Enter.
+Alpine might open a dialog box asking you to enter the password for your account.
+Type your ACCC common password in the Password: box.
+Click to select Preserve this password for future logins if it's safe.
+Click OK.
+
+
+Go back to the folder list, if necessary, and type m (Main Menu)ALPINE 2.00 FOLDER LIST       Folder: INBOX 2 Messages
+-----------------------------------------------------------------
+				Folder-Collection <Incoming-Folders>
+				-----------------------------------------------------------------
+				                                                                  
+INBOX GoogleApps@UIC
+ 
+
+
+Need help?
+
+
+ G Suite (formerly Google Apps) 
+ Email
+
+Phone
+312-413-0003
+ 
+  
+
+Last updated: September 21, 2016
+
+
+Browse by tag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Choose service  
+          ACCC Extended Laptop Loan (ACCCELL)    
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Automatic Call Distribution     
+          Backups    
+          Blackboard Collaborate    
+          Box    
+          C-stop    
+          Classroom Equipment Lending    
+          Classrooms    
+          Collaboration Tools    
+          Colocation Server Hosting    
+          Computer Labs    
+          Conferencing    
+          Corporate Executive Board    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Endpoint Management    
+          Equipment Lending    
+          Event Logging    
+          Event Support (Audio/Visual)    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          High Performance Computing    
+          Identity and Access Management    
+          Instant Messaging    
+          Learning Design and Development    
+          Learning Environments    
+          Learning Management System    
+          Learning Technology Solutions    
+          Lecture Capture    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Conversion    
+          Media Streaming    
+          Microsoft IIS    
+          Mobile Phones    
+          Multimedia Production    
+          Network    
+          Network Data Moves    
+          Network Filters    
+          Network Operations Center    
+          Network Security Vulnerability Scanner    
+          Office 365    
+          On-Site Support    
+          ONE.UIC    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Recharge Stations    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Secure Computing Environment    
+          Security    
+          SharePoint    
+          Single Sign On    
+          SSL Certificates    
+          StarTel    
+          Surveys    
+          Telecommunications     
+          UIC Alert    
+          UIC Mobile     
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

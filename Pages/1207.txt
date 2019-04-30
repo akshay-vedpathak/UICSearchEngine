@@ -1,0 +1,322 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here
+
+
+
+          Students        
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Blackboard Learn is a web application that allows the creation, administration, tracking, and delivery of digital content via course sites. This type of application is also referred to as a Learning Management System or LMS. At UIC, Blackboard Learn course sites are used in three main ways:
+for the enhancement of face-to-face instruction,
+as an important component of content delivery for blended courses, and
+as a core element delivering and assessing learning in online courses. 
+Audience: , , ,  ,   
+
+
+
+
+
+ 
+
+ is a suite of tools used for communication and collaboration. It includes Gmail, Google Drive, Google Sites, Google Groups and Google Calendar.
+Audience: , , ,   
+
+
+
+
+
+ 
+
+ is an online file sharing and cloud content management service that works on PCs, Macs, mobile and tablet devices and provides access to your files from any location for collaboration with other University users or external parties.
+Audience: , , , ,  ,  ,   
+
+
+
+
+
+ 
+
+The ACCC Service Desk offers general support services for ACCC services via email, walk-in, and phone. 
+Audience: , , ,  
+
+
+
+
+
+ 
+
+The UIC community wireless network identifies itself as UIC-WiFi. Visitors to UIC may be eligible to use UIC-Guest or eduroam. UIC-WiFi uses WPA2 Enterprise Security. WPA2 Enterprise implements the 802.11i security standard, which includes government-grade AES encryption and 802.1x authentication. The specific authentication method that we use with PEAP-MSCHAPv2.
+UIC-Guest is used by non-UIC visitors on our campus. To give users temporary Guest access please visit the .
+eduroam is a World Wide wireless network. A user can connect to eduroam on UIC’s campus after first connecting at their home institution.
+Audience: , , ,  
+
+
+
+
+
+Formed in 2016, the Learning Technology Solutions (LTS) team brings together the instructional design and software support aspects of the Instructional Technology Lab, with the classroom and computer lab technology support of the Learning Environments & Technology Services office. This group works to improve your experience as an instructor here at UIC by providing a central point of contact for all of your learning technology needs.
+OUR MISSION
+To enhance student success and faculty empowerment through learning technologies.
+Audience: ,  
+
+
+
+
+
+Telecommunications provides general information about telecommunications services, customer service orders, cell phones, pagers as well as consulting for large-scale engineering projects.
+Audience: , , ,  
+
+
+
+
+
+ 
+
+Starting Summer 2018, ACCC is piloting a new printing solution through a partnership with Wepa!  about this exciting new approach to printing!
+U-Print is the campus-wide printing system. U-Print is available in ACCC computer labs and in certain department locations. You can also use U-Print to print from your personal computer or mobile device, making it easy to print when you want, and where you want.
+Audience: , ,  ,  ,   
+
+
+
+
+
+ 
+
+ is a calendar and scheduling tool that allows users to manage and coordinate appointments, events, and tasks on the web or any CalDav compliant client. 
+Audience: , , ,   
+
+
+
+
+
+ACCC provides a variety of training formats, including self-paced ,  and one-on-one consulting.
+Audience: , , , ,   
+
+
+
+
+
+ACCC Satellite Services Helpdesk provides hands-on technical support for personal computers and other devices of UIC students, staff, and faculty. Support is available for connecting to campus networks, including , virus removal, and installing campus-licensed software.
+Audience: , ,  
+
+
+
+
+
+The Virtual Private Network service allows you to securely access resources at UIC over a non-UIC Internet connection. While connected to the VPN, the client software works with the operating system to determine when you are accessing an Internet location that the client should protect. When you are accessing such a location, the VPN client encrypts the data.
+Audience: , , ,  
+
+
+
+
+
+The ACCC provides a personal University email address to all current students, staff and faculty. The email address is in the format NetID@uic.edu and can be used in conjunction with any of the email services provided by the ACCC (, and ), or  to an existing non-University email address.
+Audience: , , , ,   
+
+
+
+
+
+ 
+
+Starting October 17th, UIC faculty, staff, and students will be asked to set-up new password recovery options at the time of the next password change for their UIC NetID. Once each user has completed this step, their passwords for Campus NetIDs and Enterprise IDs will be the same. For more information about the One ID & Password (OIDPW) project please see .
+UIC NetID is an identifier used to access many university services. Identity and Access Management includes authentication, provisioning of services and consultation for obtaining UIC NetIDs, establishing non-personal email addresses for University business, NetID changes, and troubleshooting related to university identities. 
+Audience: , , , ,  ,   
+
+
+
+
+
+ 
+
+Qualtrics is a sophisticated, easy to use web-based service for creating, publishing, and analyzing survey data. Qualtrics offers advanced options and is highly customizable.
+Audience: , , , ,  
+
+
+
+
+
+Campus computer labs are available to UIC students, staff, faculty and authorized guests. Several of the labs are available for . There are some labs that are open 24 hours, 7 days a week. In addition to general use labs, ACCC manages labs with access limited to a certain group, such as residence hall residents or students in a particular college.
+Audience: , , ,   
+
+
+
+
+
+The UIC Directory is an  of current UIC students, faculty and staff. The Directory also includes a complete listing of .
+Audience: , , , , ,   
+
+
+
+
+
+ 
+
+Office 365 is a free suite of programs that includes Office applications. There are two ways that you can use Office 365.  You can work in the cloud by using Word Online, Excel Online, PowerPoint Online, OneNote Online and more. In addition, you can install all of the same apps locally on up to 5 PCs or Macs, 5 tablets, and 5 mobile devices.
+ 
+Faculty and staff may still use a local version of Office Professional by installing the  through the WebStore.
+ is the common email and calendar solution that is available to faculty and staff.  This is a separate service from Office 365.
+Audience: , , , ,   
+
+
+
+
+
+ 
+
+Network Operations Center is staffed 24 hours a day, 7 days a week, year-round to monitor the campus network, the ACCC's mission-critical systems, and services;  to receive reports of system problems; and to pass important information on via the .
+Audience: , , , , ,  
+
+
+
+
+
+ 
+
+For web and media publishing needs, choose from  or  web publishing options on people.uic.edu, webhost.uic.edu or red.uic.edu.
+Audience: , , ,  
+
+
+
+
+
+ 
+
+A listserv email list is an email-based list of subscribers, which can be used as a discussion group, a distribution list or a group or campus unit email address.
+Audience: , , ,  ,   
+
+
+
+
+
+The ACCC provides multimedia equipment for a variety of uses:
+Students may check out laptops and other multimedia equipment for three days at a time, at no cost, from several locations on campus.
+Laptops are limited to three total checkouts per semester, in order to ensure the limited supply of laptops is available to as many students as possible.
+
+Faculty may reserve or check out laptops and other multimedia equipment for use in a specific class session, at no cost, from the ACCC-LTS Support office.
+Faculty may check out multimedia equipment for three days at a time, at no cost, from the ACCC-LTS Multimedia Lab.
+Students, faculty, or staff can rent multimedia equipment for scheduled events, for a fee. Details of this service are found at the .
+Audience: , , ,  
+
+
+
+
+
+Res-Net is the computer network access available in UIC residence halls. The Res-Net connection provides access to the internet.
+Audience:  
+
+
+
+
+
+All buildings on the UIC campus are connected to the UIC campus backbone network, which connects UIC to the Internet through three Internet service providers.
+Audience: , , ,  
+
+
+
+
+
+ is an optional free service that allows UIC officials to send text messages to your mobile phone or any text message capable device in the case of a campus emergency.
+Audience: , , ,  
+
+
+
+
+
+ 
+
+The ACCC hosts two types of local database servers for use by individuals, departments, or other campus groups: MySQL and MSSQL. Both are relational database management systems (RDBMS) that support multiple databases and that allow multiple people to access each one.
+Audience: , , , ,   
+
+
+
+
+
+Blackboard Collaborate Web Conferencing is a virtual learning environment to facilitate real-time online learning. This Web conferencing system is accessed through Blackboard Learn and empowers Blackboard Learn instructors and TAs to create individual (and repeat Web Conferencing sessions) on their own with out requesting a session to be created or activated. 
+Audience: , , ,  
+
+
+
+
+
+Network services are provided for wired and wireless networks.  Network access is provided in student residences, academic, and administrative buildings.  
+Audience: , , ,  
+
+
+
+
+
+The  was developed to post Events and Classified Ads electronically via the Web. It makes it easy to post brief items on the Web, and, if you wish, to send a one line summary of the item to the audience who will be most interested in it.
+Audience: , , , ,   
+
+
+
+
+
+ 
+
+C-stop is a modern new space for students at UIC. For more information, please visit .
+Locations
+C-Stop BSB
+	Behavioral Sciences Building
+	1007 West Harrison Street
+	BSB Learning Center, First Floor

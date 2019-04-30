@@ -1,0 +1,165 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+          Answers        
+
+
+
+
+
+      Displaying 1 - 20 of 468 answers    
+
+
+
+
+Filter by service  
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Argo Cluster    
+          Backups    
+          Basic Email    
+          Blackboard Collaborate    
+          Box    
+          Classrooms    
+          Computer Labs    
+          Conferencing    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          Identity and Access Management    
+          Instant Messaging    
+          Instructional Technology Lab    
+          Learning Environments    
+          Learning Management System    
+          Lecture Capture    
+          Linux Virtual Servers    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Streaming    
+          Network Data Moves    
+          Network Operations Center    
+          Office 365    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Security    
+          SharePoint    
+          Shell Accounts    
+          Single Sign On    
+          SoftPhone    
+          Software Licensing and Sales    
+          SSL Certificates    
+          Statistical Consulting    
+          Telecommunications     
+          UIC Alert    
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          WebDisks    
+          Webmail    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+
+Tags: , , Service: Note: We recommend using the Global Address List as your default address book.
+If you open the Microsoft Office Outlook Address Book and do not see the name or e-mail address you are looking for, you might need to choose another address book from the Address Book list. If you find yourself choosing another address book frequently, you can change the default address book that is displayed when you open the Address Book.
+
+
+
+Tags: Service: Focused Inbox separates your inbox into two tabs—Focused and Other. Your most important emails are on the Focused tab while the rest remain easily accessible—but out of the way—on the Other tab.
+Outlook 2016
+ 
+Turn Focused Inbox on 
+
+In Outlook 2016, select the View tab.
+
+
+Select Show Focused Inbox.
+
+
+
+
+Tags: , , , , , Service: , , , Every computer on a network has a unique identifier. Just as you would address a letter to send in the mail, computers use the unique identifier to send data to specific computers on a network. Most networks today, including all computers on the Internet, use the TCP/IP protocol as the standard for how to communicate on the network.
+
+
+
+
+Tags: , , Service: Mac OS X has a built-in SSH client called Terminal which can be used to connect to remote servers. By default, Terminal.app is located in Applications > Utilities folder. Double-click on the icon to start the client.
+Using Terminal for SSH
+At the prompt type:
+
+ssh NetID@hostname

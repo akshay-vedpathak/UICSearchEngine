@@ -1,0 +1,249 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+
+
+
+          Campus Email Directory        
+
+
+
+
+LDAP (Lightweight Directory Access Protocol) is an Internet protocol that email programs use to look up contact information from a server. The ACCC runs an LDAP server named ldap.uic.edu that you can use to look up the names and email addresses of people using NetID@uic.edu email addresses; you can use it with many email programs and any type of email account to automatically fill in addressees.
+Note that the ACCC is currently limiting the number of results per query to ldap.uic.edu to 100 in order to discourage spammers trolling for email addresses. We may adjust this limit if it proves to be problematic.
+
+	Basic configuration
+The important information you'll need to set it up to work with most email programs is:
+
+				Field
+
+				Value
+
+				LDAP Server (Host) Name
+
+ldap.uic.edu
+
+				Search Base
+
+ou=people,dc=uic,dc=edu
+
+				Port
+
+389
+
+				Login
+
+				No login or authentication needed (anonymous)
+
+				Maximum number of results to return
+
+100
+
+				Search scope
+
+Subtree or One level
+
+				Search filter
+
+(objectclass=*)
+Do not use Secure connection or Encryption.
+
+	Client configuration 
+
+
+
+
+
+
+ 
+
+
+
+
+
+Last updated: September 21, 2016
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

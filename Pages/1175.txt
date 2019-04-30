@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+
+
+
+          ACCC Email Migration to UIC Gmail        
+
+
+
+
+Step 1. Prepare your email mailbox for migration
+Log in to your email account at .
+Save any large attachments and remove them from the mail message.
+Delete any unwanted messages.
+Important: Place all mail into a folder for easy transfer.
+Step 2. Change your email routing to UIC Gmail
+A necessary part of moving your netID@uic.edu email to your UIC Gmail is to change your email routing. Follow the next steps:
+Log in at  with your UIC NetID & password.
+Select “to my UIC Google apps account.” 
+
+Test by sending an email to yourself at netID@uic.edu, and verify you have received it in your UIC Gmail at .
+ 
+Step 3. Copy email from your old mailbox to Gmail
+If you don’t already have one, download and install an email client for your email account. This guide will use Thunderbird, a free email client for both PC and Mac. This process will outline adding both your ACCC email service and your new UIC Gmail service to a client for easy transfer.
+1) Install  onto your computer and select Email under Create a new account. 
+
+2) A box will pop up, prompting you to create a new email address. Click Skip this and use my existing email.
+
+3) Enter your UIC email credentials and then click Continue.
+
+4) Click Manual config to set up your credentials correctly.
+
+5) To add your Webmail account first, change the Server hostname, port, and Authentication to match the screenshot below.
+
+6) Your email will begin to populate in Thunderbird. While that is populating, click on Local Folders to add your new UIC Gmail account. Click on Email under Create a new account.
+
+7) Follow steps 2-4 again.
+8) To add your Gmail account properly, change the Server hostname, port, and Authentication to match the screenshot below.
+
+9) In Thunderbird, you will now see two different email accounts with the same name. The first account is your old webmail account, and the second will be your new UIC Gmail account.
+
+10) Now that both accounts are in one client, you can easily transfer all of the mail from your Webmail account to your UIC Gmail account. If you haven’t created separate folders, right click on your Webmail inbox and click New Folder. Name your new folder.
+
+
+11) Drag and drop the desired emails into your new folder.
+12) Once your folders are ready for transfer, click and drag the entire folder from your Webmail account into your UIC Gmail account. You will see the entire folder copied.
+
+13) Check your UIC Gmail account at  to see the transferred folder.
+
+Note: If you are using another email application as Outlook, Outlook Express, or Apple Mail, see .
+Step 4. Move your email contacts into your UIC Gmail

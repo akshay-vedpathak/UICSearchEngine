@@ -1,0 +1,505 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Academic Computing and Communications Center  
+
+
+ 
+
+
+
+
+Search form
+
+Search 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Main menu
+
+
+
+
+
+
+
+  
+ 
+
+You are here » 
+
+
+
+          How do I display a UICalendar calendar on an iPhone or iPad?        
+
+
+
+
+Tags: , Service: The most flexible way to access UICalendar on your iPhone is still to use Safari on the iPhone to use the . However, other ways of using UICalendar from the iPhone are getting a lot better now. By far the easiest way is to import your UICalendar calendar into iCal on the your iOS device. This gives you everything, including alarms. The only thing that is missing is that you can't enter new events on the iPhone and upload them to UICalendar. Importing your UICal calendar into iCal requires at least iOS 3.0. The instructions on how to subscribe your iOS device to UICalendar are below.
+There are other ways to use UICalendar on the iPhone that do give you two-way sync. Two-way means that it syncs both ways -- brings changes from UICal to iCal on the iPhone and changes from iCal to UICal.)
+ syncs your whole UICal calendar, both ways, but doesn't use iCal on the iPhone.
+And two ways to sync the iPhone with computer calendar software that are both two-way.
+You can sync the iPhone with Outlook Connector and iTunes on Windows personal computers. It is now quite easy. See PC Magazines's  for instructions. (Which are not limited to Vista or 3G iPhones; you can use Outlook 2003 or 2007, but not Outlook 2010.) Apple's Web site has a lot of troubleshooting information.
+
+Send email to  if you need help setting any of these up.
+Subscribe to UICalendar
+You must be connected to the Internet to do this. Create a subscription link using . This link is one way -- data comes down from UICalendar only. Any changes you make in iCal on the the iPhone will not be transferred back to UICalendar.
+Tap Settings then Mail, Contacts, Calendar then Add Account then Other then Add subscribed calendar.
+Paste the subscription link Server field. To prevent a recurring problem with missing repeating events, append &compat=br at the end of the link.
+Tap Next.
+Rename the calendar if needed.
+At this point, your iPhone/iPad/iPod Touch will attempt to access your calendar.
+To set how often the calendar will be refreshed, tap Settings then Mail, Contacts, Calendar then Fetch New Data and select the desired frequency.
+No authentication is needed and alarms are synced, but you can't change when they will go off from the iPhone.
+       
+Need help?
+
+
+ UICalendar 
+ Email
+
+Phone
+312-413-0003
+ 
+  
+
+Last updated: August 06, 2013
+
+
+Browse by tag
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Choose service  
+          ACCC Extended Laptop Loan (ACCCELL)    
+          ACCC Service Desk    
+          ACCCeSS Helpdesk    
+          Active Directory    
+          Active Directory Desktop Advantage (ADDA)    
+          Automatic Call Distribution     
+          Backups    
+          Blackboard Collaborate    
+          Box    
+          C-stop    
+          Classroom Equipment Lending    
+          Classrooms    
+          Collaboration Tools    
+          Colocation Server Hosting    
+          Computer Labs    
+          Conferencing    
+          Corporate Executive Board    
+          Data Usage Monitoring    
+          Database Services    
+          Digital Signage    
+          Directory Services    
+          Email and Calendaring    
+          Encryption    
+          Endpoint Management    
+          Equipment Lending    
+          Event Logging    
+          Event Support (Audio/Visual)    
+          Events Calendar    
+          Exchange    
+          Faculty Computer Trade-In (FaCT)    
+          G Suite (formerly Google Apps)    
+          Helpdesk Services    
+          High Performance Computing    
+          Identity and Access Management    
+          Instant Messaging    
+          Learning Design and Development    
+          Learning Environments    
+          Learning Management System    
+          Learning Technology Solutions    
+          Lecture Capture    
+          Listserv    
+          Mass and Emergency Communications    
+          Massmail    
+          Media Conversion    
+          Media Streaming    
+          Microsoft IIS    
+          Mobile Phones    
+          Multimedia Production    
+          Network    
+          Network Data Moves    
+          Network Filters    
+          Network Operations Center    
+          Network Security Vulnerability Scanner    
+          Office 365    
+          On-Site Support    
+          ONE.UIC    
+          Phone Services    
+          Phones (Centrex)    
+          Printing    
+          Professional Development & Training    
+          Recharge Stations    
+          Request Tracker (RT)    
+          Resident Hall Network (Res-Net)    
+          ResPhone    
+          Secure Computing Environment    
+          Security    
+          SharePoint    
+          Single Sign On    
+          SSL Certificates    
+          StarTel    
+          Surveys    
+          Telecommunications     
+          UIC Alert    
+          UIC Mobile     
+          UICalendar    
+          Virtual Private Network (VPN)    
+          Virtual Servers    
+          Voicemail    
+          VoIP    
+          Web Services    
+          Wiki    
+          Wired Network    
+          Wireless Network  
+
+
+
+ 
+ 
+
+
+Related Answers
+
+
+
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+ 
+ 
+
+
+ 
+ 
+
+
+
+
+ACCC
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Quick Links
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Locations
+
+
+
+
+
+ 
+
+
+
+
+Liaison Resources
+
+
+
+
+
+ 
+
+
+Website
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ © Copyright 2018 The Board of Trustees of the University of Illinois | 
+
+
+
+ 
+ 
+ 
+

@@ -1,0 +1,471 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  University of Illinois at Chicago  | College of Engineering Make a Gift
+
+
+ 
+FUTURE STUDENTS
+
+Undergraduate Admissions
+Chancellor’s Fellows Program
+Graduate Admissions
+Life @ UIC
+Visit Us
+
+
+ACADEMICS
+
+Departments
+Undergraduate Programs
+Graduate Programs
+Current Students
+
+Undergraduate Students
+
+
+Scholarships
+MakerSpace
+
+
+STUDENT LIFE
+
+Student Office Hours
+Student Organizations
+Student Activities – EXPO
+Career Center
+Student Affairs
+Disability Resource Center
+
+
+RESEARCH
+
+Research Centers
+Research Strengths
+Interdisciplinary Areas
+
+Autonomous Vehicles
+
+
+Industry Tech Services
+
+
+ABOUT US
+
+Mission Statement
+ABET Accreditation
+Make a Gift
+News
+
+College News
+Student News
+
+
+People
+
+Faculty
+Staff
+Directory
+
+
+Offices
+Alumni
+Contact
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+					EXPO 2015				
+
+
+
+
+EXPO 2015
+
+
+
+
+
+
+
+
+
+
+
+26TH ANNUAL ENGINEERING EXPO
+Thank you to EXPO’s principal sponsor
+
+and all EXPO sponsors: Elara Engineering, UIC Engineering Alumni Association, Susan (BS ’82) and Peter Errichiello Jr., Shirley Felder (BS ’84), Ali Khounsary (MS ’82, PhD ’87), Gregory R. Lewis (BS ’75, MS ’76), Kathy McGuire (BS ’90, MS ’94), Molex, UIC Office of Technology Management, Peoples Gas with special thanks to Joe Tassone (BS ’02, MBA ’06).
+
+
+
+
+
+IMAGE GALLERY OF THE 26TH ENGINEERING EXPO
+
+
+
+
+
+
+
+
+EXPO 2015 WINNERS
+
+
+Assisted Living Devices
+
+
+Feel the World: Proximity Detection Glove
+William Stawicki, Ovidiu Bradu, Matei Guran
+Abstract:
+The most common way for the visually impaired to navigate their surroundings has been the white cane. Although practical, it has serious limitations: contact with objects must be made in order to detect them and its range of detection is limited to the length of the white cane. Our group has designed a modern replacement for the white cane called the Proximity Detection Glove. The design of this device is implemented as a glove platform consisting of one sonar sensor and one vibrator on each fingertip. The Proximity Detection Glove uses its sonar sensors to determine the distance of objects or surfaces of up to 15 feet away. The electronics within the glove calculates the distance of an object or surface and then transmits the distance to the user by varying the frequency of the vibrations emitted from the vibrators. The user is thus able to determine distances of surfaces or objects based on the vibrations felt from the vibrators. The lower frequency vibrations are interpreted as farther away and higher frequency vibrations as nearby. The goal of the Proximity Detection Glove is to help the visually impaired navigate the world in a modern way. There is also technology already on the market, such as GPS and voice controlled electronics, which could be used in conjunction with the Proximity Detection Glove to enhance the user’s ability to navigate unfamiliar locations.
+
+
+Chemical Production I
+
+
+Processing of Bakken Shale Gas for Ammonia Productions 
+Kyle Panwell, Shambhu Shah, Kelly Corbitt, Arwa Hasan, Joseph Kalkowski
+Abstract:
+Natural gas production has increased dramatically in the United States as of late due to the advent of hydraulic fracturing (fracking) technologies, which allow for more efficient extraction of oil and gas. Presently, large quantities of natural gas are being flared because of lacking ability to effectively and economically capture, transport and process extracted gas. The projected growth of shale gas production in the near future necessitates the development of efficient methods of processing and transporting natural gas derived from shale formation. Natural gas composition varies upon well site, but is comprised of a mixture of light hydrocarbons and some impurities. These light hydrocarbons have a vast range of utility and can be valuable in many industries. Traditional natural gas processing facilities are comprised of a purification section to remove impurities followed by a separations train to concentrate individual hydrocarbons. These purified hydrocarbon products can be directly sold to market or further processed into other products, such as ammonia. Ammonia is a valuable chemical that is commonly used for fertilizer production, which is readily consumed near the Bakken region of the Midwestern United States. Our objective is to design a natural gas processing and ammonia production process that is economical, while remaining sustainable with minimal environmental impact. The production facility will be optimized for ammonia production, with direct sales of unutilized hydrocarbon components. The facility will be localized in the Bakken region and utilize rail and road methods for product transportation, eliminating the need for new pipeline instillation.
+
+
+Chemical Production II
+
+
+Hybrid Renewable Energy and Combined Cycle Natural Gas Processing Plant Design 
+Louis Schwartz, Andrew Lui, Ryan Neris, Adam H. Lewis, Jessica Shoukry
+Abstract:
+Motivated by advancing technologies in hydraulic fracturing, shale gas production has become one of the leading sources of natural gas in the United States. Due to this tremendous increase in natural gas availability, questions surrounding its application have come to the forefront of the energy debate and to the attention of natural gas processing engineers. Within a landscape of many opportunities, this Senior Design project set out to discover solutions that offer not only financial viability, but also environmental sustainability rooted in technological innovation. Consequently, this project determined that a combined natural gas and renewable energy electric power facility was the best option to meet these needs. Given that natural gas is a clean-burning fuel, conversion to electric power via combined cycle units (both gas and steam turbines) allows natural gas processing with minimal negative environmental impact and provides a 60% energy-efficient return. In addition, the plant supplements its energy output through the use of wind turbines that take advantage of the high average wind speeds in the Bakken region, where the plant is located. By storing gas during periods of low demand, this hybrid energy plant is able to meet the range of consumer needs both during peak times and stretches of low wind-energy production. The goal of this project is to present a model for other gas processing facilities around the world to efficiently, responsibly, and safely improve power generation for surrounding communities.
+
+
+Efficiency Methods and Studies
+
+
+Magenta LLC Business Process Reengineering
+Carmen Perez, Cristian Aluculesei, Dustin Travnicek, Jason Rogers
+Abstract:
+Magenta LLC, is the sponsor for the business process reengineering project. Magenta is a custom designer and manufacturer of plastic injection-molded closures, containers, components and drink ware. Magenta serves customers in the following markets: Food and beverage, personal care, household products, car care products, healthcare / medical, laboratory and research, and pharmaceuticals. Even with their wide range of current offerings, Magenta is currently seeking to expand their business. In order to expand their business and meet customer demands, Magenta wants to do an evaluation and reengineering of their business processes. The goal of this business process reengineering project is to deliver reconfigured processes, policies, and standard work documents that reduce costs and increase productivity and efficiency. The method we used to achieve our goals was to first document the current state of processes using flow charts, analyze/optimize them and improve upon them. Once the new processes have been implemented, control documentation was created to ensure a desired future state was reached. Further monitoring then took place to identify any further improvements that could be made.
+
+
+Electronic Devices I
+
+
+FitPet: Reducing Childhood Obesity One Step at a Time
+Edward Koenig, Aidee San Miguel, Erik Stennis, Luis Flores
+Abstract:
+Parents are currently dealing with unique issues facing today’s generation of adolescents. According to the Center for Disease Control and Prevention, “childhood obesity has more than doubled in children and quadrupled in adolescents in the past 30 years.” Our goal was to create a device that encourages children to be more active. This device is called FitPet. FitPet incorporates a step counter alongside an interactive digital pet in an easy-to-wear package. Using an accelerometer-based pedometer, FitPet keeps track of a child’s daily steps and motivates a child to maintain a healthy lifestyle in a fun way. The FitPet features a unique reward system which will allow the child to keep their digital pet happy and healthy as long as the child maintains the physician-recommended daily minimum of 10,000 steps. The user can interact with their pet via feeding, playing with, teaching tricks to, and washing it in order to keep it happy and healthy. To encourage group activity, the device allows the user to communicate with other FitPet users using Bluetooth 2.0 connectivity. The FitPet is implemented using a 32-bit ARM based microcontroller using the C++ programming language and the Arduino platform to communicate with other device peripherals. FitPet provides more functionality to users than other pedometers, but at a similar price point. Thus, families of various economic backgrounds will be able to afford a FitPet.
+
+
+Electronic Devices II
+
+
+Bike Alert System 
+Ujval Patel, Syed Muqtadir, Abraham Thomas, Anthony Arroyo
+Abstract:
+When identifying opportunities within our Engineer Field to contribute, advance, and utilize the skills we’ve learned during our tenure at UIC, we landed on a very specific market which exhibits our innovation and ethical values. Every year there are nearly 5,000 death and 100,000 injuries due to motorcycle related accidents. Emergency service response to a motorcycle accident has many issues limiting its efficiency. If a rider is alone, or all parties involved are injured, the chances of alerting emergency personnel to save a life or prevent further serious injuries are futile. Our Bike Alert System will alleviate this problem and increase the chances of saving a life. By utilizing accelerometer communicating with micro-processor and placing this combination the helmet, we will observe the acceleration and deceleration in the biker’s motion. If there is a sudden change in motion which exceeds preset limits then the microcontroller will run the call module attached on microcontroller will trigger the call to the authorities or preset number. Motorcycle accidents can be horrific and in many cases lead to life threatening injuries and/or even death. The goal of our system is to accelerate response time and increase the opportunity for life saving services while all along making an inherently dangerous activity that much more safe.
+
+
+Electronic Products
+
+
+Arm Motion Translator
+Jonathan Wang, John Sabino, Matt Kelly
+Abstract:
+The Chicago Engineering Design Team at UIC fields autonomous and remote controlled robots at numerous competitions each year. As part of its outreach efforts EDT conducts demonstrations of its robots at local schools and children’s museums. As EDT’s robots have grown in complexity, so too have the systems used to wirelessly control the robots, preventing the young audiences from interacting with and understanding the operation of the robots. The ARM Motion Translator will solve this problem. The System consists of two modules. The transmitter is a glove mounted sensor array which tracks the motion of the user’s arm and wirelessly transmits the collected data to a receiver module connected to the robot’s motor controller. Before the collected data is sent to the motor controller it is filtered to remove noise and ensure proper operation. Both modules are equipped with Atmel microcontrollers, short range RF transceivers, and power management systems. Optional modular sensors and customization of receiver output increase the ARM Motion Translator’s capabilities beyond EDT’s specific needs. The transmitter module will automatically detect the number and type of sensors attached to it and provide for calibration, allowing the user to determine the type of movement being measured, as well as sampling frequency. The receiver module will provide different types of output, including serial communication and PWM output. These configuration options will allow for use in a wide variety of robotics and hobbyist applications.
+
+
+Environmental Infrastructures
+
+
+Structural and Sustainable Assessment of Short Span Bridge Using Different Structural Materials
+Maurizio Feoli, Ahmad Saadeh, Ahmed Dib, Aiman Shibli
+Abstract:
+In this era of ‘Going Green’ and reaching for the goal of being a sustainable society; the use of existing materials to serve as energy sources is a relevant and exciting process. This concept of using sustainable material and giving materials new life is a constant subject for engineers and other disciplines alike. To find environmental friendly structures while remaining financially feasible is a challenge for engineers. Our planet is full of potential to be tapped into, and our responsibility is to find that potential. This project consists of both technical and sustainability assessments of different structural materials in the application of a short span bridge structure. In the technical assessment, experimental and numerical studies will be conducted to investigate the flexural behavior of different beam designs under actual and virtual four-point bend testing. These test results will be utilized to assist in designing a short span bridge using different structural materials. The structural performance analysis will be conducted on these different options. In the sustainability assessment, these different short span bridge types will be evaluated under the three sustainability pillars: the environmental dimension, economic dimension and social dimension. The results of all these tests for short span bridge designs will be looked at with careful detail and precise calculation to get the most reasonable solution.
+
+
+Environmental Innovation Products
+
+
+Carpcrete 
+Mike Todorovic, Todd Nobles, Francisco Martinez Acosta, Saad Khatri
+Abstract:
+Asian carp are an invasive fish species which are rapidly multiplying and over-running the ecosystems of native fish. For our Senior Design Project, our group would like to create an industrial use for Asian carp. Specifically, we would like to explore Asian carp fish meal (the burned remains of the fish) as a concrete admixture. Ideally, we hope the meal will exhibit strength-improving cementitious properties when added to a concrete mix. If we can prove this, we may be able to inaugurate a business model for the use of the fish which didn’t exist before. This may incentivize catching the fish which would benefit the ecosystem, commercial fishing as well as the construction industry. In the event the material properties are not deemed cementitious, or do not inhibit strength, we will try to reasonably explore the use of the fish meal as a concrete “filler”. The applications for this could be in lower-strength requirement applications, like roads and retaining walls. Our project methods will include testing to determine the material properties of the fishmeal. We will create multiple mix designs with the fishmeal as an admixture, test the concrete mixes according to ASTM Standards, research strength requirements for various applications of concrete and determine if our fishmealconcrete samples meet those requirements. And finally, if the fishmeal proves a viable admixture, we will research the cost of use and associated feasibility parameters.
+
+
+Mechanical Devices and Products
+
+
+Design of a Dust Suppression Spray Nozzle
+Narbeh Haroutunian, Omar Zamora, Sawan Patel, Erick Robles
+Abstract:
+In many work environments, such as some manufacturing plants, airborne dust poses a serious health risk. One method of removing dust suspended in the air is to introduce a fine mist of water, which captures the dust particles and carries them to the floor. In order for this method of dust suppression to be effective, the sizes of a dust particle and a water droplet must approximately match. This motivates the design of a spray nozzle capable of creating water droplets with an average diameter of 5 microns which employs a wide spray pattern. Typically, achieving droplets of this size requires electronics; however our objective was to reach this droplet size without the use of electronics, in part to reduce cost. Mechanisms responsible for droplet breakup include shear force, supersonic shock, and ultrasonic resonance. A spray nozzle which injects water into a high velocity air stream introduces shear force onto the water, initiating break up. The air stream, carrying the droplets, exits the nozzle and passes through a standing shock wave, causing further break up. Atomization is also assisted by the use of a resonator cap, placed in front of the air stream. This provides a practical and streamlined solution to the dust suppression dilemma.
+
+
+Medical Devices
+
+
+Enhanced Oral Cytology Brush 
+Taiylar White, Andrei Teleron, Natalia Lyda
+Abstract:
+Oral Squamous-Cell Carcinoma, commonly referred to as oral cancer, is a deadly and deforming disease that affects over 200,000 people each year. Most cases oral cancer begins with a premalignant lesion, however, there are no specific traits that differentiates precancerous lesions from those that do not progress. Studies have shown that the cure and survival rate of individuals with oral cancer substantially increases when the cancer is caught in its early stages. For these reasons, it is necessary to have a non-invasive and accurate method of sampling and evaluating cells from these lesions to improve early detection.Oral brush cytology is used to harvest oral epithelial cells for DNA or RNA expression and identification analyses but there is a lack of consistent sampling that identifies the proliferative cells. Quality and precision samples can be achieved with the design of an enhanced oral brush. For a clinical setting, we need an oral cytology brush that continues to provide non-invasive harvest of epithelial cells in the proliferative zone, but is also able to obtain uniform sampling with consistent application pressure with high quality of DNA and RNA. The proposed design includes pressure-sensing powered brush device with a disposable rotating brush head that regulates the brush strokes and amount of pressure applied when in use as well as collect a consistent and optimal sample. The development of such a device can make oral cytology a more reliable and effective means of cancer screening.
+
+
+Medical Processes
+
+
+Body Weight Support System for Ambulatory Cancer Patient Rehabilitation
+Diego Sanchez Diaz, Evan Kline-Wedeen, Mark Connolly, Ryan Dexter
+Abstract:
+Muscle atrophy affects cancer patients bedridden due to effects of chemotherapy, radiation and/or surgery. After successful treatment of the disease, patients are still left facing the need for physical rehabilitation. Priority to safety and fall prevention for ambulatory rehabilitation treatments has led to the body weight support systems typically seen in rehabilitation clinics. Accessing these can be difficult due to insurance benefits, out of pocket equipment cost and overall availability. By creating a cheaper and more universal body weight support system that could be placed in a public health club setting, patients suffering from muscle atrophy and prone to falls can face the rehabilitation road more easily. This device is presented with the ability to support up to 350 lbs in both stationary and mobile positions, all while alleviating up to 100 lbs of body weight through the use of a pneumatic pump. By providing a quantifiable body weight support system, progress can be measured throughout the rehabilitation process
+
+
+Optimization and Production Systems
+
+
+Automation and Optimization of Bearing Rewash Systems at PEER Bearing Dalton Fowler, Firas Manasra, Adam Waltz, Blake Thompson
+Abstract:
+Suppliers within the bearing repurposing and redistribution market are few and far in-between, due to the intricate issues that are present in the washing and drying processes that must be completed. A large portion of this repurposing market is handled by PEER Bearing, located in Waukegan, Illinois. The current bearing wash and dry system in use at their facility lacks many of the features needed to allow operators to quickly and efficiently process various sized work orders. The project goal was to develop a semi-automated system, able to repurpose a large number of bearings quickly and efficiently. In designing the system, flexibility was a major focus, so as to accommodate the wide range of sizes and styles that PEER Bearing has to offer. The new design will tackle many problem areas of the current design, including: under-side grease negligence, part-to-part contact, unsafe levels of operation noise, dryer bottlenecking, and many tedious operator responsibilities. In order to address these issues, a modified conveyor system will be implemented. In order to have the design approved by PEER Bearing, a prototype was produced to display the system’s overall operation. The final design will improve upon each of the problem areas of the current system, as well as address some disadvantages that had been overlooked, such as the need for expensive, nonstandard replacement parts. Both PEER Bearing and the design team look forward to finding out how effective the system will be upon implementation.
+
+
+Storm Water Innovations
+
+
+Lakefront Pollution Mitigation 
+Nouhessedo Agondanou, Kevin Walsh, Jonathan Young, Joseph Fanning, Sean Woods
+Abstract:
+Lake Shore Drive and the Lakefront trail are two iconic thoroughfares lining the shores of the great Lake Michigan in Chicago. Unfortunately, the buildup of litter, pollution, and bacteria along this span is a common occurrence. Rainfall events wash these contaminants into Lake Michigan with the current arrangement. The city of Chicago has worked with many agencies to control pollutants in the lake with a concentration on recreational waters. However, most of these efforts have ignored the rainfall water merging into the lake due to the impervious pavement of Lakefront Trail. With the recently expressed interest from the city of Chicago in creating more green, community-oriented public spaces, our project intends to intercept any contaminated runoff before reaching Lake Michigan while encouraging public use of the Lakefront trail. We chose to design a 4,500 ft. test section of Lakefront trail located between Randolph Street and Roosevelt Road (Monroe Harbor). This location already has the present need to be rebuilt due to the obvious effects of weathering and aging. Implementing a redesign to intercept contaminated water before it can enter the lake goes hand in hand with the already needed repairs. Through the use of permeable surfaces, aggregate and soil filtration, bioswales, and catchment systems, we will intercept and redirect the polluted runoff. The design will focus on integrating green infrastructure, community areas, and economic affordability. Our project will serve as a test location for future expansion along Chicago’s lakefront.
+
+
+UIC Infrastructures and Sustainability
+
+
+UIC High Bay Structural Testing Laboratory 
+John Clarke, Steve Kwon, Kyle Wise, Joe Andrews, Ashley Przybysz
+Abstract:
+The University of Illinois at Chicago (UIC) is a major civil engineering research university; however, it lacks a high bay structures laboratory in which large scale structural tests under static and dynamic loading can be performed. The high bay garage in the Roosevelt Rd. Building (RRB) would serve as an ideal location for such a laboratory. A high bay structural testing laboratory can serve as a local venue for consulting firm engineers and departments of transportation to interact and conduct research with students and faculty. The proposed structural repurposing of this space consists of designing a new strong floor system as well as a shear wall for high capacity lateral testing. Several testing stations accommodating testing machines with load capacities of up to 500 kips are considered. Serviceability design aims at mitigating collateral noise and vibration to surrounding offices. Testing machines and student work spaces for diverse, cross discipline testing is also investigated. Economy of design, strict space limitations, and the site’s unique soil properties influenced the design process
+ 
+
+
+Khounsary Award
+
+
+Arm Motion Translator 
+Jonathan Wang, John Sabino, Matt Kelly
+Abstract:
+The Chicago Engineering Design Team at UIC fields autonomous and remote controlled robots at numerous competitions each year. As part of its outreach efforts EDT conducts demonstrations of its robots at local schools and children’s museums. As EDT’s robots have grown in complexity, so too have the systems used to wirelessly control the robots, preventing the young audiences from interacting with and understanding the operation of the robots. The ARM Motion Translator will solve this problem. The System consists of two modules. The transmitter is a glove mounted sensor array which tracks the motion of the user’s arm and wirelessly transmits the collected data to a receiver module connected to the robot’s motor controller. Before the collected data is sent to the motor controller it is filtered to remove noise and ensure proper operation. Both modules are equipped with Atmel microcontrollers, short range RF transceivers, and power management systems. Optional modular sensors and customization of receiver output increase the ARM Motion Translator’s capabilities beyond EDT’s specific needs. The transmitter module will automatically detect the number and type of sensors attached to it and provide for calibration, allowing the user to determine the type of movement being measured, as well as sampling frequency. The receiver module will provide different types of output, including serial communication and PWM output. These configuration options will allow for use in a wide variety of robotics and hobbyist applications.
+
+
+OTM Innovation Award
+
+
+Endoluminal Sewing Machine Mechanism
+David Foss, Michael LaDucher, William White
+Abstract:
+A radial prostatectomy is one of the most common procedures in urology. Once the prostate has beenremoved, the bladder and the urethra must be reattached. This laparoscopic procedure is typically carried out througha sequence of suturing that is facilitated through a surgeonguided robot. The goal of this project is to produce an endoluminal sewing machine capable of completing this procedure from within the urethra. This mechanism must be able to be demonstrated effectively and repeatedly. The sewing machine will be able to draw the urethra and bladder together, perform the stitching from within the urethra, and produce a waterproof seal. The scope of this project is the mechanism and does not include producing a device that is scaled to perform a laparoscopic procedure. As such, the device will be conceptualized and demonstrated through computer simulation, providing for easier testing and demonstration. This decision was also economical, as the material cost was extensive and a sewing procedure may only be completed once. As our goal was to produce a mechanism, the opportunity for a different team or other individuals to complete a device based on this prototype is open.
+
+
+
+
+
+UIC ENGINEERING EXPO ARCHIVE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+Connect With Us 
+    
+
+Quick Links
+
+
+
+
+
+ Make a Gift
+Resources
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+© Copyright 2018. The Board of Trustees of the University of Illinois | Privacy Statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

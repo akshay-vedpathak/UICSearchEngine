@@ -1,0 +1,198 @@
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ Associate Professor Jakob Eriksson 
+
+I grew up in Sweden, got my M.Sc. in CS at the  in . Wasted a few years on dot-coms, before graduating with a Ph.D. from  in '06. I then spent a two-year postdoc at .  I've been a faculty member of the UIC Department of Computer Science since 2009, and was promoted to Associate Professor in 2015.
+
+My wife  is in the ECE department. We live in the near-west suburb of Oak Park together with our two children Matilda and Oskar. 
+
+ Research Interests 
+
+My research interests lie primarily in computer systems, including operating systems, networks and mobile sensing. In operating systems, I work on deterministic execution, high-performance messaging systems, and alternative uses for simultaneous multi-threading. In the mobile and networked systems area, some of my work includes vehicular WiFi connectivity, and mobile sensing for traffic monitoring and road condition assessment. You can read more about my research projects on my .
+
+ Recent Publications 
+  
+
+
+[]
+
+
+Sepideh Roghanchi, Jakob Eriksson, and Nilanjana Basu.
+ Delegation is (much) faster than you think.
+ In Proceedings of the Symposium on Operating Systems Principles
+  (SOSP), pages 12, to appear. ACM, 2017.
+
+
+[]
+
+
+Yanzi Jin and Jakob Eriksson.
+ Fully automatic, real-time vehicle tracking for surveillance video.
+ In Proceedings of the 14th Conference on Computer and Robot
+  Vision (CRV), page 8 pages. CIPRS, 2017.
+
+
+[]
+
+
+Tomas Gerlich and Jakob Eriksson.
+ Optical flow for rigid multi-motion scenes.
+ In Proceedings of the International Conference on 3DVision,
+  page 8 pages. Stanford University, 2016.
+
+
+[]
+
+
+Timothy Merrifield, Joseph Devietti, and Jakob Eriksson.
+ High-performance determinism with total store order consistency.
+ In Proceedings of the Tenth European Conference on Computer
+  Systems, pages 31:1--31:13. ACM, 2015.
+
+
+[]
+
+
+A. Musa, J. Biagioni, and J. Eriksson.
+ Trading off accuracy, timeliness, and uplink usage in online gps
+  tracking.
+ Mobile Computing, IEEE Transactions on, PP(99):1--1, 2015.
+
+
+ 
+
+ My contact info 
+
+
+
+ Address 
+ Phone 
+ Internet 
+
+
+ University of Illinois at ChicagoDept. Computer ScienceRoom 1120 SEO (M/C 152)Chicago, IL 60607 
+ Office: (312) 996 0481  Lab: (312) 413 2103  Personal: (312) 77-JAKOB 
+ Email:   Skype: jakob_eriksson 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+
+
+
+BITS & PIECES
+ 
+ 
+  
+  
+  
+
+
+
+
+ 
+
+
+
+
+ 
+  University of Illinois at Chicago | College of Engineering
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright 2016 The Board of Trustees of the University of Illinois.
+Helping Women Faculty AdvanceFunded by NSF      
+
+
+

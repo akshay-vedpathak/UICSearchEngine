@@ -1,0 +1,439 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+  University of Illinois at Chicago  | College of Engineering Make a Gift
+
+
+ 
+FUTURE STUDENTS
+
+Undergraduate Admissions
+Chancellor’s Fellows Program
+Graduate Admissions
+Life @ UIC
+Visit Us
+
+
+ACADEMICS
+
+Departments
+Undergraduate Programs
+Graduate Programs
+Current Students
+
+Undergraduate Students
+
+
+Scholarships
+MakerSpace
+
+
+STUDENT LIFE
+
+Student Office Hours
+Student Organizations
+Student Activities – EXPO
+Career Center
+Student Affairs
+Disability Resource Center
+
+
+RESEARCH
+
+Research Centers
+Research Strengths
+Interdisciplinary Areas
+
+Autonomous Vehicles
+
+
+Industry Tech Services
+
+
+ABOUT US
+
+Mission Statement
+ABET Accreditation
+Make a Gift
+News
+
+College News
+Student News
+
+
+People
+
+Faculty
+Staff
+Directory
+
+
+Offices
+Alumni
+Contact
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+					EXPO 2016				
+
+
+
+
+EXPO 2016
+
+
+
+
+
+
+
+
+
+
+
+27TH ANNUAL ENGINEERING EXPO
+Friday, April 22, 2016
+8 a.m. – 1:30 p.m.
+UIC Forum 725 W. Roosevelt Road
+IMAGE GALLERY OF THE 27TH ENGINEERING EXPO
+
+
+
+EXPO 2016 WINNERS
+
+
+Assisted Living Devices
+
+
+Reducing Heat Buildup through the Application of a Water-Based Cooling Pad on Contoured Wheelchairs Mario Castillo, Mark Lopez, Vivian Pedroza, Jaskaran Rajput Abstract: Cerebral Palsy is a neurological condition that affects motor skills and coordination. Due to such complications, patients are required to remain seated in contoured wheelchairs for a majority of their day. Patients are often confined to their wheelchairs for several hours at a time; this prolonged seating results in the buildup of heat, especially around the back of area of the patient, leading to heavy sweat production. The tight wrapping of contours around the patient body is the primary reason for this heat aggregation. Addressing this issue involves devising a method to extract heat as effectively as possible from the area while the patient is seated while preserving the proper contours of the cushions which are important for posture. Applying a 0.25-inch-thick cooling pad that has a network of plastic tubing to channel cold water from a pump-and-reservoir system over the back cushion may assist in reducing the heat buildup exhibited around this area, thus keeping the patient cool and reducing sweat. The pad will be draped over the back cushion of the wheelchair at any point when the patient feels warm on their back. Once the pump mechanism is powered on, the cold water water will be expended through an outlet tube into an adapter to allow transition of flow from high-to-low o.d. Tubing. The water will circulate through the pad and allow heat exchange between the patient back and the water, then return to the reservoir and cycle back into the pad until it needs to be. 
+
+
+Chemical Processes I
+
+
+Butanol is Corny Krishna Patel, Zain Siddiqui, Nick Stanfa, Boi Trinh Abstract: The global demand for butanol is projected to triple by the year 2022, and currently very few companies are producing it on a large-scale. Much of the butanol produced comes from oil refineries as a byproduct at low purities. However, high purity butanol is a desired product used in various industries such as cosmetics, paints, solvents, vegetable oils and many more. Aside from its industrial applications, butanol is also being considered as a possible fuel source to replace gasoline in the future. Butanol can be produced from renewable biomass and still be capable of producing nearly the same amount energy as gasoline while emitting 30% less CO2. This is attractive commercially due to strict global emissions regulations companies must follow. When processes use biomass as the raw material for production, the resulting compound is referred to as biobutanol. Corn stover, or corn harvest waste, is an ideal feed candidate for biobutanol production, as it is readily available and abundant. Although current production and prices can’t compete with gasoline, extensive research of biobutanol is proving that it is a viable option for the inevitable switch to renewable fuels. By utilizing a pretreatment sequence on the raw corn stover, a series of large fermentation tanks, and purification through massive distillation columns, this design will yield a great amount of high purity biobutanol. The goal of this project is to produce large-scale amounts of biobutanol to meet future demand in existing markets and to promote it as an alternative to conventional gasoline. 
+
+
+Chemical Processes II
+
+
+Error 404: Alcohol Not Found Diego Castro, Daniel Krepp, Jason Kuntz, Andy Ristau Abstract: The craft beer market is rapidly growing but lacks a high quality non-alcohol beer. At Ftc Brewing, we evaluated alcohol removal processes from craft beer that will maintain the bold flavors and aromas that craft beer is known for. We analyzed the effectiveness vs. cost for three methods to remove ethanol from beer: vacuum distillation, dialysis, and reverse osmosis. We compared these processes for their ability to remove ethanol while leaving key volatile components in the craft beer that provide flavor and aroma. The alcohol removal process is being considered for a new 5,000 Barrel per Year (BPY) brew line that will be added to an existing brewery that operates two existing craft beer brew lines each running 5,000 BPY. The brewery has floor space to add a third brew line, which will bring the total output from the brewery to 15,000 BPY. We analyzed the technical feasibility and economics of each ethanol removal process to determine which is most attractive to make the third brew line non-alcoholic or whether it is better to leave this new line making craft beer containing alcohol. By analyzing the energy and separation effectiveness of each method of ethanol removal together with developing an engineering design and economic analysis for each method we are able to recommend to brewery management whether or not is technically and economically attractive to make non-alcoholic craft beer in the new brew line 
+
+
+Chemical Production
+
+
+A Greener LAB Nabeel Ahmed, Alexandro Estrada, Rabees Rafiq, Allan Tucker. Abstract: Liquid detergents are commonly used throughout the world for washing clothing, dishes, and industrial cleaning applications. The goal of this project is to design a plant that will co-produce linear alkylbenzene (LAB) and green diesel from a palm kernel oil feedstock while maintaining objectives of sustainability, energy efficiency, and cost-effectiveness. LAB is the key intermediate compound used in the production of detergents. It is completely biodegradable but is traditionally produced from a non-renewable kerosene feedstock. As global fossil fuel reserves are depleted, the world looms towards not only an energy epidemic but it will also affect the supply of the global LAB market. The high volatility in the price of kerosene is an additional constraint on the LAB market. By switching feedstocks to a natural oil, we are able to produce two valuable products while simultaneously reducing carbon emissions. As economies grow in developing countries, the demand for detergents and energy has shown to increase. It is estimated that the demand for LAB and green diesel will exhibit a compound annual growth of 4.7% and 14% respectively. This method of production allows one to emerge in the rapidly growing detergent and energy markets while simultaneously providing environmentally friendly products and liberating the world from fossil fuel reliance in a cost-effective manner. 
+
+
+Design and Research Studies
+
+
+Conveyer Design for Graphic Packaging Renan Braulino, Michael Bravo, Ana Escoto, Matthew Pruett Abstract: Packaging is an essential component of product distribution and marketing. The food industry is no exception – as consumers encounter more packaged goods every day, demand for high quality prints and boxes has increased. As one of the world’s largest manufacturers of folding carton and other forms of packaging, Graphic Packaging International, located in Elk Grove Village, Illinois, combines market-specific expertise and innovative thinking to provide for customer demand. In its current state, Graphic Packaging production lines are at full process capacity. However, there are physical and system constraints that are limiting both productivity and profitability. One of Graphic Packaging’s gluing lines requires an extensive manual process to transport the output of the gluer to an automatic palletizer. The project goal is to develop an automated system able to eliminate labor needs, increase efficiency, and reduce ergonomic issues. In order to accomplish this, a conveyor system will be proposed. The design will be validated through mechanical modeling with an operation simulation and it will be justified through cost and ergonomic analysis. The design team is composed of both mechanical and industrial engineering disciplines. This dynamic reflects real-world teamwork that will directly affect the bottom line of one of the world’s largest manufacturers of packaging goods. 
+
+
+Electronic Devices I
+
+
+Autonomous Relief Transportation (ART) Drone Mike Cleary, Abdullah Elagha, Jorge Martinez Abstract: In less developed regions of the world people are dying due to easily preventable diseases. These are diseases that are prevented daily across the globe using vaccines. Our goal was to design a simple delivery system capable of traversing all terrains in order to deliver vaccines and supplies safely and efficiently to regions of the world that need them the most. Our solution was the ART drone, a small drone capable of autonomously delivering relief. The drone was custom built and programmed for this taske. It takes off, hovers, locates a pre-placed radio beacon at some distance using its onboard sensors, and then uses a PID control system to hone in on it. After arriving it will land and shut down allowing the supplies to be safely removed from the vehicle. In order to cover the distances necessary, a final design would require larger batteries and thus a larger frame and structure. The drone was designed in order to be easily scaled up come time for field implementation. The developed drone would easily run on the same algorithms using the same sensors and radio beacons as the prototype. It could then be used as intended, to autonomously deliver relief to people in need all across the world simply, safely, and efficiently. 
+
+
+Electronic Devices II
+
+
+Household Air Quality Sensor Lucas Enright, Barry Ng, Tyler Parchem, Anthony Zaprzalka Abstract: When it comes to our homes there is no better feeling than feeling safe. Many homes have sensors to detect smoke, natural gas, and carbon monoxide. These devices are essential to a homeowner’s peace of mind and any buildup of smoke or other harmful gases would be hazardous to the residents. For example, many homes still use natural gas for their stoves, ovens, and heating. When a leak occurs even a small spark could be devastating to the home and anyone inside. While these devices are essential for every homeowner, they still lack the capabilities to detect other gases used in the home. The Household Air Quality Sensor is an all-in-one device that will record and display several air quality measurements. It removes the passive nature of these detectors and instead has the ability to be interactive and provide useful feedback. This detector continuously monitors temperature and humidity as well as the concentrations of carbon monoxide, natural gas, smoke and other gases throughout the home. An alarm and LED indicators will alert the residents of any harmful gas concentrations. All of this data can be accessed directly from the device where it will be logged and displayed on the LCD screen for the user to view. The data history can also be viewed with any home computer using the internal SD card. The Household Air Quality Sensor will save lives by alerting the residents of any threats to their safety. 
+
+
+Electronic Products 
+
+
+ Design of a Smarter Braking System that will make the Road A Safer Place Amir Elias, Soroush Kadineh, Omar Khan, Sumair Mithani. Abstract: According to the 2007 Harvard Health Watch, the average American spends 101 minutes a day driving. Given an average lifespan, the average person is driving for 7% of their life or 5.42 years. On average there are 6 million moving vehicle collisions that occur in the U.S. per year. 40% of those accidents are rear end collisions. Another 40% of the annual moving vehicle accidents are related to intersections. There are tens of thousands of drivers that are fatally injured or disabled due to these accidents. Based on our survey, over 90% of drivers agree that a brake intensity notification system would have helped to avoid these accidents. The founders of SmartStop believe that the traditional brake system isn’t sufficient for the current driving conditions. They set out to create a smarter braking system that will make the road a safer place by relaying important data to not only the vehicle that is driving behind it but to the vehicle driving towards it. The system consists of two brake lights which will be built into the manufacturer’s logo in the front and rear of the vehicle. These lights will be triggered when certain parameters such as force, time, and pressure exceed a certain threshold to alert the driver in front or behind the vehicle to immediately stop or proceed. The goal of our project is to prototype a braking system which will work as a supplement to the current braking system to help prevent accidents such as left turn and rear end collisions. In conclusion, there were many obstacles that we worked together as a team to overcome such as hardware constraints, software coding and implementation, and testing. The next phase of this project will be to integrate SmartStop in the vehicles on-board system and test on public roads and highways. We believe SmartStop will transform the way the world drives like blind spot monitors and lane assist have. 
+
+
+Environmental Innovation Systems
+
+
+ Household Hydroponics Hamza Bounouader, Phillip Domines, Alexander Jezierski, Michael Lucas, Michael Papadakis Abstract: Large amounts of water are continuously used to water plants in gardens or farms. For our project, we designed an economical, hydroponics system, sized to grow plants in a single-family home. This is a miniaturized system that can be sold residentially, connecting to either a fish tank or another type of water storage basin. In a controlled environment, plants are suspended with their roots hanging in a flowing water supply, which pull nutrients directly from the water, like they would from soil. This water is cycled through a closed system continuously, saving significant amounts of water. Nutrients are added by filtering the water through a stocked fish tank. These nutrients enter the system in the form of fish food. The fish eat the food, and produce waste that dissolves into the water and is extracted by plant roots, resulting in plant growth. Other forms of water containers and nutrient supplements are alternative choices in place of fish tanks and fish food. One benefit of indoor hydroponics is the ability to grow food year round, as plants are protected from winter weather conditions. Additionally, hydroponics eliminates the use of pesticides and preservatives, which produces healthier food. Since the food is grown right where it’s consumed, pollution is decreased by the removal of trucking. In other words, hydroponics eliminates the resources typically required to produce and transport food, promoting economical and sustainable approaches. 
+
+
+Infrastructure and Sustainability 
+
+
+ Moos Elementary School Rainwater Capture and Reuse Joseluis Alvarez, Dominic Conti, Melissa Miller, Jacqueline Montero. Abstract: Although many people around the United States pay no attention to water on a daily basis, it is an increasingly important commodity. To help teach their students about water resources, Moos Elementary School in the Humbolt Park neighborhood of Chicago wants to implement rainwater-harvesting technologies. For these purposes, we have designed two separate features to divert rainwater from the sewers and provide other environmental benefits. The first is a garden, which will be sustained by a drip-irrigation system that will be sourced solely from rainwater captured from the roof of the school and held in a cistern. The property for the garden is owned by the school but is not directly adjacent to the main school property, so a water conveyance system was engineered. Other features designed for this process are a rainwater collection system, a structurally stable storage platform, and irrigation system. The second feature is a green roof, which is visible from inside some of the school’s rooms. In order to implement this green roof, we analyzed the existing structure of the school to ensure it could withstand the additional load. Moos Elementary has applied for grants to be able to install these at their school. Also, as the budget for Chicago Public Schools is tight, we designed the garden and green roof so there will be no significant costs to the school other than general maintenance. 
+
+
+Interdisciplinary Energy Systems
+
+
+ Smart Plug Ramsin Adamz, Kamil Koziol, Brian Nielsen, Daniel Poarch Abstract: It is increasingly important for the consumer to intelligently manage power consumption and prevent energy waste in residential or commercial buildings. Unfortunately, the power management tools currently available are expensive, and do not provide effective feedback for power consumption and utilization across the local electric network. The tool we have designed has the potential to manage and monitor every device connected to the electric network of a home or an office building. Our “Smart Plug” system can coexist, or completely replace, the traditional outlets connected to the electric network and utilize a combination of hardware and software to analyze and control the electrical network. Current tools only monitor a few selective devices connected to the same outlet. One advantage of our system is that it integrates Near Field Communication (NFC) technology to enable device recognition. This permits efficient monitoring for Smart Plug-aware outlets and devices. The information collected by the outlets will be shared using narrow band communication technologies which operate over existing electrical wiring of the building. A central device located in or near the existing breaker panel can communicate with a consumer’s PC or mobile device to analyze power consumption. This allows the consumer to see real-time cost savings in their home or business. The central device can provide automation and switching capabilities to control and reduce power consumption throughout the entire residential or commercial power network. 
+
+
+Interdisciplinary Software and Computer Applications
+
+
+ Financial Reform Ilham Kabir, Aniq Sukhera. Abstract: Between 1797-1933, the banking system crashed every 15 years—hampering the U.S. economy. After a series of regulations enacted in President Franklin D. Roosevelt’s era (The New Deal) to limit the size and power of big banks, the United States went nearly 50 years without a major crash. In 1980, two short years after the first repeal of the policies set forth in 1933, the first major bank (Continental Illinois National Bank and Trust Company—seventh-largest bank at the time) collapsed. In 2008, nine years after repealing the heart of The New Deal, the United States experienced it’s greatest financial collapse since The Great Depression. Financial institutions like JP Morgan & Chase, Bank of America and Goldman Sachs were bailed out with hundreds of billions in taxpayer dollars and received imperceptible repercussions, as they were “too big to fail” and “too big to jail”. The solution: “Too big to fail” needs to end. The top five banks have accumulated assets worth over half the US’s GDP and have only grown on average 38% since ‘08. Likewise, they have attained 56% of the consumer loan market, making it difficult for the other 6,500 FDIC approved consumer banks to compete. Our goal is to provide the 6,500 banks/lenders software to reestablish market share from the big banks and ultimately get rid of “too big to fail”. We’ll aggregate/analyze loan applications for smaller banks to eliminate barriers to market penetration, like cost of customer acquisition, by building software tools around the ASP.NET Framework. 
+
+
+Medical Devices I
+
+
+ Design of an Ultrasonic Nasal Spray for Effective Medication and Vaccine Deposition within Nasal Passages Youssef Kirollos, Akshay Vijayaganesh, Tyler Wilson Abstract: There are often numerous advantages to delivering a medical treatment intranasally. In the case of the live attenuated influenza vaccine, the virus is introduced via the natural point of entry, triggering a stronger immune system response. However, this only works if the waste from the dose is minimal. In order to increase even deposition within the desired area of the nasal passages, a finer mist (or smaller mean droplet diameter) would be helpful. This creates a need for a nasal spray the produces a cold vapor of a specific droplet size (sufficiently small for effective deposition and sufficiently large to carry active ingredients). Ultrasonic spray systems work by introducing a fluid to a rapidly vibrating diaphragm with tiny orifices, ejecting a cold vapor (composed of micro-scale droplets) from the other side. Hence, our goal is to design an ultrasonic nasal spray, while optimizing parameters like the resonant frequency and atomizing surface area in order to achieve a desired droplet size distribution. One other challenge that arises is the implementation of a dose metering mechanism. Our dose metering mechanism is capable of delivering repeatable quantities of medication with nothing more than a simple user input. It is also designed to work the same way every time, even with less than ideal user inputs (i.e., the user presses and holds the button as opposed to pressing then releasing). 
+
+
+Medical Devices II
+
+
+ Resection Tool to Limit Perforation of Bladder Wall Nathan Albaugh, Ossama Anis, Ramon Espino, Gary Ling, Jeff Marsh Abstract: Bladder cancer is a prevalent disease with high morbidity and mortality, with nearly 77,000 new cases predicted by the American Cancer Society in United States for 2016. The current surgical procedure, called transurethral resection of bladder tumor (TURBT), is used to remove cancerous tumors from the bladder wall. However, an estimated 20-40% of all TURBT procedures require additional surgeries due to insufficient tissue removal and 0.5% result in an emergency open surgery due to bladder wall perforation. The device used during the TURBT procedure is called a resectoscope, which has a high current loop to excise and cauterize tissue as well as a port for an endoscopic camera. Our solution aims to calculate bladder layer thicknesses from ultrasound images using image processing and computer vision. Our results were validated by comparing bladder layer thicknesses calculated from our algorithm with those calculated by the ultrasound machine via manually inputted markers. Proper execution of our solution will significantly decrease morbidity, mortality, and cost of care for bladder cancer patients. 
+
+
+Medical Products 
+
+
+ Novel Keratoprosthesis for Corneal Blindness Lavanya Nese, Marianne Palczewski, Tiana Wong Abstract: Corneal diseases can cause eye opacity and/or distortion in vision by disrupting the cornea’s ability to transmit light properly to the retina, resulting in unilateral or bilateral blindness. After prescribed medication proves unsuccessful, patients can receive a corneal transplant to restore their vision. However, the corneal grafts are not always functional and may cause a negative immunological response, which will eventually lead to graft failure. Patients who experience continuous graft failures are given a keratoprosthesis (KPro), an artificial cornea that restores visual acuity. However, various problems can arise from KPro surgeries, including device extrusion from the eye, infection, glaucoma, and corneal melting. In addition to these complications, long surgery times and surgical difficulty can make the procedure undesirable. Therefore, the following design proposes a dynamic, suture less, and graft less keratoprosthesis that will shorten surgery times for surgeons and reduce the cost of surgery for patients. It is designed to withstand the pressures of the eye and allows for a decreased corneal incision size of 3mm. The KPro assumes a vertical conformation to provide surgical ease and changes shape to a horizontal conformation after implantation to keep the KPro secure in the eye. To achieve this design, it incorporates a polymer material that will provide optical clarity, strength, and flexibility. Our design allows for a shortened surgery time and a lower cost that will benefit both surgeons and patients, particularly in regions where donor eyes are not readily available. 
+
+
+Mechanical Devices
+
+
+ Orbital Mixer for Lab Beakers Kevin Ahn, Daniel Chan, Omar Guzman, Steven Vasquez Abstract: There has been several innovations that can achieve the mixing of fluids in a lab setting. Such products include the magnetic mixer and the vortex mixer. However, the magnetic mixer agitates the liquid inside and the vortex mixer is only restricted to test tubes. Our goal is to create a design that achieves the same task, but using a different and more efficient method. Our design is able to mix low-viscosity fluids in a beaker with a max volume of 100 mL with physical rotation of the beaker in multiple axis. To do this, our design will run with the use of one motor. A shaft that is connected to the motor will be responsible for rotating the beaker along one axis, while a gear mechanism connected to this shaft will be responsible for rotating the beaker along another axis. This will ensure proper mixing of the fluids inside the beaker, with an allowed maximum mixing time of two minutes. 
+
+
+Mechanical Processes
+
+
+ Improving DC Traction Motor Assembly Process Verne Caro, Jada Jamison, Eryk Sekiewicz Abstract: While no longer as prevalent in modern times, the locomotive is still used regularly by various industries to transport goods and as an alternative source of transportation. One of the main parts of the modern locomotive is the traction motor, which drives the motion of the train forward. The assembly of locomotive traction motors is a procedure done by hand at Progress Rail Services in East Chicago. The process is inherently dangerous in that technicians must crawl into a confined space underneath the motor as well as stand atop a table to install various components. The assembly process also requires the use of overhead cranes to install the armature of the motor and reposition the housing, creating a high demand for crane usage. The main goals of this project were to increase the safety of the technicians by reducing or eliminating crawling under the motor and standing on top of the table along with increasing overall productivity by reducing the dependence of overhead cranes. The design consists of an improved armature alignment method that eliminates the need for workers to be placed in danger and the use of heavy duty lift tables improves ergonomics during assembly. The mindset for this project was to provide a simplistic yet reliable solution to alleviate these issues while keeping cost and complexity at a minimum. 
+
+
+Mechanical Product I
+
+
+ Atmospheric Water Condenser Patrick Bailey, Daniel Budolak, Thomas Roe, Andrew Skoczylas, Shane Taylor Abstract: Access to clean water fit for human consumption is one of the most potent challenges today for a vast population across the globe. An estimated 1 billion people in developing nations do not have access to potable water. A significant barrier to accessing water is the fact that many areas are landlocked, and the current technologies (such as desalination, reverse osmosis) are expensive. Harvesting water from the atmosphere can be an alternate and viable method for obtaining clean water. This paper discusses the design of an atmospheric water condenser with the use of peltier coolers that are human powered. In this design, the electricity generated by pedaling a bicycle drives a generator that provides electricity to power the local subcooling of our water collector. The goal of this project is to create a working water condenser that improves upon existing passive water condensers that naturally collect water at night, allowing users to collect more water over an extended duration. Methods used for research and production of a prototype include ANSYS fluid and heat transfer simulations, as well as calculations of efficiency and power generated by various means, including cost analysis of different methods of generating power. A special non-wetting aluminum surface was also created that provides enhanced water collection through dropwise condensation. Our design is scalable, and can be transported to water starved regions, and has the potential to address the current challenge related to clean water access. 
+
+
+Mechanical Product II
+
+
+ UIC Motorsports Formula SAE Carbon Fiber Monocoque Jimmy Keclik, Alexander Knox, Andrew Lisak, Robert Miller Abstract: UIC Motorsports constructs a race car every year to compete in the Formula SAE competition. In the past, we have used a tubular space frame for the construction of its chassis. This method of manufacturing is time-consuming, both in the preparation of the tubing via notching and bending, as well as the welding of the tubing. This type of frame construction also has a high weight associated with it, which is undesirable in a racecar. By using carbon fiber sandwich panels with a PVC foam core in place of these tubes, weight is significantly decreased compared to steel tubing. This chassis is also safer for the driver in the event of an impact. A composite frame also requires less specialized labor and lends itself well to more automated manufacturing methods which reduce errors. Test panels are produced and tested to failure to validate these claims. 
+
+
+Optimization and Production 
+
+
+ ASHRAE Design Competition Ian Bonadeo, Brenden Jacobs, Jake Karl, Kevin Summers Abstract: The fundamental objective of HVAC design is to provide correctly sized heating, ventilation and air conditioning systems for a building. In designing an HVAC system, local building codes and machine efficiencies need to be properly specified in order to avoid sick building syndrome. In cities with heavy pollution, additional action must be taken to maintain adequate indoor air quality. Every effort should be made to provide a sustainable design taking into account energy efficiency, health and safety, occupant comfort, service and maintainability. Using owner supplied 2-D drawings of a two story office building based in Beijing, China, the heating and cooling loads were simulated using REVIT architectural software. The building facilitates functions that accommodate government operations and staff. An area of the building serves as the control center for primary medical and ambulance support on a 24-hour basis where an ambulance would be required to run periodically indoors throughout the day. Also, a computer server room with highly specific temperature and humidity requirements is housed in the main building. In order to accommodate this, a flex exhaust hose and split system was implemented. The building envelope was designed to meet the recommendations of ASHRAE 189.1. After several simulations using REVIT, an energy efficient HVAC system for the building was designed demonstrating compliance with the latest editions of ASHRAE Standards 55, 62.1, and 90.1. 
+
+
+Transportation 
+
+
+ Navy Pier Flyover – Phase 3 Rund Daoud, Rodrigo Moreno, Lindsay Purpura, Katarzyna Sitko Abstract: This project will focus on the layout and structural design of Phase 3 of the Navy Pier Flyover, an in-progress pedestrian bridge, in Chicago. The city of Chicago is well known for its many attractions, one being Navy Pier. This is one of the most popular tourist destinations in the Midwest. However, nearby there exists an 18-mile lakefront trail with at-grade roadway intersections, which create congestion and unavoidable pedestrian interaction with cars. Nearly 25,000 people use this trail regularly during the summer. The existing path on the Lake Shore Drive structure is dated and does not meet current demand nor current design standards. Although the existing path is a highly unique facility, the interaction between the trail users and vehicles approaching Navy Pier create dangerous conditions and make the trail difficult to access. One way to improve this trail is to separate the existing path from the roadway network by constructing an above grade pedestrian bridge over the multiple intersections. The solution identified by the Chicago Department of Transportation, called the Navy Pier Flyover, is to create a new, grade separated, non-motorized user facility from Ohio Street Beach south to DuSable Park. This is split into three phases. Phase 1 spans the congested intersections, phase 2 spans the Ogden Slip Canal, and phase 3 spans the Chicago River and ends in DuSable Park. In this project a moveable bridge will be designed to span the Chicago River and allow for the passing of sailboats from Lake Michigan. 
+
+
+Khounsary Award for Social and/or Environmental Advancement 
+
+
+ Household Air Quality Sensor Lucas Enright, Barry Ng, Tyler Parchem, Anthony Zaprzalka Abstract: When it comes to our homes there is no better feeling than feeling safe. Many homes have sensors to detect smoke, natural gas, and carbon monoxide. These devices are essential to a homeowner’s peace of mind and any buildup of smoke or other harmful gases would be hazardous to the residents. For example, many homes still use natural gas for their stoves, ovens, and heating. When a leak occurs even a small spark could be devastating to the home and anyone inside. While these devices are essential for every homeowner, they still lack the capabilities to detect other gases used in the home. The Household Air Quality Sensor is an all-in-one device that will record and display several air quality measurements. It removes the passive nature of these detectors and instead has the ability to be interactive and provide useful feedback. This detector continuously monitors temperature and humidity as well as the concentrations of carbon monoxide, natural gas, smoke and other gases throughout the home. An alarm and LED indicators will alert the residents of any harmful gas concentrations. All of this data can be accessed directly from the device where it will be logged and displayed on the LCD screen for the user to view. The data history can also be viewed with any home computer using the internal SD card. The Household Air Quality Sensor will save lives by alerting the residents of any threats to their safety. 
+
+
+Office of Technology Management Innovation Award 3K9A8574
+
+
+ Smart Plug Ramsin Adamz, Kamil Koziol, Brian Nielsen, Daniel Poarch Abstract: It is increasingly important for the consumer to intelligently manage power consumption and prevent energy waste in residential or commercial buildings. Unfortunately, the power management tools currently available are expensive, and do not provide effective feedback for power consumption and utilization across the local electric network. The tool we have designed has the potential to manage and monitor every device connected to the electric network of a home or an office building. Our “Smart Plug” system can coexist, or completely replace, the traditional outlets connected to the electric network and utilize a combination of hardware and software to analyze and control the electrical network. Current tools only monitor a few selective devices connected to the same outlet. One advantage of our system is that it integrates Near Field Communication (NFC) technology to enable device recognition. This permits efficient monitoring for Smart Plug-aware outlets and devices. The information collected by the outlets will be shared using narrow band communication technologies which operate over existing electrical wiring of the building. A central device located in or near the existing breaker panel can communicate with a consumer’s PC or mobile device to analyze power consumption. This allows the consumer to see real-time cost savings in their home or business. The central device can provide automation and switching capabilities to control and reduce power consumption throughout the entire residential or commercial power network. 
+
+
+
+
+
+UIC ENGINEERING EXPO ARCHIVE
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+Connect With Us 
+    
+
+Quick Links
+
+
+
+
+
+ Make a Gift
+Resources
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+© Copyright 2018. The Board of Trustees of the University of Illinois | Privacy Statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,60 @@
+
+
+
+Graduation Rules for PhD and MS students
+My requirements
+
+Your report, dissertation, or any writing must be free
+	of typos and well structured. I will not read anything that does not fit these conditions. If you need help, hire a
+	copy editor. Here is a simple tip that is often forgotten: turn on the spell checker of word, powerpoint, or any
+	text editor you are using. (For a partial list of writing requirements check below).
+For anything that is longer than 2 pages or 3 powerpoint slides, you must give
+	me at least 2 weeks to allow me
+	enough time to give you my comments on it. 
+All the code, documentation, and other requirements must be also part of the
+	final draft. 
+If your report, dissertation, or any writing must be accepted by other faculty
+	members, it must be:
+
+Accepted by me.
+Given to the other people at least 2
+		weeks in advance of the time by which they need to give you feedback on
+		that document.
+
+Please remember that the committee is under no pressure
+	to graduate you, therefore, if your work is not up to the required standards,
+	then your work will not be approved no matter what the official deadline is.
+
+
+School and Department requirements
+
+Make sure you check with Santhi Nannapaneni (Assistant Director for Student Affairs), at santhi @ cs.uic.edu, 905 SEO, 312.996.2290
+	for deadlines, both written and unwritten.
+	Given past experience, if the deadline for MS graduation is, say, October 30, then usually the last day for the
+	defense should be at least two weeks
+	ahead of that deadline (October 16), if there are no major changes required
+	by the committee. If there are, then you would only be able to graduate
+	the following semester. If you must graduate by a certain date, your defense would have to take place at least four weeks before the official deadline
+	to hopefully give you enough time to make the changes and give time for the committee to approve the new version
+	of your document (see also 5. above).
+	
+Please note that the time to file the finished thesis with the graduate school
+	takes at least 2-3 days. 
+
+
+Partial list of formatting
+instructions (this list is under construction!)
+
+All formatting requirements of the graduate school should be followed.
+The bibliography should be properly formatted and only cited entries should be
+	included. Use BibTeX ! 
+All figures should be mentioned and referenced in the text.
+Read and follow the URL compiled by Renée Miller on Computer Science Writing.  Pay attention to the
+	use of that
+	vs.
+	which (I do pay attention to this distinction, and
+	so should you).
+PhD theses should be typed using LaTeX (no exceptions). Other documents should
+	also be typed in LaTeX, unless you were given permission not to do so.
+
+
